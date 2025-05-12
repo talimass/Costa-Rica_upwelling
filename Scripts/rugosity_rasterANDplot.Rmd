@@ -1,0 +1,99 @@
+---
+title: "Dar_complexity"
+author: "Ole"
+date: "2025-05-12"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+```{r}
+library(raster)
+library(terra)
+library(dplyr)
+library(sf)
+library(ggplot2)
+
+```
+#STEP 1: Load your DEM
+this is the .tif file
+
+```{r}
+# Load bathymetry raster using rast function from terra
+
+bathy <- rast("paste the full directory of the tif file including .tif") 
+
+```
+
+#STEP 2: Caluclate the rugosity using slope surface
+```{r}
+
+# Compute surface area using terrain slope
+slope <- terrain(bathy, v = "slope", unit = "radians")
+
+# Cell resolution
+res_x <- res(bathy)[1]
+res_y <- res(bathy)[2]
+
+# Compute surface area of each cell using slope
+surface_area <- res_x * res_y / cos(slope)
+
+# Compute rugosity (surface area / planar area)
+planar_area <- res_x * res_y
+
+rugosity <- surface_area / planar_area
+
+#Save the rugosity raster of your area. PS: Paste your folder instead of the one below
+writeRaster(rugosity,"C:/Users/USER/OneDrive - University of Haifa/PhD/Projects/Dar_rugos/complexity_rasters/rugosity.tif")
+
+```
+
+#STEP 3: caluclate mean and sd values 
+
+```{r}
+#Get the values of the rugosity raster
+vals <- values(rugosity, na.rm = TRUE)
+
+# Sample a number of values, as the total  raster is biiiig. You can change this number if you have to.
+n <- min(1000000, length(vals))
+sampled_vals <- sample(vals, n)
+
+# Create a data frame
+df <- data.frame(rugosity = sampled_vals)
+
+# Calculate mean and standard deviation
+mean_rugosity <- mean(df$rugosity, na.rm = TRUE)
+sd_rugosity <- sd(df$rugosity, na.rm = TRUE)
+
+```
+
+#STEP 4: Plot the histogram of the rugosity
+
+ PS:   *COPY THIS CODE AND RUN IT IN THE CONSOLE BELOW IF IT DOESNT PRODUCE A PLOT*
+ 
+```{r}
+
+# Plot with mean ± SD, 
+ggplot(df, aes(x = rugosity)) +
+geom_histogram(binwidth = 0.05, fill = "steelblue", color = "white", boundary = 0) +
+  scale_x_continuous(limits = c(1, 4)) +
+  labs(
+    title = "PAPA-1 Rugosity",
+    x = "Rugosity (Surface / Planar Area)",
+    y = "Frequency"
+  ) +
+  annotate(
+    "text", x = 2.5, y = 45000,
+    label = paste("Mean ± SD: ", round(mean_rugosity, 2), " ± ", round(sd_rugosity, 2)),
+    color = "blue", size = 5, hjust = 0
+  ) +
+  theme_minimal(base_size = 14)
+```
+
+
+
+
+
