@@ -1,0 +1,3287 @@
+PIC,SITE,TRANSACT,GROUP,LABEL,Live_Non_live,Count
+1,Papagayo,1,Algae,Turf algae,Live,88
+1,Papagayo,1,CCA,Red CCA,Live,8
+2,Papagayo,1,Algae,Turf algae,Live,52
+2,Papagayo,1,CCA,Pink CCA,Live,16
+2,Papagayo,1,Hard Coral,Pocillopora effusa,Live,20
+2,Papagayo,1,Substrate,Gravel,Non-live,8
+3,Papagayo,1,Algae,Turf algae,Live,48
+3,Papagayo,1,CCA,Pink CCA,Live,4
+3,Papagayo,1,CCA,Red CCA,Live,8
+3,Papagayo,1,Hard Coral,Pocillopora effusa,Live,32
+3,Papagayo,1,Substrate,Sand,Non-live,4
+4,Papagayo,1,Algae,Turf algae,Live,52
+4,Papagayo,1,CCA,Pink CCA,Live,28
+4,Papagayo,1,CCA,Red CCA,Live,4
+4,Papagayo,1,Diadema,Diadema sp,Live,4
+4,Papagayo,1,Hard Coral,Pocillopora effusa,Live,12
+5,Papagayo,1,Algae,Turf algae,Live,40
+5,Papagayo,1,CCA,Pink CCA,Live,20
+5,Papagayo,1,CCA,Red CCA,Live,8
+5,Papagayo,1,Hard Coral,Pocillopora effusa,Live,28
+5,Papagayo,1,Substrate,Sand,Non-live,4
+6,Papagayo,1,Algae,Galaxaura,Live,4
+6,Papagayo,1,Algae,Turf algae,Live,64
+6,Papagayo,1,CCA,Pink CCA,Live,24
+6,Papagayo,1,CCA,Red CCA,Live,4
+6,Papagayo,1,Substrate,Gravel,Non-live,4
+7,Papagayo,1,Algae,Turf algae,Live,56
+7,Papagayo,1,CCA,Pink CCA,Live,24
+7,Papagayo,1,CCA,White CCA,Live,4
+7,Papagayo,1,Hard Coral,Pocillopora effusa,Live,16
+8,Papagayo,1,Algae,Turf algae,Live,16
+8,Papagayo,1,CCA,Pink CCA,Live,48
+8,Papagayo,1,CCA,Red CCA,Live,8
+8,Papagayo,1,CCA,White CCA,Live,4
+8,Papagayo,1,Diadema,Diadema sp,Live,4
+8,Papagayo,1,Hard Coral,Pocillopora effusa,Live,20
+9,Papagayo,1,Algae,Turf algae,Live,20
+9,Papagayo,1,CCA,Pink CCA,Live,60
+9,Papagayo,1,CCA,Red CCA,Live,4
+9,Papagayo,1,Diadema,Diadema sp,Live,4
+9,Papagayo,1,Hard Coral,Pocillopora effusa,Live,8
+9,Papagayo,1,Substrate,Gravel,Non-live,4
+10,Papagayo,1,Algae,Galaxaura,Live,8
+10,Papagayo,1,Algae,Turf algae,Live,28
+10,Papagayo,1,CCA,Pink CCA,Live,8
+10,Papagayo,1,CCA,Red CCA,Live,20
+10,Papagayo,1,Sponge,Sponge,Non-live,32
+10,Papagayo,1,Substrate,Rock,Non-live,4
+11,Papagayo,1,Algae,Turf algae,Live,48
+11,Papagayo,1,CCA,Pink CCA,Live,12
+11,Papagayo,1,CCA,Red CCA,Live,8
+11,Papagayo,1,CCA,White CCA,Live,4
+11,Papagayo,1,Hard Coral,Pocillopora effusa,Live,24
+11,Papagayo,1,Substrate,Gravel,Non-live,4
+12,Papagayo,1,Algae,Turf algae,Live,20
+12,Papagayo,1,CCA,Pink CCA,Live,44
+12,Papagayo,1,CCA,Red CCA,Live,8
+12,Papagayo,1,Diadema,Diadema sp,Live,4
+12,Papagayo,1,Hard Coral,Pocillopora effusa,Live,16
+13,Papagayo,1,Algae,Turf algae,Live,60
+13,Papagayo,1,CCA,Pink CCA,Live,8
+13,Papagayo,1,CCA,Red CCA,Live,4
+13,Papagayo,1,Hard Coral,Pocillopora effusa,Live,16
+13,Papagayo,1,Substrate,Sand,Non-live,4
+14,Papagayo,1,Algae,Turf algae,Live,32
+14,Papagayo,1,CCA,Pink CCA,Live,48
+14,Papagayo,1,Hard Coral,Pocillopora effusa,Live,4
+14,Papagayo,1,Substrate,Gravel,Non-live,12
+15,Papagayo,1,Algae,Turf algae,Live,84
+15,Papagayo,1,CCA,Pink CCA,Live,4
+15,Papagayo,1,CCA,Red CCA,Live,8
+16,Papagayo,1,Algae,Turf algae,Live,84
+16,Papagayo,1,CCA,Pink CCA,Live,8
+16,Papagayo,1,Hard Coral,Porites lobata,Live,8
+17,Papagayo,1,Algae,Turf algae,Live,60
+17,Papagayo,1,CCA,Pink CCA,Live,8
+17,Papagayo,1,CCA,Red CCA,Live,4
+17,Papagayo,1,CCA,White CCA,Live,4
+17,Papagayo,1,Hard Coral,Pocillopora effusa,Live,24
+18,Papagayo,1,Algae,Turf algae,Live,16
+18,Papagayo,1,CCA,Pink CCA,Live,44
+18,Papagayo,1,CCA,White CCA,Live,12
+18,Papagayo,1,Diadema,Diadema sp,Live,4
+18,Papagayo,1,Hard Coral,Pocillopora effusa,Live,20
+18,Papagayo,1,Substrate,Sand,Non-live,4
+19,Papagayo,1,Algae,Turf algae,Live,8
+19,Papagayo,1,CCA,Pink CCA,Live,40
+19,Papagayo,1,CCA,White CCA,Live,8
+19,Papagayo,1,Diadema,Diadema sp,Live,4
+19,Papagayo,1,Hard Coral,Pocillopora effusa,Live,24
+19,Papagayo,1,Substrate,Gravel,Non-live,12
+20,Papagayo,1,Algae,Turf algae,Live,24
+20,Papagayo,1,CCA,Pink CCA,Live,40
+20,Papagayo,1,Diadema,Diadema sp,Live,8
+20,Papagayo,1,Hard Coral,Pocillopora effusa,Live,28
+21,Papagayo,1,Algae,Galaxaura,Live,4
+21,Papagayo,1,Algae,Jania,Live,4
+21,Papagayo,1,Algae,Turf algae,Live,60
+21,Papagayo,1,CCA,Pink CCA,Live,28
+21,Papagayo,1,CCA,Red CCA,Live,4
+22,Papagayo,1,Algae,Turf algae,Live,40
+22,Papagayo,1,CCA,Pink CCA,Live,32
+22,Papagayo,1,CCA,White CCA,Live,4
+22,Papagayo,1,Hard Coral,Pocillopora effusa,Live,24
+23,Papagayo,1,Algae,Jania,Live,4
+23,Papagayo,1,Algae,Turf algae,Live,68
+23,Papagayo,1,Ascidian,Ascidian (solitary),Live,4
+23,Papagayo,1,CCA,Pink CCA,Live,16
+23,Papagayo,1,CCA,Red CCA,Live,8
+24,Papagayo,1,Algae,Turf algae,Live,64
+24,Papagayo,1,CCA,Pink CCA,Live,8
+24,Papagayo,1,CCA,White CCA,Live,4
+24,Papagayo,1,Hard Coral,Pocillopora effusa,Live,24
+25,Papagayo,1,Algae,Turf algae,Live,16
+25,Papagayo,1,CCA,Pink CCA,Live,44
+25,Papagayo,1,CCA,Red CCA,Live,28
+25,Papagayo,1,Sponge,Sponge,Non-live,4
+25,Papagayo,1,Substrate,Rock,Non-live,4
+26,Papagayo,1,Algae,Turf algae,Live,48
+26,Papagayo,1,CCA,Pink CCA,Live,12
+26,Papagayo,1,CCA,Red CCA,Live,24
+26,Papagayo,1,Sponge,Sponge,Non-live,8
+27,Papagayo,1,CCA,Pink CCA,Live,44
+27,Papagayo,1,CCA,White CCA,Live,4
+27,Papagayo,1,Diadema,Diadema sp,Live,8
+27,Papagayo,1,Hard Coral,Pocillopora effusa,Live,44
+28,Papagayo,1,Algae,Turf algae,Live,20
+28,Papagayo,1,CCA,Pink CCA,Live,72
+28,Papagayo,1,CCA,Red CCA,Live,8
+29,Papagayo,1,Algae,Turf algae,Live,52
+29,Papagayo,1,CCA,Pink CCA,Live,8
+29,Papagayo,1,CCA,Red CCA,Live,4
+29,Papagayo,1,CCA,White CCA,Live,4
+29,Papagayo,1,Hard Coral,Pocillopora effusa,Live,24
+29,Papagayo,1,Sponge,Sponge,Non-live,4
+29,Papagayo,1,Substrate,Gravel,Non-live,4
+30,Papagayo,1,Algae,Turf algae,Live,12
+30,Papagayo,1,CCA,Pink CCA,Live,72
+30,Papagayo,1,CCA,Red CCA,Live,8
+30,Papagayo,1,CCA,White CCA,Live,4
+30,Papagayo,1,Substrate,Rock,Non-live,4
+31,Papagayo,1,Algae,Turf algae,Live,40
+31,Papagayo,1,CCA,Pink CCA,Live,8
+31,Papagayo,1,CCA,Red CCA,Live,4
+31,Papagayo,1,CCA,White CCA,Live,8
+31,Papagayo,1,Hard Coral,Pocillopora effusa,Live,32
+31,Papagayo,1,Sponge,Sponge,Non-live,4
+32,Papagayo,1,Algae,Turf algae,Live,44
+32,Papagayo,1,CCA,Pink CCA,Live,28
+32,Papagayo,1,CCA,Red CCA,Live,8
+32,Papagayo,1,Hard Coral,Pocillopora effusa,Live,20
+33,Papagayo,1,Algae,Turf algae,Live,52
+33,Papagayo,1,CCA,Pink CCA,Live,16
+33,Papagayo,1,CCA,Red CCA,Live,8
+33,Papagayo,1,Hard Coral,Pocillopora effusa,Live,20
+34,Papagayo,1,Algae,Turf algae,Live,68
+34,Papagayo,1,CCA,Pink CCA,Live,28
+35,Papagayo,1,Algae,Turf algae,Live,64
+35,Papagayo,1,CCA,Pink CCA,Live,20
+35,Papagayo,1,CCA,Red CCA,Live,4
+35,Papagayo,1,Diadema,Diadema sp,Live,8
+35,Papagayo,1,Substrate,Sand,Non-live,4
+36,Papagayo,1,Algae,Turf algae,Live,32
+36,Papagayo,1,CCA,Pink CCA,Live,20
+36,Papagayo,1,Hard Coral,Pocillopora effusa,Live,44
+37,Papagayo,1,Algae,Turf algae,Live,28
+37,Papagayo,1,CCA,Pink CCA,Live,36
+37,Papagayo,1,CCA,White CCA,Live,12
+37,Papagayo,1,Hard Coral,Pocillopora effusa,Live,16
+38,Papagayo,1,Algae,Turf algae,Live,8
+38,Papagayo,1,CCA,Pink CCA,Live,44
+38,Papagayo,1,CCA,Red CCA,Live,4
+38,Papagayo,1,CCA,White CCA,Live,8
+38,Papagayo,1,Hard Coral,Pocillopora effusa,Live,32
+39,Papagayo,1,Algae,Turf algae,Live,52
+39,Papagayo,1,Ascidian,Ascidian (solitary),Live,4
+39,Papagayo,1,CCA,Pink CCA,Live,28
+39,Papagayo,1,CCA,Red CCA,Live,12
+40,Papagayo,1,Algae,Turf algae,Live,40
+40,Papagayo,1,CCA,Pink CCA,Live,4
+40,Papagayo,1,CCA,Red CCA,Live,4
+40,Papagayo,1,CCA,White CCA,Live,8
+40,Papagayo,1,Hard Coral,Pocillopora effusa,Live,40
+41,Papagayo,1,Algae,Turf algae,Live,12
+41,Papagayo,1,CCA,Pink CCA,Live,80
+41,Papagayo,1,CCA,Red CCA,Live,4
+41,Papagayo,1,Diadema,Diadema sp,Live,4
+42,Papagayo,1,Algae,Turf algae,Live,20
+42,Papagayo,1,CCA,Pink CCA,Live,44
+42,Papagayo,1,CCA,Red CCA,Live,4
+42,Papagayo,1,CCA,White CCA,Live,4
+42,Papagayo,1,Hard Coral,Pocillopora effusa,Live,24
+43,Papagayo,1,Algae,Turf algae,Live,48
+43,Papagayo,1,CCA,Pink CCA,Live,36
+43,Papagayo,1,CCA,White CCA,Live,4
+43,Papagayo,1,Hard Coral,Pocillopora effusa,Live,12
+44,Papagayo,1,Algae,Turf algae,Live,36
+44,Papagayo,1,CCA,Pink CCA,Live,40
+44,Papagayo,1,CCA,Red CCA,Live,16
+44,Papagayo,1,Substrate,Gravel,Non-live,4
+45,Papagayo,1,Algae,Turf algae,Live,84
+45,Papagayo,1,CCA,Pink CCA,Live,8
+45,Papagayo,1,Substrate,Gravel,Non-live,8
+46,Papagayo,1,Algae,Turf algae,Live,36
+46,Papagayo,1,CCA,Pink CCA,Live,28
+46,Papagayo,1,CCA,Red CCA,Live,4
+46,Papagayo,1,Hard Coral,Pocillopora effusa,Live,28
+47,Papagayo,1,Algae,Turf algae,Live,80
+47,Papagayo,1,CCA,Pink CCA,Live,8
+47,Papagayo,1,CCA,White CCA,Live,4
+47,Papagayo,1,Hard Coral,Pocillopora effusa,Live,4
+47,Papagayo,1,Substrate,Sand,Non-live,4
+48,Papagayo,1,Algae,Turf algae,Live,40
+48,Papagayo,1,CCA,Pink CCA,Live,24
+48,Papagayo,1,CCA,White CCA,Live,4
+48,Papagayo,1,Hard Coral,Pocillopora effusa,Live,28
+49,Papagayo,1,Algae,Turf algae,Live,48
+49,Papagayo,1,CCA,Pink CCA,Live,44
+49,Papagayo,1,CCA,Red CCA,Live,4
+49,Papagayo,1,Substrate,Gravel,Non-live,4
+50,Papagayo,1,Algae,Turf algae,Live,16
+50,Papagayo,1,CCA,Pink CCA,Live,40
+50,Papagayo,1,CCA,Red CCA,Live,8
+50,Papagayo,1,CCA,White CCA,Live,4
+50,Papagayo,1,Hard Coral,Pocillopora effusa,Live,32
+51,Papagayo,1,Algae,Turf algae,Live,12
+51,Papagayo,1,CCA,Pink CCA,Live,64
+51,Papagayo,1,CCA,Red CCA,Live,4
+51,Papagayo,1,CCA,White CCA,Live,8
+51,Papagayo,1,Diadema,Diadema sp,Live,8
+51,Papagayo,1,Hard Coral,Pocillopora effusa,Live,4
+52,Papagayo,1,Algae,Turf algae,Live,16
+52,Papagayo,1,CCA,Pink CCA,Live,56
+52,Papagayo,1,CCA,Red CCA,Live,4
+52,Papagayo,1,Diadema,Diadema sp,Live,4
+52,Papagayo,1,Hard Coral,Pocillopora effusa,Live,20
+53,Papagayo,1,Algae,Turf algae,Live,20
+53,Papagayo,1,CCA,Pink CCA,Live,72
+53,Papagayo,1,Soft Coral,Soft Coral,Non-live,8
+54,Papagayo,1,Algae,Turf algae,Live,20
+54,Papagayo,1,CCA,Pink CCA,Live,28
+54,Papagayo,1,CCA,Red CCA,Live,4
+54,Papagayo,1,CCA,White CCA,Live,32
+54,Papagayo,1,Diadema,Diadema sp,Live,4
+54,Papagayo,1,Soft Coral,Soft Coral,Non-live,8
+54,Papagayo,1,Sponge,Sponge,Non-live,4
+55,Papagayo,1,Algae,Turf algae,Live,48
+55,Papagayo,1,CCA,Pink CCA,Live,28
+55,Papagayo,1,CCA,Red CCA,Live,20
+56,Papagayo,1,Algae,Turf algae,Live,48
+56,Papagayo,1,CCA,Pink CCA,Live,20
+56,Papagayo,1,CCA,White CCA,Live,4
+56,Papagayo,1,Diadema,Diadema sp,Live,8
+56,Papagayo,1,Hard Coral,Pocillopora effusa,Live,20
+57,Papagayo,1,Algae,Turf algae,Live,44
+57,Papagayo,1,CCA,Pink CCA,Live,28
+57,Papagayo,1,Hard Coral,Pocillopora effusa,Live,28
+58,Papagayo,1,Algae,Turf algae,Live,56
+58,Papagayo,1,CCA,Pink CCA,Live,36
+58,Papagayo,1,CCA,Red CCA,Live,4
+59,Papagayo,1,Algae,Turf algae,Live,28
+59,Papagayo,1,CCA,Pink CCA,Live,44
+59,Papagayo,1,CCA,Red CCA,Live,12
+59,Papagayo,1,Hard Coral,Pocillopora effusa,Live,16
+60,Papagayo,1,Algae,Turf algae,Live,48
+60,Papagayo,1,Ascidian,Ascidian (solitary),Live,4
+60,Papagayo,1,CCA,Pink CCA,Live,20
+60,Papagayo,1,CCA,Red CCA,Live,8
+60,Papagayo,1,Hard Coral,Pocillopora effusa,Live,12
+60,Papagayo,1,Sponge,Sponge,Non-live,4
+61,Papagayo,1,Algae,Turf algae,Live,48
+61,Papagayo,1,CCA,Pink CCA,Live,40
+61,Papagayo,1,CCA,Red CCA,Live,4
+61,Papagayo,1,CCA,White CCA,Live,4
+61,Papagayo,1,Diadema,Diadema sp,Live,4
+62,Papagayo,1,CCA,Pink CCA,Live,48
+62,Papagayo,1,CCA,White CCA,Live,44
+62,Papagayo,1,Diadema,Diadema sp,Live,4
+63,Papagayo,1,Algae,Turf algae,Live,8
+63,Papagayo,1,CCA,Pink CCA,Live,60
+63,Papagayo,1,CCA,White CCA,Live,28
+63,Papagayo,1,Hard Coral,Porites lobata,Live,4
+64,Papagayo,1,Algae,Turf algae,Live,12
+64,Papagayo,1,CCA,Pink CCA,Live,36
+64,Papagayo,1,CCA,White CCA,Live,44
+64,Papagayo,1,Diadema,Diadema sp,Live,8
+65,Papagayo,1,CCA,Pink CCA,Live,80
+65,Papagayo,1,CCA,White CCA,Live,4
+65,Papagayo,1,Diadema,Diadema sp,Live,16
+66,Papagayo,1,CCA,Pink CCA,Live,68
+66,Papagayo,1,CCA,White CCA,Live,12
+66,Papagayo,1,Diadema,Diadema sp,Live,12
+67,Papagayo,1,Algae,Turf algae,Live,40
+67,Papagayo,1,CCA,Pink CCA,Live,48
+67,Papagayo,1,Diadema,Diadema sp,Live,8
+67,Papagayo,1,Hard Coral,Pocillopora effusa,Live,4
+68,Papagayo,1,Algae,Turf algae,Live,20
+68,Papagayo,1,CCA,Pink CCA,Live,24
+68,Papagayo,1,CCA,Red CCA,Live,8
+68,Papagayo,1,CCA,White CCA,Live,12
+68,Papagayo,1,Diadema,Diadema sp,Live,4
+68,Papagayo,1,Hard Coral,Pocillopora effusa,Live,28
+69,Papagayo,1,Algae,Turf algae,Live,48
+69,Papagayo,1,CCA,Pink CCA,Live,44
+69,Papagayo,1,CCA,Red CCA,Live,4
+69,Papagayo,1,Diadema,Diadema sp,Live,4
+70,Papagayo,1,Algae,Turf algae,Live,44
+70,Papagayo,1,CCA,Pink CCA,Live,48
+70,Papagayo,1,CCA,Red CCA,Live,8
+71,Papagayo,1,Algae,Turf algae,Live,16
+71,Papagayo,1,CCA,Pink CCA,Live,60
+71,Papagayo,1,CCA,Red CCA,Live,4
+71,Papagayo,1,CCA,White CCA,Live,12
+71,Papagayo,1,Diadema,Diadema sp,Live,8
+72,Papagayo,1,Algae,Turf algae,Live,24
+72,Papagayo,1,CCA,Pink CCA,Live,48
+72,Papagayo,1,CCA,Red CCA,Live,4
+72,Papagayo,1,CCA,White CCA,Live,4
+72,Papagayo,1,Hard Coral,Pocillopora effusa,Live,16
+73,Papagayo,1,Algae,Turf algae,Live,20
+73,Papagayo,1,CCA,Pink CCA,Live,72
+73,Papagayo,1,CCA,White CCA,Live,4
+74,Papagayo,1,Algae,Turf algae,Live,8
+74,Papagayo,1,CCA,Pink CCA,Live,72
+74,Papagayo,1,CCA,Red CCA,Live,4
+74,Papagayo,1,CCA,White CCA,Live,12
+74,Papagayo,1,Diadema,Diadema sp,Live,4
+75,Papagayo,1,Algae,Turf algae,Live,4
+75,Papagayo,1,CCA,Pink CCA,Live,56
+75,Papagayo,1,CCA,White CCA,Live,16
+75,Papagayo,1,Hard Coral,Pocillopora effusa,Live,24
+76,Papagayo,1,CCA,Pink CCA,Live,40
+76,Papagayo,1,CCA,White CCA,Live,20
+76,Papagayo,1,Diadema,Diadema sp,Live,36
+77,Papagayo,1,CCA,Pink CCA,Live,64
+77,Papagayo,1,CCA,Red CCA,Live,4
+77,Papagayo,1,CCA,White CCA,Live,20
+77,Papagayo,1,Diadema,Diadema sp,Live,12
+78,Papagayo,1,Algae,Turf algae,Live,52
+78,Papagayo,1,CCA,Pink CCA,Live,36
+78,Papagayo,1,CCA,White CCA,Live,12
+79,Papagayo,1,Algae,Turf algae,Live,52
+79,Papagayo,1,CCA,Pink CCA,Live,28
+79,Papagayo,1,CCA,Red CCA,Live,4
+79,Papagayo,1,CCA,White CCA,Live,8
+79,Papagayo,1,Diadema,Diadema sp,Live,4
+80,Papagayo,1,Algae,Turf algae,Live,16
+80,Papagayo,1,CCA,Pink CCA,Live,56
+80,Papagayo,1,CCA,Red CCA,Live,8
+80,Papagayo,1,CCA,White CCA,Live,8
+80,Papagayo,1,Diadema,Diadema sp,Live,8
+80,Papagayo,1,Hard Coral,Pocillopora effusa,Live,4
+81,Papagayo,1,Algae,Turf algae,Live,32
+81,Papagayo,1,CCA,Pink CCA,Live,52
+81,Papagayo,1,CCA,Red CCA,Live,8
+81,Papagayo,1,CCA,White CCA,Live,4
+81,Papagayo,1,Diadema,Diadema sp,Live,4
+82,Papagayo,1,Algae,Turf algae,Live,60
+82,Papagayo,1,CCA,Pink CCA,Live,40
+83,Papagayo,1,Algae,Turf algae,Live,72
+83,Papagayo,1,CCA,Pink CCA,Live,20
+83,Papagayo,1,CCA,Red CCA,Live,4
+83,Papagayo,1,CCA,White CCA,Live,4
+84,Papagayo,1,Algae,Turf algae,Live,92
+84,Papagayo,1,CCA,Pink CCA,Live,4
+84,Papagayo,1,CCA,White CCA,Live,4
+85,Papagayo,1,Algae,Turf algae,Live,52
+85,Papagayo,1,CCA,Pink CCA,Live,48
+86,Papagayo,1,Algae,Turf algae,Live,16
+86,Papagayo,1,CCA,Pink CCA,Live,64
+86,Papagayo,1,CCA,White CCA,Live,4
+86,Papagayo,1,Diadema,Diadema sp,Live,4
+86,Papagayo,1,Hard Coral,Pocillopora effusa,Live,8
+87,Papagayo,1,Algae,Turf algae,Live,16
+87,Papagayo,1,CCA,Pink CCA,Live,68
+87,Papagayo,1,CCA,White CCA,Live,8
+87,Papagayo,1,Diadema,Diadema sp,Live,4
+87,Papagayo,1,Soft Coral,Soft Coral,Non-live,4
+88,Papagayo,1,Algae,Turf algae,Live,8
+88,Papagayo,1,CCA,Pink CCA,Live,68
+88,Papagayo,1,CCA,White CCA,Live,12
+88,Papagayo,1,Hard Coral,Pocillopora effusa,Live,12
+89,Papagayo,1,Algae,Turf algae,Live,4
+89,Papagayo,1,CCA,Pink CCA,Live,72
+89,Papagayo,1,CCA,White CCA,Live,16
+89,Papagayo,1,Diadema,Diadema sp,Live,8
+90,Papagayo,1,CCA,Pink CCA,Live,28
+90,Papagayo,1,CCA,White CCA,Live,28
+90,Papagayo,1,Diadema,Diadema sp,Live,12
+90,Papagayo,1,Hard Coral,Pocillopora effusa,Live,32
+91,Papagayo,2,Algae,Turf algae,Live,44
+91,Papagayo,2,CCA,Pink CCA,Live,52
+91,Papagayo,2,Substrate,Gravel,Non-live,4
+92,Papagayo,2,Algae,Turf algae,Live,68
+92,Papagayo,2,CCA,Pink CCA,Live,28
+92,Papagayo,2,Diadema,Diadema sp,Live,4
+93,Papagayo,2,Algae,Turf algae,Live,36
+93,Papagayo,2,CCA,Pink CCA,Live,24
+93,Papagayo,2,CCA,White CCA,Live,4
+93,Papagayo,2,Diadema,Diadema sp,Live,4
+93,Papagayo,2,Substrate,Sand,Non-live,24
+93,Papagayo,2,Unknown,Unknown,Non-live,8
+94,Papagayo,2,Algae,Turf algae,Live,64
+94,Papagayo,2,CCA,Pink CCA,Live,24
+94,Papagayo,2,Hard Coral,Pocillopora effusa,Live,12
+95,Papagayo,2,Algae,Turf algae,Live,28
+95,Papagayo,2,CCA,Pink CCA,Live,44
+95,Papagayo,2,Diadema,Diadema sp,Live,4
+95,Papagayo,2,Hard Coral,Pavona gigantea,Live,24
+96,Papagayo,2,Algae,Turf algae,Live,44
+96,Papagayo,2,CCA,Pink CCA,Live,40
+96,Papagayo,2,Hard Coral,Pavona gigantea,Live,12
+96,Papagayo,2,Substrate,Gravel,Non-live,4
+97,Papagayo,2,Algae,Turf algae,Live,64
+97,Papagayo,2,CCA,Pink CCA,Live,8
+97,Papagayo,2,CCA,White CCA,Live,4
+97,Papagayo,2,Hard Coral,Porites lobata,Live,24
+98,Papagayo,2,Algae,Turf algae,Live,88
+98,Papagayo,2,CCA,Pink CCA,Live,4
+98,Papagayo,2,Substrate,Gravel,Non-live,4
+98,Papagayo,2,Substrate,Sand,Non-live,4
+99,Papagayo,2,Algae,Turf algae,Live,84
+99,Papagayo,2,CCA,Pink CCA,Live,4
+99,Papagayo,2,Hard Coral,Pocillopora effusa,Live,8
+99,Papagayo,2,Substrate,Sand,Non-live,4
+100,Papagayo,2,Algae,Turf algae,Live,84
+100,Papagayo,2,CCA,Pink CCA,Live,8
+100,Papagayo,2,Hard Coral,Psammocora stellata,Live,4
+100,Papagayo,2,Substrate,Sand,Non-live,4
+101,Papagayo,2,Algae,Turf algae,Live,52
+101,Papagayo,2,CCA,Pink CCA,Live,16
+101,Papagayo,2,Diadema,Diadema sp,Live,4
+101,Papagayo,2,Hard Coral,Pocillopora effusa,Live,28
+102,Papagayo,2,Algae,Turf algae,Live,20
+102,Papagayo,2,CCA,Pink CCA,Live,76
+102,Papagayo,2,CCA,Red CCA,Live,4
+103,Papagayo,2,Algae,Turf algae,Live,40
+103,Papagayo,2,CCA,Pink CCA,Live,36
+103,Papagayo,2,CCA,Red CCA,Live,12
+103,Papagayo,2,Hard Coral,Pocillopora effusa,Live,12
+104,Papagayo,2,Algae,Turf algae,Live,44
+104,Papagayo,2,CCA,Pink CCA,Live,40
+104,Papagayo,2,CCA,White CCA,Live,4
+104,Papagayo,2,Diadema,Diadema sp,Live,12
+105,Papagayo,2,Algae,Turf algae,Live,56
+105,Papagayo,2,CCA,Pink CCA,Live,24
+105,Papagayo,2,CCA,White CCA,Live,4
+105,Papagayo,2,Hard Coral,Pocillopora effusa,Live,12
+106,Papagayo,2,Algae,Turf algae,Live,76
+106,Papagayo,2,CCA,Pink CCA,Live,12
+106,Papagayo,2,Diadema,Diadema sp,Live,4
+106,Papagayo,2,Substrate,Sand,Non-live,8
+107,Papagayo,2,Algae,Turf algae,Live,68
+107,Papagayo,2,CCA,Pink CCA,Live,4
+107,Papagayo,2,CCA,White CCA,Live,4
+107,Papagayo,2,Hard Coral,Pavona gigantea,Live,12
+107,Papagayo,2,Substrate,Sand,Non-live,12
+108,Papagayo,2,Algae,Turf algae,Live,84
+108,Papagayo,2,Substrate,Gravel,Non-live,8
+108,Papagayo,2,Substrate,Rock,Non-live,8
+109,Papagayo,2,Algae,Turf algae,Live,60
+109,Papagayo,2,Substrate,Gravel,Non-live,24
+109,Papagayo,2,Substrate,Rock,Non-live,4
+109,Papagayo,2,Substrate,Sand,Non-live,12
+110,Papagayo,2,Algae,Turf algae,Live,64
+110,Papagayo,2,CCA,Pink CCA,Live,20
+110,Papagayo,2,CCA,White CCA,Live,4
+110,Papagayo,2,Diadema,Diadema sp,Live,4
+110,Papagayo,2,Hard Coral,Pocillopora effusa,Live,8
+111,Papagayo,2,Algae,Turf algae,Live,52
+111,Papagayo,2,CCA,Pink CCA,Live,48
+112,Papagayo,2,Algae,Turf algae,Live,40
+112,Papagayo,2,CCA,Pink CCA,Live,4
+112,Papagayo,2,CCA,Red CCA,Live,4
+112,Papagayo,2,CCA,White CCA,Live,4
+112,Papagayo,2,Hard Coral,Pocillopora effusa,Live,48
+113,Papagayo,2,Algae,Turf algae,Live,40
+113,Papagayo,2,CCA,Pink CCA,Live,16
+113,Papagayo,2,CCA,White CCA,Live,4
+113,Papagayo,2,Hard Coral,Pocillopora effusa,Live,40
+114,Papagayo,2,Algae,Turf algae,Live,72
+114,Papagayo,2,CCA,Pink CCA,Live,24
+114,Papagayo,2,Diadema,Diadema sp,Live,4
+115,Papagayo,2,Algae,Turf algae,Live,44
+115,Papagayo,2,CCA,Pink CCA,Live,16
+115,Papagayo,2,CCA,Red CCA,Live,4
+115,Papagayo,2,Diadema,Diadema sp,Live,4
+115,Papagayo,2,Hard Coral,Pavona gigantea,Live,4
+115,Papagayo,2,Hard Coral,Pocillopora effusa,Live,12
+115,Papagayo,2,Substrate,Sand,Non-live,4
+116,Papagayo,2,Algae,Turf algae,Live,60
+116,Papagayo,2,CCA,Pink CCA,Live,20
+116,Papagayo,2,Hard Coral,Pavona gigantea,Live,8
+116,Papagayo,2,Substrate,Rock,Non-live,8
+116,Papagayo,2,Substrate,Sand,Non-live,4
+117,Papagayo,2,Algae,Turf algae,Live,92
+117,Papagayo,2,Substrate,Gravel,Non-live,4
+118,Papagayo,2,Algae,Turf algae,Live,64
+118,Papagayo,2,CCA,Pink CCA,Live,8
+118,Papagayo,2,Hard Coral,Pavona gigantea,Live,16
+118,Papagayo,2,Substrate,Sand,Non-live,4
+119,Papagayo,2,Algae,Turf algae,Live,80
+119,Papagayo,2,CCA,Pink CCA,Live,8
+119,Papagayo,2,Substrate,Sand,Non-live,8
+120,Papagayo,2,Algae,Turf algae,Live,92
+120,Papagayo,2,Substrate,Gravel,Non-live,4
+120,Papagayo,2,Substrate,Sand,Non-live,4
+121,Papagayo,2,Algae,Turf algae,Live,52
+121,Papagayo,2,CCA,Pink CCA,Live,4
+121,Papagayo,2,CCA,Red CCA,Live,4
+121,Papagayo,2,Hard Coral,Pocillopora effusa,Live,16
+121,Papagayo,2,Hard Coral,Porites lobata,Live,4
+121,Papagayo,2,Substrate,Gravel,Non-live,8
+121,Papagayo,2,Substrate,Sand,Non-live,12
+122,Papagayo,2,Algae,Turf algae,Live,76
+122,Papagayo,2,CCA,Pink CCA,Live,8
+122,Papagayo,2,Hard Coral,Psammocora stellata,Live,4
+122,Papagayo,2,Substrate,Sand,Non-live,12
+123,Papagayo,2,Algae,Caulerpa spp.,Live,8
+123,Papagayo,2,Algae,Turf algae,Live,68
+123,Papagayo,2,CCA,Pink CCA,Live,8
+123,Papagayo,2,Substrate,Sand,Non-live,16
+124,Papagayo,2,Algae,Turf algae,Live,100
+125,Papagayo,2,Algae,Turf algae,Live,80
+125,Papagayo,2,CCA,Pink CCA,Live,4
+125,Papagayo,2,Substrate,Gravel,Non-live,4
+125,Papagayo,2,Substrate,Sand,Non-live,12
+126,Papagayo,2,Algae,Turf algae,Live,56
+126,Papagayo,2,CCA,Pink CCA,Live,20
+126,Papagayo,2,Hard Coral,Pavona gigantea,Live,8
+126,Papagayo,2,Substrate,Gravel,Non-live,4
+126,Papagayo,2,Substrate,Sand,Non-live,4
+127,Papagayo,2,Algae,Turf algae,Live,16
+127,Papagayo,2,CCA,Pink CCA,Live,32
+127,Papagayo,2,CCA,White CCA,Live,4
+127,Papagayo,2,Diadema,Diadema sp,Live,4
+127,Papagayo,2,Hard Coral,Pavona gigantea,Live,40
+128,Papagayo,2,Algae,Turf algae,Live,56
+128,Papagayo,2,CCA,Pink CCA,Live,24
+128,Papagayo,2,CCA,Red CCA,Live,12
+128,Papagayo,2,Hard Coral,Psammocora stellata,Live,4
+129,Papagayo,2,Algae,Turf algae,Live,56
+129,Papagayo,2,CCA,Pink CCA,Live,40
+130,Papagayo,2,Algae,Turf algae,Live,20
+130,Papagayo,2,CCA,Pink CCA,Live,64
+130,Papagayo,2,Diadema,Diadema sp,Live,4
+130,Papagayo,2,Hard Coral,Pocillopora effusa,Live,8
+130,Papagayo,2,Substrate,Sand,Non-live,4
+131,Papagayo,2,Algae,Turf algae,Live,40
+131,Papagayo,2,CCA,Pink CCA,Live,48
+131,Papagayo,2,CCA,Red CCA,Live,4
+131,Papagayo,2,Diadema,Diadema sp,Live,4
+131,Papagayo,2,Hard Coral,Pavona gigantea,Live,4
+132,Papagayo,2,Algae,Turf algae,Live,44
+132,Papagayo,2,CCA,Pink CCA,Live,12
+132,Papagayo,2,CCA,White CCA,Live,4
+132,Papagayo,2,Hard Coral,Pavona gigantea,Live,8
+132,Papagayo,2,Hard Coral,Pocillopora effusa,Live,28
+133,Papagayo,2,Algae,Turf algae,Live,76
+133,Papagayo,2,CCA,Pink CCA,Live,16
+133,Papagayo,2,CCA,Red CCA,Live,4
+133,Papagayo,2,CCA,White CCA,Live,4
+134,Papagayo,2,Algae,Turf algae,Live,72
+134,Papagayo,2,CCA,Pink CCA,Live,12
+134,Papagayo,2,CCA,Red CCA,Live,16
+135,Papagayo,2,Algae,Turf algae,Live,68
+135,Papagayo,2,CCA,Pink CCA,Live,8
+135,Papagayo,2,Hard Coral,Pocillopora effusa,Live,8
+135,Papagayo,2,Substrate,Sand,Non-live,16
+136,Papagayo,2,Algae,Galaxaura,Live,4
+136,Papagayo,2,Algae,Turf algae,Live,68
+136,Papagayo,2,Ascidian,Ascidian (solitary),Live,4
+136,Papagayo,2,CCA,Pink CCA,Live,20
+136,Papagayo,2,Hard Coral,Porites lobata,Live,4
+137,Papagayo,2,Algae,Turf algae,Live,24
+137,Papagayo,2,CCA,Pink CCA,Live,12
+137,Papagayo,2,CCA,Red CCA,Live,8
+137,Papagayo,2,CCA,White CCA,Live,4
+137,Papagayo,2,Hard Coral,Porites lobata,Live,52
+138,Papagayo,2,Algae,Galaxaura,Live,4
+138,Papagayo,2,Algae,Turf algae,Live,36
+138,Papagayo,2,CCA,Pink CCA,Live,32
+138,Papagayo,2,Hard Coral,Pavona gigantea,Live,28
+139,Papagayo,2,Algae,Turf algae,Live,32
+139,Papagayo,2,CCA,Pink CCA,Live,28
+139,Papagayo,2,Hard Coral,Pavona gigantea,Live,20
+139,Papagayo,2,Hard Coral,Pocillopora effusa,Live,12
+139,Papagayo,2,Substrate,Sand,Non-live,4
+140,Papagayo,2,Algae,Turf algae,Live,60
+140,Papagayo,2,CCA,Pink CCA,Live,28
+140,Papagayo,2,CCA,White CCA,Live,4
+140,Papagayo,2,Hard Coral,Pocillopora effusa,Live,4
+140,Papagayo,2,Hard Coral,Psammocora stellata,Live,4
+141,Papagayo,2,Algae,Turf algae,Live,76
+141,Papagayo,2,CCA,Pink CCA,Live,12
+141,Papagayo,2,Diadema,Diadema sp,Live,4
+141,Papagayo,2,Hard Coral,Pocillopora effusa,Live,8
+142,Papagayo,2,Algae,Turf algae,Live,44
+142,Papagayo,2,CCA,Pink CCA,Live,32
+142,Papagayo,2,Diadema,Diadema sp,Live,4
+142,Papagayo,2,Hard Coral,Porites lobata,Live,20
+143,Papagayo,2,Algae,Turf algae,Live,36
+143,Papagayo,2,CCA,Pink CCA,Live,32
+143,Papagayo,2,CCA,White CCA,Live,8
+143,Papagayo,2,Diadema,Diadema sp,Live,4
+143,Papagayo,2,Hard Coral,Pavona gigantea,Live,8
+143,Papagayo,2,Hard Coral,Psammocora stellata,Live,4
+144,Papagayo,2,Algae,Turf algae,Live,56
+144,Papagayo,2,CCA,Pink CCA,Live,32
+144,Papagayo,2,CCA,White CCA,Live,4
+144,Papagayo,2,Hard Coral,Psammocora stellata,Live,4
+144,Papagayo,2,Substrate,Sand,Non-live,4
+145,Papagayo,2,Algae,Turf algae,Live,40
+145,Papagayo,2,CCA,Pink CCA,Live,40
+145,Papagayo,2,CCA,White CCA,Live,4
+145,Papagayo,2,Hard Coral,Psammocora stellata,Live,12
+146,Papagayo,2,Algae,Turf algae,Live,32
+146,Papagayo,2,CCA,Pink CCA,Live,36
+146,Papagayo,2,CCA,Red CCA,Live,4
+146,Papagayo,2,CCA,White CCA,Live,4
+146,Papagayo,2,Diadema,Diadema sp,Live,4
+146,Papagayo,2,Hard Coral,Porites lobata,Live,16
+146,Papagayo,2,Substrate,Gravel,Non-live,4
+147,Papagayo,2,Algae,Turf algae,Live,12
+147,Papagayo,2,CCA,Pink CCA,Live,76
+147,Papagayo,2,CCA,Red CCA,Live,4
+147,Papagayo,2,Diadema,Diadema sp,Live,8
+148,Papagayo,2,Algae,Turf algae,Live,28
+148,Papagayo,2,CCA,Pink CCA,Live,20
+148,Papagayo,2,CCA,Red CCA,Live,4
+148,Papagayo,2,Diadema,Diadema sp,Live,4
+148,Papagayo,2,Hard Coral,Pavona gigantea,Live,44
+149,Papagayo,2,Algae,Turf algae,Live,12
+149,Papagayo,2,CCA,Pink CCA,Live,28
+149,Papagayo,2,Diadema,Diadema sp,Live,8
+149,Papagayo,2,Hard Coral,Porites lobata,Live,40
+150,Papagayo,2,Algae,Turf algae,Live,68
+150,Papagayo,2,CCA,Pink CCA,Live,8
+150,Papagayo,2,Hard Coral,Pocillopora effusa,Live,16
+151,Papagayo,2,Algae,Turf algae,Live,84
+151,Papagayo,2,Diadema,Diadema sp,Live,16
+152,Papagayo,2,Algae,Turf algae,Live,64
+152,Papagayo,2,CCA,Pink CCA,Live,12
+152,Papagayo,2,Hard Coral,Pavona gigantea,Live,20
+152,Papagayo,2,Soft Coral,Soft Coral,Non-live,4
+153,Papagayo,2,Algae,Turf algae,Live,48
+153,Papagayo,2,CCA,Pink CCA,Live,32
+153,Papagayo,2,Diadema,Diadema sp,Live,8
+153,Papagayo,2,Hard Coral,Porites lobata,Live,8
+154,Papagayo,2,Algae,Turf algae,Live,16
+154,Papagayo,2,CCA,Pink CCA,Live,20
+154,Papagayo,2,Hard Coral,Porites lobata,Live,64
+155,Papagayo,2,Algae,Turf algae,Live,24
+155,Papagayo,2,CCA,Pink CCA,Live,4
+155,Papagayo,2,Hard Coral,Pavona gigantea,Live,56
+155,Papagayo,2,Hard Coral,Pocillopora effusa,Live,16
+156,Papagayo,2,Algae,Turf algae,Live,56
+156,Papagayo,2,CCA,Pink CCA,Live,40
+156,Papagayo,2,CCA,White CCA,Live,4
+157,Papagayo,2,Algae,Turf algae,Live,52
+157,Papagayo,2,CCA,Pink CCA,Live,32
+157,Papagayo,2,CCA,Red CCA,Live,8
+157,Papagayo,2,Hard Coral,Pocillopora effusa,Live,8
+158,Papagayo,2,Algae,Turf algae,Live,20
+158,Papagayo,2,CCA,Pink CCA,Live,24
+158,Papagayo,2,Diadema,Diadema sp,Live,4
+158,Papagayo,2,Hard Coral,Pocillopora effusa,Live,52
+159,Papagayo,2,Algae,Turf algae,Live,44
+159,Papagayo,2,CCA,Pink CCA,Live,16
+159,Papagayo,2,Hard Coral,Pocillopora effusa,Live,40
+160,Papagayo,2,Algae,Turf algae,Live,36
+160,Papagayo,2,CCA,Pink CCA,Live,52
+160,Papagayo,2,CCA,White CCA,Live,4
+160,Papagayo,2,Hard Coral,Pavona gigantea,Live,8
+161,Papagayo,2,Algae,Turf algae,Live,16
+161,Papagayo,2,CCA,Pink CCA,Live,4
+161,Papagayo,2,Hard Coral,Pavona varians,Live,76
+162,Papagayo,2,Algae,Turf algae,Live,68
+162,Papagayo,2,CCA,Pink CCA,Live,24
+162,Papagayo,2,Diadema,Diadema sp,Live,4
+163,Papagayo,2,Algae,Turf algae,Live,52
+163,Papagayo,2,CCA,Pink CCA,Live,20
+163,Papagayo,2,Hard Coral,Pavona gigantea,Live,20
+164,Papagayo,2,Algae,Turf algae,Live,24
+164,Papagayo,2,CCA,Pink CCA,Live,32
+164,Papagayo,2,Diadema,Diadema sp,Live,4
+164,Papagayo,2,Hard Coral,Pavona gigantea,Live,40
+165,Papagayo,2,Algae,Turf algae,Live,88
+165,Papagayo,2,Hard Coral,Pocillopora effusa,Live,8
+165,Papagayo,2,Substrate,Sand,Non-live,4
+166,Papagayo,2,Algae,Turf algae,Live,100
+167,Papagayo,2,Algae,Turf algae,Live,76
+167,Papagayo,2,CCA,Pink CCA,Live,20
+167,Papagayo,2,Hard Coral,Pocillopora effusa,Live,4
+168,Papagayo,2,Algae,Turf algae,Live,88
+168,Papagayo,2,CCA,Pink CCA,Live,12
+169,Papagayo,2,Algae,Turf algae,Live,80
+169,Papagayo,2,CCA,Pink CCA,Live,16
+169,Papagayo,2,CCA,White CCA,Live,4
+170,Papagayo,2,Algae,Turf algae,Live,88
+170,Papagayo,2,CCA,Pink CCA,Live,4
+170,Papagayo,2,Substrate,Gravel,Non-live,4
+170,Papagayo,2,Substrate,Sand,Non-live,4
+171,Papagayo,2,Algae,Turf algae,Live,72
+171,Papagayo,2,CCA,Pink CCA,Live,4
+171,Papagayo,2,CCA,White CCA,Live,4
+171,Papagayo,2,Hard Coral,Pocillopora effusa,Live,16
+171,Papagayo,2,Substrate,Gravel,Non-live,4
+172,Papagayo,2,Algae,Turf algae,Live,24
+172,Papagayo,2,Substrate,Gravel,Non-live,40
+172,Papagayo,2,Substrate,Sand,Non-live,32
+173,Papagayo,2,Algae,Turf algae,Live,24
+173,Papagayo,2,Substrate,Gravel,Non-live,72
+173,Papagayo,2,Substrate,Sand,Non-live,4
+174,Papagayo,2,Algae,Turf algae,Live,24
+174,Papagayo,2,CCA,Pink CCA,Live,56
+174,Papagayo,2,Hard Coral,Pavona gigantea,Live,16
+174,Papagayo,2,Substrate,Gravel,Non-live,4
+175,Papagayo,2,Algae,Turf algae,Live,68
+175,Papagayo,2,CCA,Pink CCA,Live,8
+175,Papagayo,2,Hard Coral,Pavona varians,Live,12
+175,Papagayo,2,Substrate,Sand,Non-live,8
+176,Papagayo,2,Algae,Turf algae,Live,20
+176,Papagayo,2,CCA,Pink CCA,Live,28
+176,Papagayo,2,Hard Coral,Pavona varians,Live,40
+176,Papagayo,2,Hard Coral,Pocillopora effusa,Live,8
+177,Papagayo,2,Algae,Turf algae,Live,12
+177,Papagayo,2,CCA,Pink CCA,Live,8
+177,Papagayo,2,Diadema,Diadema sp,Live,8
+177,Papagayo,2,Hard Coral,Pavona varians,Live,68
+177,Papagayo,2,Substrate,Gravel,Non-live,4
+178,Papagayo,2,Algae,Turf algae,Live,36
+178,Papagayo,2,CCA,Pink CCA,Live,36
+178,Papagayo,2,Hard Coral,Pavona gigantea,Live,20
+178,Papagayo,2,Substrate,Gravel,Non-live,4
+179,Papagayo,2,Algae,Turf algae,Live,64
+179,Papagayo,2,Substrate,Sand,Non-live,32
+180,Papagayo,2,Algae,Turf algae,Live,80
+180,Papagayo,2,Hard Coral,Pocillopora effusa,Live,16
+181,Papagayo,3,Algae,Turf algae,Live,52
+181,Papagayo,3,CCA,Pink CCA,Live,12
+181,Papagayo,3,CCA,Red CCA,Live,16
+181,Papagayo,3,Hard Coral,Pocillopora effusa,Live,12
+181,Papagayo,3,Substrate,Rock,Non-live,4
+181,Papagayo,3,Substrate,Sand,Non-live,4
+182,Papagayo,3,Algae,Turf algae,Live,64
+182,Papagayo,3,CCA,Pink CCA,Live,12
+182,Papagayo,3,Hard Coral,Pocillopora effusa,Live,20
+182,Papagayo,3,Substrate,Sand,Non-live,4
+183,Papagayo,3,Algae,Galaxaura,Live,4
+183,Papagayo,3,Algae,Turf algae,Live,20
+183,Papagayo,3,CCA,Pink CCA,Live,56
+183,Papagayo,3,CCA,Red CCA,Live,4
+183,Papagayo,3,Diadema,Diadema sp,Live,4
+183,Papagayo,3,Hard Coral,Pocillopora effusa,Live,12
+184,Papagayo,3,Algae,Turf algae,Live,64
+184,Papagayo,3,CCA,Pink CCA,Live,8
+184,Papagayo,3,Hard Coral,Pavona gigantea,Live,4
+184,Papagayo,3,Hard Coral,Pocillopora effusa,Live,24
+185,Papagayo,3,Algae,Turf algae,Live,64
+185,Papagayo,3,CCA,Pink CCA,Live,28
+185,Papagayo,3,CCA,Red CCA,Live,4
+185,Papagayo,3,Diadema,Diadema sp,Live,4
+186,Papagayo,3,Algae,Turf algae,Live,36
+186,Papagayo,3,CCA,Pink CCA,Live,28
+186,Papagayo,3,Diadema,Diadema sp,Live,16
+186,Papagayo,3,Hard Coral,Pocillopora effusa,Live,20
+187,Papagayo,3,Algae,Turf algae,Live,60
+187,Papagayo,3,CCA,Pink CCA,Live,16
+187,Papagayo,3,CCA,White CCA,Live,8
+187,Papagayo,3,Hard Coral,Pocillopora effusa,Live,16
+188,Papagayo,3,Algae,Turf algae,Live,92
+188,Papagayo,3,Hard Coral,Pocillopora effusa,Live,8
+189,Papagayo,3,Algae,Turf algae,Live,64
+189,Papagayo,3,CCA,Pink CCA,Live,4
+189,Papagayo,3,Diadema,Diadema sp,Live,4
+189,Papagayo,3,Hard Coral,Pocillopora effusa,Live,28
+190,Papagayo,3,Algae,Turf algae,Live,48
+190,Papagayo,3,CCA,Pink CCA,Live,28
+190,Papagayo,3,CCA,White CCA,Live,8
+190,Papagayo,3,Diadema,Diadema sp,Live,4
+190,Papagayo,3,Hard Coral,Pocillopora effusa,Live,12
+191,Papagayo,3,Algae,Turf algae,Live,56
+191,Papagayo,3,CCA,Pink CCA,Live,8
+191,Papagayo,3,CCA,White CCA,Live,4
+191,Papagayo,3,Diadema,Diadema sp,Live,8
+191,Papagayo,3,Hard Coral,Pocillopora effusa,Live,24
+192,Papagayo,3,Algae,Turf algae,Live,60
+192,Papagayo,3,Hard Coral,Pocillopora effusa,Live,40
+193,Papagayo,3,Algae,Turf algae,Live,36
+193,Papagayo,3,CCA,Pink CCA,Live,32
+193,Papagayo,3,CCA,Red CCA,Live,4
+193,Papagayo,3,CCA,White CCA,Live,4
+193,Papagayo,3,Diadema,Diadema sp,Live,8
+193,Papagayo,3,Hard Coral,Pocillopora effusa,Live,16
+194,Papagayo,3,Algae,Caulerpa spp.,Live,4
+194,Papagayo,3,Algae,Turf algae,Live,56
+194,Papagayo,3,CCA,Pink CCA,Live,16
+194,Papagayo,3,Diadema,Diadema sp,Live,4
+194,Papagayo,3,Hard Coral,Pocillopora effusa,Live,20
+195,Papagayo,3,Algae,Turf algae,Live,44
+195,Papagayo,3,CCA,Pink CCA,Live,8
+195,Papagayo,3,CCA,White CCA,Live,4
+195,Papagayo,3,Diadema,Diadema sp,Live,4
+195,Papagayo,3,Hard Coral,Pocillopora effusa,Live,40
+196,Papagayo,3,Algae,Turf algae,Live,56
+196,Papagayo,3,CCA,Pink CCA,Live,24
+196,Papagayo,3,CCA,White CCA,Live,8
+196,Papagayo,3,Diadema,Diadema sp,Live,8
+196,Papagayo,3,Substrate,Sand,Non-live,4
+197,Papagayo,3,Algae,Galaxaura,Live,4
+197,Papagayo,3,Algae,Turf algae,Live,40
+197,Papagayo,3,CCA,Pink CCA,Live,44
+197,Papagayo,3,Hard Coral,Pocillopora effusa,Live,12
+198,Papagayo,3,Algae,Turf algae,Live,84
+198,Papagayo,3,CCA,Pink CCA,Live,8
+198,Papagayo,3,Hard Coral,Pocillopora effusa,Live,8
+199,Papagayo,3,Algae,Galaxaura,Live,4
+199,Papagayo,3,Algae,Turf algae,Live,68
+199,Papagayo,3,CCA,White CCA,Live,4
+199,Papagayo,3,Diadema,Diadema sp,Live,4
+199,Papagayo,3,Hard Coral,Pavona gigantea,Live,20
+200,Papagayo,3,Algae,Turf algae,Live,28
+200,Papagayo,3,CCA,Pink CCA,Live,52
+200,Papagayo,3,CCA,Red CCA,Live,8
+200,Papagayo,3,Hard Coral,Pavona gigantea,Live,8
+201,Papagayo,3,Algae,Turf algae,Live,64
+201,Papagayo,3,CCA,Pink CCA,Live,24
+201,Papagayo,3,Diadema,Diadema sp,Live,4
+201,Papagayo,3,Hard Coral,Psammocora stellata,Live,8
+202,Papagayo,3,Algae,Turf algae,Live,36
+202,Papagayo,3,CCA,Pink CCA,Live,24
+202,Papagayo,3,CCA,Red CCA,Live,4
+202,Papagayo,3,CCA,White CCA,Live,8
+202,Papagayo,3,Diadema,Diadema sp,Live,4
+202,Papagayo,3,Hard Coral,Porites lobata,Live,8
+202,Papagayo,3,Substrate,Gravel,Non-live,4
+202,Papagayo,3,Substrate,Sand,Non-live,12
+203,Papagayo,3,Algae,Turf algae,Live,36
+203,Papagayo,3,CCA,Pink CCA,Live,12
+203,Papagayo,3,CCA,Red CCA,Live,4
+203,Papagayo,3,Diadema,Diadema sp,Live,8
+203,Papagayo,3,Hard Coral,Pocillopora effusa,Live,40
+204,Papagayo,3,Algae,Turf algae,Live,16
+204,Papagayo,3,CCA,Pink CCA,Live,44
+204,Papagayo,3,CCA,Red CCA,Live,4
+204,Papagayo,3,Diadema,Diadema sp,Live,8
+204,Papagayo,3,Hard Coral,Pocillopora effusa,Live,28
+205,Papagayo,3,Algae,Turf algae,Live,72
+205,Papagayo,3,CCA,Pink CCA,Live,12
+205,Papagayo,3,CCA,White CCA,Live,4
+205,Papagayo,3,Diadema,Diadema sp,Live,4
+205,Papagayo,3,Substrate,Gravel,Non-live,8
+206,Papagayo,3,Algae,Turf algae,Live,56
+206,Papagayo,3,CCA,Pink CCA,Live,8
+206,Papagayo,3,CCA,Red CCA,Live,12
+206,Papagayo,3,CCA,White CCA,Live,8
+206,Papagayo,3,Substrate,Gravel,Non-live,12
+206,Papagayo,3,Substrate,Rock,Non-live,4
+207,Papagayo,3,Algae,Turf algae,Live,60
+207,Papagayo,3,CCA,Pink CCA,Live,20
+207,Papagayo,3,CCA,White CCA,Live,8
+207,Papagayo,3,Hard Coral,Pocillopora effusa,Live,12
+208,Papagayo,3,Algae,Turf algae,Live,36
+208,Papagayo,3,CCA,Pink CCA,Live,32
+208,Papagayo,3,CCA,Red CCA,Live,24
+208,Papagayo,3,CCA,White CCA,Live,4
+208,Papagayo,3,Substrate,Gravel,Non-live,4
+209,Papagayo,3,Algae,Galaxaura,Live,4
+209,Papagayo,3,Algae,Turf algae,Live,44
+209,Papagayo,3,CCA,Pink CCA,Live,8
+209,Papagayo,3,CCA,Red CCA,Live,12
+209,Papagayo,3,Hard Coral,Pocillopora effusa,Live,32
+210,Papagayo,3,Algae,Turf algae,Live,24
+210,Papagayo,3,Hard Coral,Pavona gigantea,Live,64
+211,Papagayo,3,Algae,Turf algae,Live,36
+211,Papagayo,3,CCA,Pink CCA,Live,28
+211,Papagayo,3,Hard Coral,Pocillopora effusa,Live,28
+212,Papagayo,3,Algae,Turf algae,Live,44
+212,Papagayo,3,CCA,Pink CCA,Live,40
+212,Papagayo,3,Diadema,Diadema sp,Live,4
+212,Papagayo,3,Hard Coral,Pocillopora effusa,Live,4
+212,Papagayo,3,Hard Coral,Porites lobata,Live,8
+213,Papagayo,3,Algae,Turf algae,Live,24
+213,Papagayo,3,CCA,Pink CCA,Live,28
+213,Papagayo,3,CCA,Red CCA,Live,20
+213,Papagayo,3,CCA,White CCA,Live,8
+213,Papagayo,3,Diadema,Diadema sp,Live,4
+213,Papagayo,3,Hard Coral,Porites lobata,Live,4
+213,Papagayo,3,Substrate,Gravel,Non-live,8
+214,Papagayo,3,Algae,Caulerpa spp.,Live,20
+214,Papagayo,3,Algae,Turf algae,Live,52
+214,Papagayo,3,CCA,Pink CCA,Live,16
+214,Papagayo,3,CCA,Red CCA,Live,12
+215,Papagayo,3,Algae,Turf algae,Live,52
+215,Papagayo,3,CCA,Pink CCA,Live,20
+215,Papagayo,3,Diadema,Diadema sp,Live,8
+215,Papagayo,3,Hard Coral,Pocillopora effusa,Live,20
+216,Papagayo,3,Algae,Galaxaura,Live,4
+216,Papagayo,3,Algae,Turf algae,Live,56
+216,Papagayo,3,CCA,Pink CCA,Live,32
+216,Papagayo,3,Hard Coral,Pavona gigantea,Live,4
+216,Papagayo,3,Hard Coral,Pocillopora effusa,Live,4
+217,Papagayo,3,Algae,Turf algae,Live,16
+217,Papagayo,3,CCA,Pink CCA,Live,44
+217,Papagayo,3,CCA,Red CCA,Live,4
+217,Papagayo,3,Diadema,Diadema sp,Live,4
+217,Papagayo,3,Hard Coral,Pocillopora effusa,Live,32
+218,Papagayo,3,Algae,Turf algae,Live,40
+218,Papagayo,3,CCA,Pink CCA,Live,44
+218,Papagayo,3,Diadema,Diadema sp,Live,4
+218,Papagayo,3,Hard Coral,Porites lobata,Live,8
+219,Papagayo,3,Algae,Turf algae,Live,28
+219,Papagayo,3,CCA,Pink CCA,Live,28
+219,Papagayo,3,CCA,Red CCA,Live,4
+219,Papagayo,3,Diadema,Diadema sp,Live,8
+219,Papagayo,3,Hard Coral,Porites lobata,Live,32
+220,Papagayo,3,Algae,Turf algae,Live,84
+220,Papagayo,3,CCA,Pink CCA,Live,12
+220,Papagayo,3,Diadema,Diadema sp,Live,4
+221,Papagayo,3,Algae,Turf algae,Live,28
+221,Papagayo,3,CCA,Pink CCA,Live,32
+221,Papagayo,3,CCA,Red CCA,Live,12
+221,Papagayo,3,Diadema,Diadema sp,Live,16
+221,Papagayo,3,Hard Coral,Porites lobata,Live,12
+222,Papagayo,3,Algae,Turf algae,Live,60
+222,Papagayo,3,CCA,Pink CCA,Live,4
+222,Papagayo,3,CCA,Red CCA,Live,4
+222,Papagayo,3,Diadema,Diadema sp,Live,4
+222,Papagayo,3,Hard Coral,Pocillopora effusa,Live,20
+222,Papagayo,3,Substrate,Sand,Non-live,8
+223,Papagayo,3,Algae,Turf algae,Live,36
+223,Papagayo,3,CCA,Red CCA,Live,4
+223,Papagayo,3,CCA,White CCA,Live,4
+223,Papagayo,3,Hard Coral,Pavona gigantea,Live,48
+224,Papagayo,3,Algae,Turf algae,Live,40
+224,Papagayo,3,CCA,Pink CCA,Live,8
+224,Papagayo,3,CCA,Red CCA,Live,4
+224,Papagayo,3,Hard Coral,Pavona gigantea,Live,20
+224,Papagayo,3,Hard Coral,Pocillopora effusa,Live,28
+225,Papagayo,3,Algae,Turf algae,Live,80
+225,Papagayo,3,CCA,Pink CCA,Live,16
+225,Papagayo,3,CCA,White CCA,Live,4
+226,Papagayo,3,Algae,Turf algae,Live,48
+226,Papagayo,3,CCA,Pink CCA,Live,12
+226,Papagayo,3,CCA,Red CCA,Live,8
+226,Papagayo,3,CCA,White CCA,Live,12
+226,Papagayo,3,Diadema,Diadema sp,Live,8
+226,Papagayo,3,Hard Coral,Pocillopora effusa,Live,12
+227,Papagayo,3,Algae,Turf algae,Live,20
+227,Papagayo,3,CCA,Pink CCA,Live,20
+227,Papagayo,3,CCA,White CCA,Live,4
+227,Papagayo,3,Diadema,Diadema sp,Live,36
+227,Papagayo,3,Hard Coral,Pocillopora effusa,Live,20
+228,Papagayo,3,Algae,Turf algae,Live,56
+228,Papagayo,3,CCA,Pink CCA,Live,24
+228,Papagayo,3,Diadema,Diadema sp,Live,4
+228,Papagayo,3,Hard Coral,Pocillopora effusa,Live,16
+229,Papagayo,3,Algae,Turf algae,Live,24
+229,Papagayo,3,CCA,Pink CCA,Live,48
+229,Papagayo,3,Diadema,Diadema sp,Live,8
+229,Papagayo,3,Hard Coral,Pocillopora effusa,Live,16
+229,Papagayo,3,Sponge,Sponge,Non-live,4
+230,Papagayo,3,Algae,Caulerpa spp.,Live,4
+230,Papagayo,3,Algae,Turf algae,Live,36
+230,Papagayo,3,CCA,Pink CCA,Live,44
+230,Papagayo,3,CCA,Red CCA,Live,4
+230,Papagayo,3,CCA,White CCA,Live,8
+230,Papagayo,3,Diadema,Diadema sp,Live,4
+231,Papagayo,3,Algae,Turf algae,Live,72
+231,Papagayo,3,CCA,White CCA,Live,4
+231,Papagayo,3,Hard Coral,Pocillopora effusa,Live,20
+231,Papagayo,3,Substrate,Sand,Non-live,4
+232,Papagayo,3,Algae,Caulerpa spp.,Live,36
+232,Papagayo,3,Algae,Turf algae,Live,16
+232,Papagayo,3,CCA,Pink CCA,Live,12
+232,Papagayo,3,CCA,Red CCA,Live,12
+232,Papagayo,3,Hard Coral,Pocillopora effusa,Live,16
+233,Papagayo,3,Algae,Turf algae,Live,16
+233,Papagayo,3,CCA,Pink CCA,Live,48
+233,Papagayo,3,CCA,Red CCA,Live,8
+233,Papagayo,3,CCA,White CCA,Live,8
+233,Papagayo,3,Diadema,Diadema sp,Live,20
+234,Papagayo,3,Algae,Caulerpa spp.,Live,20
+234,Papagayo,3,Algae,Turf algae,Live,60
+234,Papagayo,3,CCA,Pink CCA,Live,4
+234,Papagayo,3,CCA,Red CCA,Live,8
+234,Papagayo,3,Diadema,Diadema sp,Live,4
+234,Papagayo,3,Substrate,Sand,Non-live,4
+235,Papagayo,3,Algae,Turf algae,Live,52
+235,Papagayo,3,CCA,Pink CCA,Live,28
+235,Papagayo,3,CCA,White CCA,Live,4
+235,Papagayo,3,Diadema,Diadema sp,Live,4
+235,Papagayo,3,Hard Coral,Pocillopora effusa,Live,12
+236,Papagayo,3,Algae,Turf algae,Live,20
+236,Papagayo,3,CCA,Pink CCA,Live,44
+236,Papagayo,3,CCA,White CCA,Live,4
+236,Papagayo,3,Diadema,Diadema sp,Live,12
+236,Papagayo,3,Hard Coral,Pocillopora effusa,Live,20
+237,Papagayo,3,Algae,Turf algae,Live,20
+237,Papagayo,3,CCA,Pink CCA,Live,44
+237,Papagayo,3,CCA,Red CCA,Live,4
+237,Papagayo,3,Diadema,Diadema sp,Live,12
+237,Papagayo,3,Hard Coral,Pocillopora effusa,Live,20
+238,Papagayo,3,Algae,Turf algae,Live,76
+238,Papagayo,3,CCA,Pink CCA,Live,12
+238,Papagayo,3,Hard Coral,Pocillopora effusa,Live,8
+238,Papagayo,3,Substrate,Sand,Non-live,4
+239,Papagayo,3,Algae,Turf algae,Live,32
+239,Papagayo,3,CCA,Pink CCA,Live,44
+239,Papagayo,3,CCA,White CCA,Live,16
+239,Papagayo,3,Hard Coral,Pocillopora effusa,Live,8
+240,Papagayo,3,Algae,Caulerpa spp.,Live,4
+240,Papagayo,3,Algae,Turf algae,Live,60
+240,Papagayo,3,Hard Coral,Pocillopora effusa,Live,32
+240,Papagayo,3,Substrate,Sand,Non-live,4
+241,Papagayo,3,Algae,Turf algae,Live,56
+241,Papagayo,3,CCA,Pink CCA,Live,4
+241,Papagayo,3,Diadema,Diadema sp,Live,4
+241,Papagayo,3,Hard Coral,Pocillopora effusa,Live,36
+242,Papagayo,3,Algae,Turf algae,Live,80
+242,Papagayo,3,CCA,Pink CCA,Live,16
+243,Papagayo,3,Algae,Turf algae,Live,48
+243,Papagayo,3,CCA,Pink CCA,Live,36
+243,Papagayo,3,CCA,Red CCA,Live,4
+243,Papagayo,3,Diadema,Diadema sp,Live,4
+243,Papagayo,3,Hard Coral,Pocillopora effusa,Live,8
+244,Papagayo,3,Algae,Turf algae,Live,4
+244,Papagayo,3,CCA,Pink CCA,Live,48
+244,Papagayo,3,CCA,Red CCA,Live,4
+244,Papagayo,3,CCA,White CCA,Live,4
+244,Papagayo,3,Diadema,Diadema sp,Live,4
+244,Papagayo,3,Hard Coral,Pocillopora effusa,Live,36
+245,Papagayo,3,Algae,Turf algae,Live,24
+245,Papagayo,3,CCA,Pink CCA,Live,44
+245,Papagayo,3,CCA,White CCA,Live,8
+245,Papagayo,3,Diadema,Diadema sp,Live,8
+245,Papagayo,3,Hard Coral,Pocillopora effusa,Live,8
+246,Papagayo,3,Algae,Turf algae,Live,4
+246,Papagayo,3,CCA,Pink CCA,Live,48
+246,Papagayo,3,CCA,Red CCA,Live,8
+246,Papagayo,3,CCA,White CCA,Live,8
+246,Papagayo,3,Hard Coral,Pocillopora effusa,Live,32
+247,Papagayo,3,Algae,Turf algae,Live,4
+247,Papagayo,3,CCA,Pink CCA,Live,40
+247,Papagayo,3,Diadema,Diadema sp,Live,4
+247,Papagayo,3,Hard Coral,Pocillopora effusa,Live,52
+248,Papagayo,3,Algae,Turf algae,Live,88
+248,Papagayo,3,Sponge,Sponge,Non-live,4
+248,Papagayo,3,Substrate,Sand,Non-live,8
+249,Papagayo,3,Algae,Caulerpa spp.,Live,96
+249,Papagayo,3,Algae,Turf algae,Live,4
+250,Papagayo,3,Algae,Turf algae,Live,24
+250,Papagayo,3,CCA,Pink CCA,Live,32
+250,Papagayo,3,CCA,Red CCA,Live,4
+250,Papagayo,3,Hard Coral,Pocillopora effusa,Live,32
+251,Papagayo,3,Algae,Turf algae,Live,72
+251,Papagayo,3,CCA,Pink CCA,Live,16
+251,Papagayo,3,CCA,Red CCA,Live,4
+251,Papagayo,3,Unknown,Unknown,Non-live,8
+252,Papagayo,3,Algae,Caulerpa spp.,Live,12
+252,Papagayo,3,Algae,Turf algae,Live,40
+252,Papagayo,3,CCA,Pink CCA,Live,4
+252,Papagayo,3,Diadema,Diadema sp,Live,8
+252,Papagayo,3,Hard Coral,Porites lobata,Live,36
+253,Papagayo,3,Algae,Caulerpa spp.,Live,8
+253,Papagayo,3,Algae,Turf algae,Live,32
+253,Papagayo,3,CCA,Pink CCA,Live,8
+253,Papagayo,3,CCA,Red CCA,Live,4
+253,Papagayo,3,Hard Coral,Pocillopora effusa,Live,28
+253,Papagayo,3,Substrate,Gravel,Non-live,4
+253,Papagayo,3,Substrate,Rock,Non-live,4
+253,Papagayo,3,Substrate,Sand,Non-live,4
+254,Papagayo,3,Algae,Turf algae,Live,84
+254,Papagayo,3,CCA,Pink CCA,Live,8
+254,Papagayo,3,Hard Coral,Pocillopora effusa,Live,4
+254,Papagayo,3,Hard Coral,Psammocora stellata,Live,4
+255,Papagayo,3,Algae,Turf algae,Live,32
+255,Papagayo,3,CCA,Pink CCA,Live,24
+255,Papagayo,3,CCA,Red CCA,Live,24
+255,Papagayo,3,CCA,White CCA,Live,4
+255,Papagayo,3,Diadema,Diadema sp,Live,4
+255,Papagayo,3,Hard Coral,Psammocora stellata,Live,4
+255,Papagayo,3,Substrate,Gravel,Non-live,8
+256,Papagayo,3,Algae,Turf algae,Live,4
+256,Papagayo,3,CCA,Pink CCA,Live,64
+256,Papagayo,3,CCA,White CCA,Live,12
+256,Papagayo,3,Diadema,Diadema sp,Live,12
+256,Papagayo,3,Hard Coral,Pocillopora effusa,Live,8
+257,Papagayo,3,CCA,Pink CCA,Live,76
+257,Papagayo,3,CCA,Red CCA,Live,4
+257,Papagayo,3,Diadema,Diadema sp,Live,4
+257,Papagayo,3,Hard Coral,Pocillopora effusa,Live,16
+258,Papagayo,3,Algae,Caulerpa spp.,Live,4
+258,Papagayo,3,Algae,Turf algae,Live,72
+258,Papagayo,3,CCA,Pink CCA,Live,4
+258,Papagayo,3,CCA,Red CCA,Live,4
+258,Papagayo,3,Substrate,Gravel,Non-live,8
+258,Papagayo,3,Substrate,Rock,Non-live,4
+259,Papagayo,3,Algae,Turf algae,Live,92
+259,Papagayo,3,Hard Coral,Pocillopora effusa,Live,8
+260,Papagayo,3,Algae,Turf algae,Live,76
+260,Papagayo,3,CCA,Pink CCA,Live,8
+260,Papagayo,3,CCA,White CCA,Live,4
+260,Papagayo,3,Hard Coral,Pocillopora effusa,Live,8
+260,Papagayo,3,Substrate,Gravel,Non-live,4
+261,Papagayo,3,Algae,Turf algae,Live,52
+261,Papagayo,3,CCA,Pink CCA,Live,28
+261,Papagayo,3,Hard Coral,Pocillopora effusa,Live,12
+262,Papagayo,3,Algae,Turf algae,Live,72
+262,Papagayo,3,CCA,Pink CCA,Live,4
+262,Papagayo,3,Sponge,Sponge,Non-live,4
+262,Papagayo,3,Substrate,Gravel,Non-live,16
+262,Papagayo,3,Substrate,Rock,Non-live,4
+263,Papagayo,3,Algae,Caulerpa spp.,Live,4
+263,Papagayo,3,Algae,Turf algae,Live,48
+263,Papagayo,3,CCA,Pink CCA,Live,16
+263,Papagayo,3,CCA,Red CCA,Live,4
+263,Papagayo,3,CCA,White CCA,Live,4
+263,Papagayo,3,Substrate,Gravel,Non-live,12
+263,Papagayo,3,Substrate,Rock,Non-live,8
+264,Papagayo,3,Algae,Turf algae,Live,100
+265,Papagayo,3,Algae,Turf algae,Live,88
+265,Papagayo,3,Hard Coral,Porites lobata,Live,4
+266,Papagayo,3,Algae,Turf algae,Live,64
+266,Papagayo,3,CCA,Pink CCA,Live,4
+266,Papagayo,3,Hard Coral,Pocillopora effusa,Live,28
+267,Papagayo,3,Algae,Turf algae,Live,52
+267,Papagayo,3,CCA,Pink CCA,Live,36
+267,Papagayo,3,Diadema,Diadema sp,Live,4
+267,Papagayo,3,Hard Coral,Pocillopora effusa,Live,4
+268,Papagayo,3,Algae,Galaxaura,Live,4
+268,Papagayo,3,Algae,Turf algae,Live,24
+268,Papagayo,3,CCA,Pink CCA,Live,48
+268,Papagayo,3,CCA,Red CCA,Live,12
+268,Papagayo,3,Hard Coral,Pocillopora effusa,Live,12
+269,Papagayo,3,Algae,Turf algae,Live,4
+269,Papagayo,3,CCA,Pink CCA,Live,60
+269,Papagayo,3,CCA,White CCA,Live,8
+269,Papagayo,3,Diadema,Diadema sp,Live,20
+269,Papagayo,3,Hard Coral,Pocillopora effusa,Live,8
+270,Papagayo,3,Algae,Galaxaura,Live,8
+270,Papagayo,3,Algae,Turf algae,Live,68
+270,Papagayo,3,CCA,Pink CCA,Live,8
+270,Papagayo,3,CCA,White CCA,Live,4
+270,Papagayo,3,Hard Coral,Pocillopora effusa,Live,8
+270,Papagayo,3,Substrate,Gravel,Non-live,4
+271,Papagayo,4,Algae,Turf algae,Live,76
+271,Papagayo,4,CCA,Pink CCA,Live,8
+271,Papagayo,4,CCA,Red CCA,Live,8
+271,Papagayo,4,Hard Coral,Porites lobata,Live,8
+272,Papagayo,4,Algae,Turf algae,Live,52
+272,Papagayo,4,CCA,Pink CCA,Live,12
+272,Papagayo,4,CCA,Red CCA,Live,4
+272,Papagayo,4,CCA,White CCA,Live,4
+272,Papagayo,4,Hard Coral,Pocillopora effusa,Live,24
+273,Papagayo,4,Algae,Caulerpa spp.,Live,4
+273,Papagayo,4,Algae,Turf algae,Live,60
+273,Papagayo,4,CCA,Pink CCA,Live,8
+273,Papagayo,4,Hard Coral,Pocillopora effusa,Live,28
+274,Papagayo,4,Algae,Turf algae,Live,64
+274,Papagayo,4,CCA,Pink CCA,Live,8
+274,Papagayo,4,Diadema,Diadema sp,Live,4
+274,Papagayo,4,Hard Coral,Pocillopora effusa,Live,20
+275,Papagayo,4,Algae,Turf algae,Live,56
+275,Papagayo,4,CCA,Pink CCA,Live,16
+275,Papagayo,4,Hard Coral,Pocillopora effusa,Live,20
+275,Papagayo,4,Substrate,Sand,Non-live,8
+276,Papagayo,4,Algae,Turf algae,Live,32
+276,Papagayo,4,Ascidian,Ascidian (solitary),Live,4
+276,Papagayo,4,CCA,Pink CCA,Live,32
+276,Papagayo,4,CCA,White CCA,Live,8
+276,Papagayo,4,Diadema,Diadema sp,Live,4
+276,Papagayo,4,Hard Coral,Porites lobata,Live,20
+277,Papagayo,4,Algae,Turf algae,Live,36
+277,Papagayo,4,CCA,Pink CCA,Live,20
+277,Papagayo,4,CCA,White CCA,Live,12
+277,Papagayo,4,Hard Coral,Porites lobata,Live,32
+278,Papagayo,4,Algae,Turf algae,Live,48
+278,Papagayo,4,CCA,Pink CCA,Live,16
+278,Papagayo,4,CCA,White CCA,Live,4
+278,Papagayo,4,Diadema,Diadema sp,Live,4
+278,Papagayo,4,Hard Coral,Pocillopora effusa,Live,20
+279,Papagayo,4,Algae,Turf algae,Live,20
+279,Papagayo,4,CCA,Pink CCA,Live,52
+279,Papagayo,4,CCA,Red CCA,Live,8
+279,Papagayo,4,CCA,White CCA,Live,4
+279,Papagayo,4,Diadema,Diadema sp,Live,4
+279,Papagayo,4,Hard Coral,Psammocora stellata,Live,8
+280,Papagayo,4,Algae,Turf algae,Live,56
+280,Papagayo,4,CCA,Pink CCA,Live,16
+280,Papagayo,4,Hard Coral,Pocillopora effusa,Live,24
+281,Papagayo,4,Algae,Turf algae,Live,68
+281,Papagayo,4,CCA,Pink CCA,Live,4
+281,Papagayo,4,Hard Coral,Pocillopora effusa,Live,28
+282,Papagayo,4,Algae,Turf algae,Live,52
+282,Papagayo,4,CCA,Pink CCA,Live,12
+282,Papagayo,4,CCA,Red CCA,Live,4
+282,Papagayo,4,Diadema,Diadema sp,Live,8
+282,Papagayo,4,Hard Coral,Porites lobata,Live,24
+283,Papagayo,4,Algae,Turf algae,Live,56
+283,Papagayo,4,CCA,Pink CCA,Live,20
+283,Papagayo,4,CCA,Red CCA,Live,4
+283,Papagayo,4,Diadema,Diadema sp,Live,12
+283,Papagayo,4,Hard Coral,Pocillopora effusa,Live,8
+284,Papagayo,4,Algae,Turf algae,Live,36
+284,Papagayo,4,CCA,Pink CCA,Live,20
+284,Papagayo,4,Diadema,Diadema sp,Live,8
+284,Papagayo,4,Hard Coral,Pocillopora effusa,Live,24
+284,Papagayo,4,Hard Coral,Porites lobata,Live,8
+284,Papagayo,4,Substrate,Sand,Non-live,4
+285,Papagayo,4,Algae,Padina,Live,40
+285,Papagayo,4,Algae,Turf algae,Live,28
+285,Papagayo,4,CCA,Pink CCA,Live,8
+285,Papagayo,4,CCA,Red CCA,Live,8
+285,Papagayo,4,CCA,White CCA,Live,4
+285,Papagayo,4,Hard Coral,Pocillopora effusa,Live,8
+286,Papagayo,4,Algae,Turf algae,Live,72
+286,Papagayo,4,Hard Coral,Pocillopora effusa,Live,28
+287,Papagayo,4,Algae,Padina,Live,8
+287,Papagayo,4,Algae,Turf algae,Live,28
+287,Papagayo,4,CCA,Pink CCA,Live,12
+287,Papagayo,4,CCA,Red CCA,Live,8
+287,Papagayo,4,CCA,White CCA,Live,12
+287,Papagayo,4,Hard Coral,Porites lobata,Live,20
+287,Papagayo,4,Hard Coral,Psammocora stellata,Live,4
+287,Papagayo,4,Substrate,Sand,Non-live,8
+288,Papagayo,4,Algae,Turf algae,Live,16
+288,Papagayo,4,CCA,Pink CCA,Live,40
+288,Papagayo,4,CCA,Red CCA,Live,4
+288,Papagayo,4,CCA,White CCA,Live,8
+288,Papagayo,4,Diadema,Diadema sp,Live,12
+288,Papagayo,4,Hard Coral,Porites lobata,Live,16
+288,Papagayo,4,Hard Coral,Psammocora stellata,Live,4
+289,Papagayo,4,Algae,Padina,Live,36
+289,Papagayo,4,Algae,Turf algae,Live,32
+289,Papagayo,4,CCA,Pink CCA,Live,4
+289,Papagayo,4,Hard Coral,Pocillopora effusa,Live,28
+290,Papagayo,4,Algae,Turf algae,Live,44
+290,Papagayo,4,CCA,Pink CCA,Live,20
+290,Papagayo,4,CCA,Red CCA,Live,4
+290,Papagayo,4,Hard Coral,Pocillopora effusa,Live,32
+291,Papagayo,4,Algae,Turf algae,Live,48
+291,Papagayo,4,CCA,Pink CCA,Live,20
+291,Papagayo,4,CCA,Red CCA,Live,4
+291,Papagayo,4,Diadema,Diadema sp,Live,4
+291,Papagayo,4,Hard Coral,Pocillopora effusa,Live,24
+292,Papagayo,4,Algae,Turf algae,Live,28
+292,Papagayo,4,CCA,Pink CCA,Live,20
+292,Papagayo,4,CCA,Red CCA,Live,4
+292,Papagayo,4,CCA,White CCA,Live,16
+292,Papagayo,4,Diadema,Diadema sp,Live,28
+292,Papagayo,4,Substrate,Sand,Non-live,4
+293,Papagayo,4,Algae,Turf algae,Live,44
+293,Papagayo,4,CCA,Pink CCA,Live,36
+293,Papagayo,4,CCA,Red CCA,Live,8
+293,Papagayo,4,CCA,White CCA,Live,12
+294,Papagayo,4,Algae,Turf algae,Live,20
+294,Papagayo,4,CCA,Pink CCA,Live,40
+294,Papagayo,4,CCA,White CCA,Live,12
+294,Papagayo,4,Diadema,Diadema sp,Live,8
+294,Papagayo,4,Hard Coral,Pocillopora effusa,Live,12
+294,Papagayo,4,Hard Coral,Porites lobata,Live,4
+295,Papagayo,4,Algae,Turf algae,Live,36
+295,Papagayo,4,CCA,Pink CCA,Live,16
+295,Papagayo,4,CCA,White CCA,Live,8
+295,Papagayo,4,Diadema,Diadema sp,Live,8
+295,Papagayo,4,Hard Coral,Porites lobata,Live,28
+296,Papagayo,4,Algae,Turf algae,Live,48
+296,Papagayo,4,CCA,Pink CCA,Live,20
+296,Papagayo,4,Diadema,Diadema sp,Live,8
+296,Papagayo,4,Hard Coral,Pocillopora effusa,Live,8
+296,Papagayo,4,Hard Coral,Porites lobata,Live,16
+297,Papagayo,4,Algae,Turf algae,Live,52
+297,Papagayo,4,CCA,Pink CCA,Live,12
+297,Papagayo,4,Hard Coral,Pocillopora effusa,Live,36
+298,Papagayo,4,Algae,Turf algae,Live,24
+298,Papagayo,4,CCA,Pink CCA,Live,28
+298,Papagayo,4,CCA,Red CCA,Live,8
+298,Papagayo,4,CCA,White CCA,Live,4
+298,Papagayo,4,Diadema,Diadema sp,Live,8
+298,Papagayo,4,Hard Coral,Pocillopora effusa,Live,16
+298,Papagayo,4,Substrate,Rock,Non-live,4
+299,Papagayo,4,Algae,Turf algae,Live,20
+299,Papagayo,4,CCA,Pink CCA,Live,24
+299,Papagayo,4,CCA,White CCA,Live,16
+299,Papagayo,4,Diadema,Diadema sp,Live,4
+299,Papagayo,4,Hard Coral,Pocillopora effusa,Live,8
+299,Papagayo,4,Hard Coral,Porites lobata,Live,28
+300,Papagayo,4,Algae,Turf algae,Live,76
+300,Papagayo,4,CCA,Pink CCA,Live,4
+300,Papagayo,4,Hard Coral,Pocillopora effusa,Live,20
+301,Papagayo,4,Algae,Turf algae,Live,36
+301,Papagayo,4,CCA,Pink CCA,Live,40
+301,Papagayo,4,CCA,White CCA,Live,4
+301,Papagayo,4,Hard Coral,Pocillopora effusa,Live,16
+302,Papagayo,4,Algae,Turf algae,Live,28
+302,Papagayo,4,CCA,Pink CCA,Live,12
+302,Papagayo,4,Diadema,Diadema sp,Live,32
+302,Papagayo,4,Hard Coral,Pocillopora effusa,Live,24
+303,Papagayo,4,Algae,Turf algae,Live,68
+303,Papagayo,4,CCA,Pink CCA,Live,4
+303,Papagayo,4,Diadema,Diadema sp,Live,4
+303,Papagayo,4,Hard Coral,Pocillopora effusa,Live,24
+304,Papagayo,4,Algae,Turf algae,Live,12
+304,Papagayo,4,CCA,Pink CCA,Live,44
+304,Papagayo,4,Diadema,Diadema sp,Live,4
+304,Papagayo,4,Hard Coral,Pocillopora effusa,Live,36
+305,Papagayo,4,Algae,Turf algae,Live,60
+305,Papagayo,4,CCA,Pink CCA,Live,20
+305,Papagayo,4,Diadema,Diadema sp,Live,8
+305,Papagayo,4,Hard Coral,Pocillopora effusa,Live,12
+306,Papagayo,4,Algae,Turf algae,Live,76
+306,Papagayo,4,CCA,Pink CCA,Live,16
+306,Papagayo,4,CCA,White CCA,Live,4
+307,Papagayo,4,Algae,Padina,Live,20
+307,Papagayo,4,Algae,Turf algae,Live,64
+307,Papagayo,4,CCA,Pink CCA,Live,4
+307,Papagayo,4,CCA,Red CCA,Live,4
+307,Papagayo,4,Hard Coral,Pocillopora effusa,Live,8
+308,Papagayo,4,Algae,Turf algae,Live,60
+308,Papagayo,4,Hard Coral,Pocillopora effusa,Live,28
+309,Papagayo,4,Algae,Padina,Live,16
+309,Papagayo,4,Algae,Turf algae,Live,32
+309,Papagayo,4,CCA,Pink CCA,Live,20
+309,Papagayo,4,Hard Coral,Pocillopora effusa,Live,20
+310,Papagayo,4,Algae,Padina,Live,4
+310,Papagayo,4,Algae,Turf algae,Live,44
+310,Papagayo,4,CCA,Pink CCA,Live,12
+310,Papagayo,4,CCA,Red CCA,Live,8
+310,Papagayo,4,Diadema,Diadema sp,Live,4
+310,Papagayo,4,Hard Coral,Pocillopora effusa,Live,28
+311,Papagayo,4,Algae,Padina,Live,20
+311,Papagayo,4,Algae,Turf algae,Live,44
+311,Papagayo,4,CCA,Pink CCA,Live,12
+311,Papagayo,4,CCA,Red CCA,Live,4
+311,Papagayo,4,Diadema,Diadema sp,Live,4
+311,Papagayo,4,Hard Coral,Pavona gigantea,Live,4
+311,Papagayo,4,Hard Coral,Porites lobata,Live,12
+312,Papagayo,4,Algae,Turf algae,Live,68
+312,Papagayo,4,CCA,Pink CCA,Live,4
+312,Papagayo,4,CCA,White CCA,Live,4
+312,Papagayo,4,Hard Coral,Pocillopora effusa,Live,24
+313,Papagayo,4,Algae,Turf algae,Live,76
+313,Papagayo,4,CCA,Pink CCA,Live,4
+313,Papagayo,4,Hard Coral,Pocillopora effusa,Live,12
+314,Papagayo,4,Algae,Turf algae,Live,84
+314,Papagayo,4,CCA,Pink CCA,Live,4
+314,Papagayo,4,CCA,Red CCA,Live,4
+314,Papagayo,4,Hard Coral,Pocillopora effusa,Live,8
+315,Papagayo,4,Algae,Padina,Live,4
+315,Papagayo,4,Algae,Turf algae,Live,64
+315,Papagayo,4,CCA,Pink CCA,Live,4
+315,Papagayo,4,Hard Coral,Pocillopora effusa,Live,24
+316,Papagayo,4,Algae,Turf algae,Live,68
+316,Papagayo,4,CCA,Pink CCA,Live,4
+316,Papagayo,4,Hard Coral,Pavona gigantea,Live,8
+316,Papagayo,4,Hard Coral,Pocillopora effusa,Live,16
+316,Papagayo,4,Substrate,Sand,Non-live,4
+317,Papagayo,4,Algae,Turf algae,Live,76
+317,Papagayo,4,CCA,Pink CCA,Live,12
+317,Papagayo,4,Hard Coral,Pavona gigantea,Live,8
+318,Papagayo,4,Algae,Turf algae,Live,68
+318,Papagayo,4,Diadema,Diadema sp,Live,4
+318,Papagayo,4,Hard Coral,Pocillopora effusa,Live,28
+319,Papagayo,4,Algae,Turf algae,Live,76
+319,Papagayo,4,CCA,Pink CCA,Live,4
+319,Papagayo,4,Hard Coral,Pocillopora effusa,Live,20
+320,Papagayo,4,Algae,Turf algae,Live,84
+320,Papagayo,4,Hard Coral,Porites lobata,Live,8
+321,Papagayo,4,Algae,Turf algae,Live,72
+321,Papagayo,4,Diadema,Diadema sp,Live,8
+321,Papagayo,4,Hard Coral,Pocillopora effusa,Live,20
+322,Papagayo,4,Algae,Turf algae,Live,56
+322,Papagayo,4,CCA,Pink CCA,Live,20
+322,Papagayo,4,Hard Coral,Pocillopora effusa,Live,20
+323,Papagayo,4,Algae,Turf algae,Live,56
+323,Papagayo,4,CCA,Pink CCA,Live,16
+323,Papagayo,4,Hard Coral,Pocillopora effusa,Live,24
+323,Papagayo,4,Substrate,Gravel,Non-live,4
+324,Papagayo,4,Algae,Turf algae,Live,76
+324,Papagayo,4,Diadema,Diadema sp,Live,4
+324,Papagayo,4,Hard Coral,Pocillopora effusa,Live,20
+325,Papagayo,4,Algae,Turf algae,Live,56
+325,Papagayo,4,CCA,Pink CCA,Live,16
+325,Papagayo,4,Hard Coral,Pocillopora effusa,Live,20
+326,Papagayo,4,Algae,Turf algae,Live,40
+326,Papagayo,4,CCA,Pink CCA,Live,24
+326,Papagayo,4,CCA,White CCA,Live,4
+326,Papagayo,4,Diadema,Diadema sp,Live,8
+326,Papagayo,4,Hard Coral,Pocillopora effusa,Live,20
+327,Papagayo,4,Algae,Turf algae,Live,48
+327,Papagayo,4,CCA,Pink CCA,Live,16
+327,Papagayo,4,CCA,Red CCA,Live,4
+327,Papagayo,4,Diadema,Diadema sp,Live,8
+327,Papagayo,4,Hard Coral,Pocillopora effusa,Live,16
+327,Papagayo,4,Substrate,Sand,Non-live,4
+328,Papagayo,4,Algae,Turf algae,Live,60
+328,Papagayo,4,CCA,Pink CCA,Live,16
+328,Papagayo,4,Hard Coral,Pocillopora effusa,Live,20
+329,Papagayo,4,Algae,Turf algae,Live,64
+329,Papagayo,4,Hard Coral,Pocillopora effusa,Live,32
+330,Papagayo,4,Algae,Turf algae,Live,84
+330,Papagayo,4,Hard Coral,Pocillopora effusa,Live,16
+331,Papagayo,4,Algae,Turf algae,Live,84
+331,Papagayo,4,CCA,Pink CCA,Live,4
+331,Papagayo,4,Diadema,Diadema sp,Live,4
+331,Papagayo,4,Hard Coral,Pocillopora effusa,Live,8
+332,Papagayo,4,Algae,Turf algae,Live,36
+332,Papagayo,4,CCA,Pink CCA,Live,4
+332,Papagayo,4,CCA,Red CCA,Live,4
+332,Papagayo,4,Hard Coral,Pocillopora effusa,Live,52
+333,Papagayo,4,Algae,Turf algae,Live,80
+333,Papagayo,4,CCA,Pink CCA,Live,8
+333,Papagayo,4,Hard Coral,Pocillopora effusa,Live,12
+334,Papagayo,4,Algae,Turf algae,Live,40
+334,Papagayo,4,CCA,Pink CCA,Live,16
+334,Papagayo,4,Diadema,Diadema sp,Live,4
+334,Papagayo,4,Hard Coral,Pocillopora effusa,Live,40
+335,Papagayo,4,Algae,Turf algae,Live,32
+335,Papagayo,4,CCA,Pink CCA,Live,12
+335,Papagayo,4,CCA,White CCA,Live,4
+335,Papagayo,4,Diadema,Diadema sp,Live,16
+335,Papagayo,4,Hard Coral,Pocillopora effusa,Live,36
+336,Papagayo,4,Algae,Turf algae,Live,68
+336,Papagayo,4,CCA,Pink CCA,Live,4
+336,Papagayo,4,Diadema,Diadema sp,Live,4
+336,Papagayo,4,Hard Coral,Pavona gigantea,Live,8
+336,Papagayo,4,Hard Coral,Pocillopora effusa,Live,16
+337,Papagayo,4,Algae,Turf algae,Live,48
+337,Papagayo,4,CCA,Pink CCA,Live,40
+337,Papagayo,4,CCA,White CCA,Live,4
+337,Papagayo,4,Diadema,Diadema sp,Live,4
+337,Papagayo,4,Hard Coral,Pocillopora effusa,Live,4
+338,Papagayo,4,Algae,Turf algae,Live,68
+338,Papagayo,4,CCA,Pink CCA,Live,16
+338,Papagayo,4,Hard Coral,Pocillopora effusa,Live,16
+339,Papagayo,4,Algae,Turf algae,Live,68
+339,Papagayo,4,CCA,Pink CCA,Live,8
+339,Papagayo,4,Diadema,Diadema sp,Live,4
+339,Papagayo,4,Hard Coral,Pocillopora effusa,Live,16
+340,Papagayo,4,Algae,Turf algae,Live,44
+340,Papagayo,4,CCA,White CCA,Live,4
+340,Papagayo,4,Hard Coral,Pocillopora effusa,Live,16
+340,Papagayo,4,Substrate,Gravel,Non-live,8
+340,Papagayo,4,Substrate,Sand,Non-live,24
+341,Papagayo,4,Algae,Turf algae,Live,80
+341,Papagayo,4,Hard Coral,Pocillopora effusa,Live,16
+341,Papagayo,4,Substrate,Gravel,Non-live,4
+342,Papagayo,4,Algae,Padina,Live,8
+342,Papagayo,4,Algae,Turf algae,Live,80
+342,Papagayo,4,CCA,Red CCA,Live,4
+342,Papagayo,4,Hard Coral,Pocillopora effusa,Live,8
+343,Papagayo,4,Algae,Turf algae,Live,64
+343,Papagayo,4,CCA,Red CCA,Live,4
+343,Papagayo,4,CCA,White CCA,Live,4
+343,Papagayo,4,Hard Coral,Pocillopora effusa,Live,28
+344,Papagayo,4,Algae,Turf algae,Live,48
+344,Papagayo,4,CCA,Pink CCA,Live,12
+344,Papagayo,4,Hard Coral,Pocillopora effusa,Live,32
+345,Papagayo,4,Algae,Turf algae,Live,76
+345,Papagayo,4,Hard Coral,Pocillopora effusa,Live,24
+346,Papagayo,4,Algae,Padina,Live,12
+346,Papagayo,4,Algae,Turf algae,Live,68
+346,Papagayo,4,CCA,Pink CCA,Live,4
+346,Papagayo,4,Hard Coral,Pocillopora effusa,Live,16
+347,Papagayo,4,Algae,Padina,Live,8
+347,Papagayo,4,Algae,Turf algae,Live,84
+347,Papagayo,4,Hard Coral,Pocillopora effusa,Live,4
+348,Papagayo,4,Algae,Padina,Live,12
+348,Papagayo,4,Algae,Turf algae,Live,44
+348,Papagayo,4,Hard Coral,Pocillopora effusa,Live,44
+349,Papagayo,4,Algae,Turf algae,Live,80
+349,Papagayo,4,CCA,Pink CCA,Live,4
+349,Papagayo,4,Hard Coral,Pocillopora effusa,Live,12
+350,Papagayo,4,Algae,Caulerpa spp.,Live,8
+350,Papagayo,4,Algae,Turf algae,Live,52
+350,Papagayo,4,CCA,Pink CCA,Live,4
+350,Papagayo,4,CCA,Red CCA,Live,4
+350,Papagayo,4,CCA,White CCA,Live,4
+350,Papagayo,4,Diadema,Diadema sp,Live,4
+350,Papagayo,4,Hard Coral,Pocillopora effusa,Live,20
+351,Papagayo,4,Algae,Turf algae,Live,24
+351,Papagayo,4,CCA,Pink CCA,Live,44
+351,Papagayo,4,CCA,White CCA,Live,4
+351,Papagayo,4,Diadema,Diadema sp,Live,4
+351,Papagayo,4,Hard Coral,Pocillopora effusa,Live,24
+352,Papagayo,4,Algae,Turf algae,Live,56
+352,Papagayo,4,CCA,Pink CCA,Live,24
+352,Papagayo,4,Diadema,Diadema sp,Live,4
+352,Papagayo,4,Hard Coral,Pocillopora effusa,Live,16
+353,Papagayo,4,Algae,Turf algae,Live,80
+353,Papagayo,4,Hard Coral,Pocillopora effusa,Live,16
+354,Papagayo,4,Algae,Turf algae,Live,56
+354,Papagayo,4,CCA,Pink CCA,Live,16
+354,Papagayo,4,Hard Coral,Pocillopora effusa,Live,28
+355,Papagayo,4,Algae,Padina,Live,16
+355,Papagayo,4,Algae,Turf algae,Live,84
+356,Papagayo,4,Algae,Padina,Live,8
+356,Papagayo,4,Algae,Turf algae,Live,84
+356,Papagayo,4,CCA,White CCA,Live,8
+357,Papagayo,4,Algae,Turf algae,Live,72
+357,Papagayo,4,CCA,Pink CCA,Live,8
+357,Papagayo,4,Hard Coral,Pocillopora effusa,Live,12
+358,Papagayo,4,Algae,Turf algae,Live,92
+358,Papagayo,4,CCA,Pink CCA,Live,8
+359,Papagayo,4,Algae,Turf algae,Live,64
+359,Papagayo,4,CCA,Pink CCA,Live,4
+359,Papagayo,4,CCA,White CCA,Live,8
+359,Papagayo,4,Hard Coral,Pocillopora effusa,Live,20
+360,Papagayo,4,Algae,Turf algae,Live,72
+360,Papagayo,4,CCA,Pink CCA,Live,12
+360,Papagayo,4,Hard Coral,Pocillopora effusa,Live,16
+361,Papagayo,5,Algae,Turf algae,Live,28
+361,Papagayo,5,CCA,Pink CCA,Live,32
+361,Papagayo,5,CCA,Red CCA,Live,12
+361,Papagayo,5,CCA,White CCA,Live,8
+361,Papagayo,5,Hard Coral,Pocillopora effusa,Live,12
+362,Papagayo,5,Algae,Turf algae,Live,56
+362,Papagayo,5,CCA,Pink CCA,Live,32
+362,Papagayo,5,Diadema,Diadema sp,Live,4
+363,Papagayo,5,Algae,Turf algae,Live,36
+363,Papagayo,5,CCA,Pink CCA,Live,40
+363,Papagayo,5,CCA,Red CCA,Live,12
+363,Papagayo,5,CCA,White CCA,Live,8
+363,Papagayo,5,Diadema,Diadema sp,Live,4
+364,Papagayo,5,Algae,Turf algae,Live,64
+364,Papagayo,5,CCA,Pink CCA,Live,20
+364,Papagayo,5,CCA,Red CCA,Live,8
+364,Papagayo,5,CCA,White CCA,Live,4
+365,Papagayo,5,Algae,Turf algae,Live,16
+365,Papagayo,5,CCA,Pink CCA,Live,72
+365,Papagayo,5,Hard Coral,Porites lobata,Live,12
+366,Papagayo,5,Algae,Turf algae,Live,60
+366,Papagayo,5,CCA,Pink CCA,Live,24
+366,Papagayo,5,Diadema,Diadema sp,Live,8
+366,Papagayo,5,Hard Coral,Pocillopora effusa,Live,8
+367,Papagayo,5,Algae,Turf algae,Live,92
+367,Papagayo,5,CCA,Pink CCA,Live,4
+367,Papagayo,5,CCA,White CCA,Live,4
+368,Papagayo,5,Algae,Turf algae,Live,68
+368,Papagayo,5,Ascidian,Ascidian (solitary),Live,4
+368,Papagayo,5,CCA,Pink CCA,Live,8
+368,Papagayo,5,Hard Coral,Pocillopora effusa,Live,20
+369,Papagayo,5,Algae,Turf algae,Live,76
+369,Papagayo,5,Hard Coral,Pocillopora effusa,Live,20
+370,Papagayo,5,Algae,Turf algae,Live,88
+370,Papagayo,5,CCA,Pink CCA,Live,8
+371,Papagayo,5,Algae,Turf algae,Live,88
+371,Papagayo,5,CCA,Pink CCA,Live,12
+372,Papagayo,5,Algae,Turf algae,Live,40
+372,Papagayo,5,CCA,Pink CCA,Live,28
+372,Papagayo,5,Diadema,Diadema sp,Live,4
+372,Papagayo,5,Hard Coral,Pocillopora effusa,Live,28
+373,Papagayo,5,Algae,Turf algae,Live,28
+373,Papagayo,5,CCA,Pink CCA,Live,20
+373,Papagayo,5,CCA,Red CCA,Live,8
+373,Papagayo,5,Diadema,Diadema sp,Live,4
+373,Papagayo,5,Hard Coral,Pocillopora effusa,Live,36
+374,Papagayo,5,Algae,Turf algae,Live,12
+374,Papagayo,5,Ascidian,Ascidian (solitary),Live,4
+374,Papagayo,5,CCA,Pink CCA,Live,40
+374,Papagayo,5,CCA,Red CCA,Live,16
+374,Papagayo,5,CCA,White CCA,Live,4
+374,Papagayo,5,Hard Coral,Pavona gigantea,Live,20
+375,Papagayo,5,Algae,Turf algae,Live,88
+375,Papagayo,5,CCA,Pink CCA,Live,4
+375,Papagayo,5,CCA,Red CCA,Live,4
+375,Papagayo,5,CCA,White CCA,Live,4
+376,Papagayo,5,Algae,Galaxaura,Live,4
+376,Papagayo,5,Algae,Turf algae,Live,84
+376,Papagayo,5,CCA,Pink CCA,Live,8
+377,Papagayo,5,Algae,Galaxaura,Live,4
+377,Papagayo,5,Algae,Turf algae,Live,60
+377,Papagayo,5,CCA,Pink CCA,Live,20
+377,Papagayo,5,CCA,Red CCA,Live,4
+377,Papagayo,5,CCA,White CCA,Live,4
+377,Papagayo,5,Hard Coral,Pocillopora effusa,Live,8
+378,Papagayo,5,Algae,Turf algae,Live,68
+378,Papagayo,5,CCA,Pink CCA,Live,12
+378,Papagayo,5,CCA,Red CCA,Live,8
+378,Papagayo,5,Hard Coral,Pocillopora effusa,Live,12
+379,Papagayo,5,Algae,Turf algae,Live,60
+379,Papagayo,5,CCA,Pink CCA,Live,16
+379,Papagayo,5,CCA,Red CCA,Live,8
+379,Papagayo,5,Hard Coral,Pocillopora effusa,Live,4
+379,Papagayo,5,Substrate,Sand,Non-live,8
+380,Papagayo,5,Algae,Turf algae,Live,84
+380,Papagayo,5,CCA,Pink CCA,Live,4
+380,Papagayo,5,CCA,Red CCA,Live,8
+380,Papagayo,5,Substrate,Sand,Non-live,4
+381,Papagayo,5,Algae,Turf algae,Live,52
+381,Papagayo,5,CCA,Pink CCA,Live,24
+381,Papagayo,5,CCA,Red CCA,Live,4
+381,Papagayo,5,CCA,White CCA,Live,4
+381,Papagayo,5,Hard Coral,Pocillopora effusa,Live,12
+382,Papagayo,5,Algae,Turf algae,Live,64
+382,Papagayo,5,CCA,Pink CCA,Live,16
+382,Papagayo,5,Hard Coral,Pocillopora effusa,Live,20
+383,Papagayo,5,Algae,Turf algae,Live,56
+383,Papagayo,5,CCA,Pink CCA,Live,24
+383,Papagayo,5,CCA,Red CCA,Live,12
+383,Papagayo,5,Diadema,Diadema sp,Live,8
+384,Papagayo,5,Algae,Turf algae,Live,44
+384,Papagayo,5,CCA,Pink CCA,Live,40
+384,Papagayo,5,Hard Coral,Pocillopora effusa,Live,16
+385,Papagayo,5,Algae,Turf algae,Live,80
+385,Papagayo,5,CCA,Pink CCA,Live,20
+386,Papagayo,5,Algae,Turf algae,Live,28
+386,Papagayo,5,CCA,Pink CCA,Live,32
+386,Papagayo,5,CCA,Red CCA,Live,8
+386,Papagayo,5,Hard Coral,Pocillopora effusa,Live,28
+387,Papagayo,5,Algae,Caulerpa spp.,Live,4
+387,Papagayo,5,Algae,Turf algae,Live,56
+387,Papagayo,5,CCA,Pink CCA,Live,20
+387,Papagayo,5,CCA,Red CCA,Live,4
+387,Papagayo,5,Hard Coral,Pocillopora effusa,Live,8
+388,Papagayo,5,Algae,Turf algae,Live,40
+388,Papagayo,5,CCA,Pink CCA,Live,28
+388,Papagayo,5,CCA,Red CCA,Live,4
+388,Papagayo,5,Hard Coral,Pocillopora effusa,Live,28
+389,Papagayo,5,Algae,Turf algae,Live,48
+389,Papagayo,5,CCA,Pink CCA,Live,44
+389,Papagayo,5,Hard Coral,Pocillopora effusa,Live,8
+390,Papagayo,5,Algae,Turf algae,Live,88
+390,Papagayo,5,CCA,Pink CCA,Live,8
+390,Papagayo,5,CCA,Red CCA,Live,4
+391,Papagayo,5,Algae,Turf algae,Live,76
+391,Papagayo,5,CCA,Pink CCA,Live,8
+391,Papagayo,5,CCA,Red CCA,Live,4
+391,Papagayo,5,CCA,White CCA,Live,4
+392,Papagayo,5,Algae,Turf algae,Live,60
+392,Papagayo,5,CCA,Pink CCA,Live,16
+392,Papagayo,5,Diadema,Diadema sp,Live,4
+392,Papagayo,5,Hard Coral,Pocillopora effusa,Live,20
+393,Papagayo,5,Algae,Turf algae,Live,56
+393,Papagayo,5,CCA,Pink CCA,Live,8
+393,Papagayo,5,Diadema,Diadema sp,Live,8
+393,Papagayo,5,Hard Coral,Pocillopora effusa,Live,28
+394,Papagayo,5,Algae,Turf algae,Live,40
+394,Papagayo,5,CCA,Pink CCA,Live,4
+394,Papagayo,5,Hard Coral,Pavona gigantea,Live,56
+395,Papagayo,5,Algae,Turf algae,Live,60
+395,Papagayo,5,CCA,Pink CCA,Live,20
+395,Papagayo,5,CCA,Red CCA,Live,4
+395,Papagayo,5,Soft Coral,Soft Coral,Non-live,4
+396,Papagayo,5,Algae,Galaxaura,Live,4
+396,Papagayo,5,Algae,Turf algae,Live,76
+396,Papagayo,5,CCA,White CCA,Live,4
+396,Papagayo,5,Substrate,Gravel,Non-live,8
+396,Papagayo,5,Substrate,Sand,Non-live,8
+397,Papagayo,5,Algae,Turf algae,Live,84
+397,Papagayo,5,CCA,Pink CCA,Live,8
+397,Papagayo,5,CCA,Red CCA,Live,8
+398,Papagayo,5,Algae,Turf algae,Live,64
+398,Papagayo,5,CCA,Pink CCA,Live,12
+398,Papagayo,5,Hard Coral,Porites lobata,Live,8
+398,Papagayo,5,Substrate,Sand,Non-live,12
+399,Papagayo,5,Algae,Turf algae,Live,96
+399,Papagayo,5,CCA,Pink CCA,Live,4
+400,Papagayo,5,Algae,Turf algae,Live,68
+400,Papagayo,5,CCA,Pink CCA,Live,8
+400,Papagayo,5,Hard Coral,Pocillopora effusa,Live,20
+401,Papagayo,5,Algae,Turf algae,Live,100
+402,Papagayo,5,Algae,Turf algae,Live,64
+402,Papagayo,5,CCA,Pink CCA,Live,16
+402,Papagayo,5,CCA,Red CCA,Live,4
+402,Papagayo,5,Diadema,Diadema sp,Live,4
+402,Papagayo,5,Hard Coral,Porites lobata,Live,8
+402,Papagayo,5,Substrate,Sand,Non-live,4
+403,Papagayo,5,Algae,Turf algae,Live,52
+403,Papagayo,5,CCA,Pink CCA,Live,20
+403,Papagayo,5,CCA,Red CCA,Live,8
+403,Papagayo,5,CCA,White CCA,Live,8
+403,Papagayo,5,Diadema,Diadema sp,Live,8
+403,Papagayo,5,Hard Coral,Pavona gigantea,Live,4
+404,Papagayo,5,Algae,Turf algae,Live,80
+404,Papagayo,5,CCA,Pink CCA,Live,8
+404,Papagayo,5,Hard Coral,Pocillopora effusa,Live,12
+405,Papagayo,5,Algae,Turf algae,Live,52
+405,Papagayo,5,CCA,Pink CCA,Live,28
+405,Papagayo,5,CCA,Red CCA,Live,4
+405,Papagayo,5,Hard Coral,Pavona gigantea,Live,12
+406,Papagayo,5,Algae,Galaxaura,Live,4
+406,Papagayo,5,Algae,Turf algae,Live,56
+406,Papagayo,5,Ascidian,Ascidian (solitary),Live,4
+406,Papagayo,5,CCA,Pink CCA,Live,8
+406,Papagayo,5,CCA,Red CCA,Live,16
+406,Papagayo,5,Hard Coral,Pocillopora effusa,Live,8
+407,Papagayo,5,Algae,Turf algae,Live,52
+407,Papagayo,5,Hard Coral,Pocillopora effusa,Live,40
+408,Papagayo,5,Algae,Turf algae,Live,76
+408,Papagayo,5,CCA,Pink CCA,Live,16
+408,Papagayo,5,CCA,Red CCA,Live,8
+409,Papagayo,5,Algae,Turf algae,Live,100
+410,Papagayo,5,Algae,Turf algae,Live,56
+410,Papagayo,5,CCA,Pink CCA,Live,20
+410,Papagayo,5,Substrate,Gravel,Non-live,16
+410,Papagayo,5,Substrate,Sand,Non-live,8
+411,Papagayo,5,Algae,Turf algae,Live,56
+411,Papagayo,5,CCA,Pink CCA,Live,20
+411,Papagayo,5,Substrate,Gravel,Non-live,16
+411,Papagayo,5,Substrate,Sand,Non-live,4
+412,Papagayo,5,Algae,Turf algae,Live,24
+412,Papagayo,5,CCA,Pink CCA,Live,40
+412,Papagayo,5,CCA,Red CCA,Live,4
+412,Papagayo,5,Hard Coral,Pocillopora effusa,Live,32
+413,Papagayo,5,Algae,Turf algae,Live,80
+413,Papagayo,5,CCA,Pink CCA,Live,20
+414,Papagayo,5,Algae,Turf algae,Live,72
+414,Papagayo,5,CCA,Pink CCA,Live,20
+414,Papagayo,5,CCA,Red CCA,Live,8
+415,Papagayo,5,Algae,Turf algae,Live,80
+415,Papagayo,5,CCA,Pink CCA,Live,20
+416,Papagayo,5,Algae,Turf algae,Live,40
+416,Papagayo,5,CCA,Pink CCA,Live,52
+416,Papagayo,5,CCA,Red CCA,Live,4
+416,Papagayo,5,CCA,White CCA,Live,4
+417,Papagayo,5,Algae,Turf algae,Live,68
+417,Papagayo,5,CCA,Pink CCA,Live,28
+417,Papagayo,5,Soft Coral,Soft Coral,Non-live,4
+418,Papagayo,5,Algae,Turf algae,Live,80
+418,Papagayo,5,CCA,Pink CCA,Live,12
+418,Papagayo,5,CCA,Red CCA,Live,4
+418,Papagayo,5,Diadema,Diadema sp,Live,4
+419,Papagayo,5,Algae,Turf algae,Live,68
+419,Papagayo,5,CCA,Pink CCA,Live,4
+419,Papagayo,5,CCA,White CCA,Live,4
+419,Papagayo,5,Hard Coral,Pocillopora effusa,Live,24
+420,Papagayo,5,Algae,Turf algae,Live,76
+420,Papagayo,5,CCA,Pink CCA,Live,8
+420,Papagayo,5,CCA,Red CCA,Live,4
+420,Papagayo,5,Hard Coral,Pavona gigantea,Live,12
+421,Papagayo,5,Algae,Turf algae,Live,20
+421,Papagayo,5,CCA,Pink CCA,Live,60
+421,Papagayo,5,CCA,Red CCA,Live,4
+421,Papagayo,5,CCA,White CCA,Live,8
+421,Papagayo,5,Hard Coral,Pocillopora effusa,Live,4
+422,Papagayo,5,Algae,Turf algae,Live,80
+422,Papagayo,5,CCA,Pink CCA,Live,8
+422,Papagayo,5,CCA,Red CCA,Live,4
+422,Papagayo,5,CCA,White CCA,Live,4
+423,Papagayo,5,Algae,Turf algae,Live,24
+423,Papagayo,5,CCA,Pink CCA,Live,40
+423,Papagayo,5,CCA,Red CCA,Live,4
+423,Papagayo,5,CCA,White CCA,Live,8
+423,Papagayo,5,Diadema,Diadema sp,Live,4
+423,Papagayo,5,Hard Coral,Pocillopora effusa,Live,16
+424,Papagayo,5,Algae,Turf algae,Live,96
+425,Papagayo,5,Algae,Galaxaura,Live,4
+425,Papagayo,5,Algae,Turf algae,Live,52
+425,Papagayo,5,CCA,Pink CCA,Live,28
+425,Papagayo,5,CCA,Red CCA,Live,12
+425,Papagayo,5,CCA,White CCA,Live,4
+426,Papagayo,5,Algae,Turf algae,Live,60
+426,Papagayo,5,CCA,Pink CCA,Live,28
+426,Papagayo,5,CCA,White CCA,Live,4
+426,Papagayo,5,Hard Coral,Porites lobata,Live,8
+427,Papagayo,5,Algae,Turf algae,Live,52
+427,Papagayo,5,CCA,Pink CCA,Live,12
+427,Papagayo,5,CCA,Red CCA,Live,4
+427,Papagayo,5,CCA,White CCA,Live,4
+427,Papagayo,5,Hard Coral,Pavona gigantea,Live,24
+428,Papagayo,5,Algae,Turf algae,Live,60
+428,Papagayo,5,CCA,Pink CCA,Live,16
+428,Papagayo,5,Hard Coral,Pocillopora effusa,Live,20
+429,Papagayo,5,Algae,Turf algae,Live,84
+429,Papagayo,5,CCA,Pink CCA,Live,8
+430,Papagayo,5,Algae,Turf algae,Live,84
+430,Papagayo,5,CCA,Pink CCA,Live,12
+430,Papagayo,5,Substrate,Gravel,Non-live,4
+431,Papagayo,5,Algae,Turf algae,Live,88
+431,Papagayo,5,CCA,Pink CCA,Live,8
+432,Papagayo,5,Algae,Turf algae,Live,72
+432,Papagayo,5,CCA,Pink CCA,Live,8
+432,Papagayo,5,Hard Coral,Pocillopora effusa,Live,12
+433,Papagayo,5,Algae,Turf algae,Live,56
+433,Papagayo,5,CCA,Pink CCA,Live,20
+433,Papagayo,5,CCA,Red CCA,Live,12
+433,Papagayo,5,Hard Coral,Pocillopora effusa,Live,12
+434,Papagayo,5,Algae,Turf algae,Live,76
+434,Papagayo,5,CCA,Pink CCA,Live,12
+434,Papagayo,5,CCA,Red CCA,Live,12
+435,Papagayo,5,Algae,Turf algae,Live,32
+435,Papagayo,5,CCA,Pink CCA,Live,40
+435,Papagayo,5,CCA,Red CCA,Live,8
+435,Papagayo,5,CCA,White CCA,Live,4
+435,Papagayo,5,Hard Coral,Pavona gigantea,Live,16
+436,Papagayo,5,Algae,Galaxaura,Live,4
+436,Papagayo,5,Algae,Turf algae,Live,60
+436,Papagayo,5,CCA,Pink CCA,Live,20
+436,Papagayo,5,CCA,Red CCA,Live,4
+436,Papagayo,5,CCA,White CCA,Live,4
+437,Papagayo,5,Algae,Turf algae,Live,84
+437,Papagayo,5,CCA,Pink CCA,Live,8
+437,Papagayo,5,CCA,White CCA,Live,4
+438,Papagayo,5,Algae,Turf algae,Live,12
+438,Papagayo,5,CCA,Pink CCA,Live,56
+438,Papagayo,5,CCA,White CCA,Live,4
+438,Papagayo,5,Hard Coral,Pavona gigantea,Live,24
+438,Papagayo,5,Substrate,Sand,Non-live,4
+439,Papagayo,5,Algae,Turf algae,Live,80
+439,Papagayo,5,CCA,Pink CCA,Live,12
+439,Papagayo,5,CCA,Red CCA,Live,4
+440,Papagayo,5,Algae,Turf algae,Live,64
+440,Papagayo,5,CCA,Pink CCA,Live,36
+441,Papagayo,5,Algae,Turf algae,Live,80
+441,Papagayo,5,CCA,Pink CCA,Live,4
+441,Papagayo,5,CCA,Red CCA,Live,4
+441,Papagayo,5,Hard Coral,Pocillopora effusa,Live,8
+441,Papagayo,5,Substrate,Sand,Non-live,4
+442,Papagayo,5,Algae,Turf algae,Live,68
+442,Papagayo,5,CCA,Pink CCA,Live,16
+442,Papagayo,5,CCA,Red CCA,Live,8
+442,Papagayo,5,Substrate,Gravel,Non-live,4
+443,Papagayo,5,Algae,Turf algae,Live,48
+443,Papagayo,5,CCA,Pink CCA,Live,40
+443,Papagayo,5,CCA,Red CCA,Live,8
+443,Papagayo,5,CCA,White CCA,Live,4
+444,Papagayo,5,Algae,Turf algae,Live,76
+444,Papagayo,5,CCA,Pink CCA,Live,12
+444,Papagayo,5,CCA,Red CCA,Live,4
+444,Papagayo,5,CCA,White CCA,Live,4
+444,Papagayo,5,Diadema,Diadema sp,Live,4
+445,Papagayo,5,Algae,Turf algae,Live,60
+445,Papagayo,5,CCA,Pink CCA,Live,36
+445,Papagayo,5,CCA,Red CCA,Live,4
+446,Papagayo,5,Algae,Turf algae,Live,60
+446,Papagayo,5,CCA,Pink CCA,Live,32
+446,Papagayo,5,CCA,Red CCA,Live,4
+446,Papagayo,5,CCA,White CCA,Live,4
+447,Papagayo,5,Algae,Turf algae,Live,32
+447,Papagayo,5,CCA,Pink CCA,Live,40
+447,Papagayo,5,CCA,Red CCA,Live,4
+447,Papagayo,5,Hard Coral,Pavona gigantea,Live,24
+448,Papagayo,5,Algae,Turf algae,Live,16
+448,Papagayo,5,CCA,Pink CCA,Live,32
+448,Papagayo,5,CCA,White CCA,Live,4
+448,Papagayo,5,Hard Coral,Pavona gigantea,Live,48
+449,Papagayo,5,Algae,Turf algae,Live,36
+449,Papagayo,5,CCA,Pink CCA,Live,52
+449,Papagayo,5,Soft Coral,Soft Coral,Non-live,4
+450,Papagayo,5,Algae,Galaxaura,Live,4
+450,Papagayo,5,Algae,Turf algae,Live,92
+450,Papagayo,5,Hard Coral,Porites lobata,Live,4
+451,Papagayo,6,Algae,Turf algae,Live,68
+451,Papagayo,6,CCA,Pink CCA,Live,4
+451,Papagayo,6,Hard Coral,Pocillopora effusa,Live,28
+452,Papagayo,6,Algae,Turf algae,Live,80
+452,Papagayo,6,CCA,Red CCA,Live,16
+452,Papagayo,6,Soft Coral,Soft Coral,Non-live,4
+453,Papagayo,6,Algae,Turf algae,Live,60
+453,Papagayo,6,CCA,Pink CCA,Live,4
+453,Papagayo,6,CCA,White CCA,Live,4
+453,Papagayo,6,Hard Coral,Pocillopora effusa,Live,32
+454,Papagayo,6,Algae,Turf algae,Live,92
+454,Papagayo,6,CCA,White CCA,Live,8
+455,Papagayo,6,Algae,Turf algae,Live,72
+455,Papagayo,6,CCA,Pink CCA,Live,4
+455,Papagayo,6,CCA,Red CCA,Live,4
+455,Papagayo,6,CCA,White CCA,Live,4
+455,Papagayo,6,Hard Coral,Pocillopora effusa,Live,16
+456,Papagayo,6,Algae,Turf algae,Live,32
+456,Papagayo,6,CCA,Pink CCA,Live,28
+456,Papagayo,6,CCA,Red CCA,Live,4
+456,Papagayo,6,CCA,White CCA,Live,8
+456,Papagayo,6,Diadema,Diadema sp,Live,4
+456,Papagayo,6,Hard Coral,Pocillopora effusa,Live,20
+457,Papagayo,6,Algae,Caulerpa spp.,Live,12
+457,Papagayo,6,Algae,Turf algae,Live,52
+457,Papagayo,6,CCA,Pink CCA,Live,4
+457,Papagayo,6,CCA,Red CCA,Live,4
+457,Papagayo,6,Hard Coral,Pocillopora effusa,Live,28
+458,Papagayo,6,Algae,Turf algae,Live,80
+458,Papagayo,6,CCA,Red CCA,Live,12
+458,Papagayo,6,Substrate,Sand,Non-live,8
+459,Papagayo,6,Algae,Turf algae,Live,68
+459,Papagayo,6,CCA,Red CCA,Live,4
+459,Papagayo,6,CCA,White CCA,Live,12
+459,Papagayo,6,Hard Coral,Pocillopora effusa,Live,12
+459,Papagayo,6,Substrate,Sand,Non-live,4
+460,Papagayo,6,Algae,Turf algae,Live,48
+460,Papagayo,6,CCA,White CCA,Live,4
+460,Papagayo,6,Hard Coral,Pocillopora effusa,Live,24
+460,Papagayo,6,Substrate,Gravel,Non-live,20
+460,Papagayo,6,Substrate,Sand,Non-live,4
+461,Papagayo,6,Algae,Turf algae,Live,76
+461,Papagayo,6,CCA,Pink CCA,Live,12
+461,Papagayo,6,CCA,White CCA,Live,4
+461,Papagayo,6,Substrate,Gravel,Non-live,4
+461,Papagayo,6,Substrate,Sand,Non-live,4
+462,Papagayo,6,Algae,Turf algae,Live,84
+462,Papagayo,6,CCA,White CCA,Live,4
+462,Papagayo,6,Hard Coral,Pocillopora effusa,Live,12
+463,Papagayo,6,Algae,Turf algae,Live,64
+463,Papagayo,6,CCA,Pink CCA,Live,16
+463,Papagayo,6,Diadema,Diadema sp,Live,4
+463,Papagayo,6,Hard Coral,Pocillopora effusa,Live,16
+464,Papagayo,6,Algae,Turf algae,Live,64
+464,Papagayo,6,CCA,Pink CCA,Live,12
+464,Papagayo,6,CCA,White CCA,Live,4
+464,Papagayo,6,Hard Coral,Pocillopora effusa,Live,20
+465,Papagayo,6,Algae,Galaxaura,Live,4
+465,Papagayo,6,Algae,Turf algae,Live,64
+465,Papagayo,6,CCA,White CCA,Live,4
+465,Papagayo,6,Hard Coral,Pocillopora effusa,Live,28
+466,Papagayo,6,Algae,Turf algae,Live,56
+466,Papagayo,6,CCA,Pink CCA,Live,24
+466,Papagayo,6,CCA,Red CCA,Live,12
+466,Papagayo,6,CCA,White CCA,Live,8
+467,Papagayo,6,Algae,Turf algae,Live,60
+467,Papagayo,6,CCA,Pink CCA,Live,4
+467,Papagayo,6,CCA,Red CCA,Live,4
+467,Papagayo,6,Hard Coral,Pocillopora effusa,Live,32
+468,Papagayo,6,Algae,Turf algae,Live,44
+468,Papagayo,6,CCA,Pink CCA,Live,28
+468,Papagayo,6,CCA,Red CCA,Live,4
+468,Papagayo,6,CCA,White CCA,Live,8
+468,Papagayo,6,Hard Coral,Pocillopora effusa,Live,12
+468,Papagayo,6,Substrate,Gravel,Non-live,4
+469,Papagayo,6,Algae,Galaxaura,Live,4
+469,Papagayo,6,Algae,Turf algae,Live,52
+469,Papagayo,6,Ascidian,Ascidian (colonial),Live,4
+469,Papagayo,6,Ascidian,Ascidian (solitary),Live,4
+469,Papagayo,6,CCA,Pink CCA,Live,16
+469,Papagayo,6,CCA,Red CCA,Live,8
+469,Papagayo,6,Hard Coral,Pocillopora effusa,Live,12
+470,Papagayo,6,Algae,Turf algae,Live,44
+470,Papagayo,6,CCA,Pink CCA,Live,28
+470,Papagayo,6,CCA,Red CCA,Live,4
+470,Papagayo,6,Hard Coral,Pocillopora effusa,Live,24
+471,Papagayo,6,Algae,Turf algae,Live,52
+471,Papagayo,6,CCA,Pink CCA,Live,4
+471,Papagayo,6,CCA,White CCA,Live,4
+471,Papagayo,6,Hard Coral,Pocillopora effusa,Live,40
+472,Papagayo,6,Algae,Turf algae,Live,56
+472,Papagayo,6,CCA,White CCA,Live,8
+472,Papagayo,6,Hard Coral,Pocillopora effusa,Live,28
+473,Papagayo,6,Algae,Turf algae,Live,72
+473,Papagayo,6,Ascidian,Ascidian (colonial),Live,4
+473,Papagayo,6,CCA,White CCA,Live,8
+473,Papagayo,6,Hard Coral,Pocillopora effusa,Live,16
+474,Papagayo,6,Algae,Turf algae,Live,72
+474,Papagayo,6,CCA,Pink CCA,Live,8
+474,Papagayo,6,CCA,Red CCA,Live,4
+474,Papagayo,6,CCA,White CCA,Live,4
+474,Papagayo,6,Hard Coral,Pocillopora effusa,Live,12
+475,Papagayo,6,Algae,Turf algae,Live,48
+475,Papagayo,6,CCA,Pink CCA,Live,4
+475,Papagayo,6,CCA,Red CCA,Live,4
+475,Papagayo,6,CCA,White CCA,Live,8
+475,Papagayo,6,Hard Coral,Pocillopora effusa,Live,36
+476,Papagayo,6,Algae,Turf algae,Live,40
+476,Papagayo,6,CCA,Pink CCA,Live,24
+476,Papagayo,6,CCA,Red CCA,Live,4
+476,Papagayo,6,CCA,White CCA,Live,8
+476,Papagayo,6,Hard Coral,Pocillopora effusa,Live,24
+477,Papagayo,6,Algae,Turf algae,Live,72
+477,Papagayo,6,CCA,Pink CCA,Live,4
+477,Papagayo,6,Hard Coral,Pocillopora effusa,Live,24
+478,Papagayo,6,Algae,Turf algae,Live,64
+478,Papagayo,6,CCA,Pink CCA,Live,12
+478,Papagayo,6,CCA,White CCA,Live,8
+478,Papagayo,6,Diadema,Diadema sp,Live,4
+478,Papagayo,6,Hard Coral,Pocillopora effusa,Live,12
+479,Papagayo,6,Algae,Turf algae,Live,64
+479,Papagayo,6,CCA,Pink CCA,Live,32
+479,Papagayo,6,CCA,Red CCA,Live,4
+480,Papagayo,6,Algae,Turf algae,Live,68
+480,Papagayo,6,CCA,Pink CCA,Live,12
+480,Papagayo,6,CCA,White CCA,Live,4
+480,Papagayo,6,Hard Coral,Pocillopora effusa,Live,16
+481,Papagayo,6,Algae,Caulerpa spp.,Live,4
+481,Papagayo,6,Algae,Turf algae,Live,44
+481,Papagayo,6,CCA,Pink CCA,Live,16
+481,Papagayo,6,CCA,White CCA,Live,4
+481,Papagayo,6,Diadema,Diadema sp,Live,4
+481,Papagayo,6,Hard Coral,Pocillopora effusa,Live,24
+482,Papagayo,6,Algae,Turf algae,Live,52
+482,Papagayo,6,Ascidian,Ascidian (solitary),Live,4
+482,Papagayo,6,CCA,Pink CCA,Live,8
+482,Papagayo,6,Hard Coral,Pocillopora effusa,Live,36
+483,Papagayo,6,Algae,Turf algae,Live,88
+483,Papagayo,6,CCA,Red CCA,Live,4
+483,Papagayo,6,Hard Coral,Pocillopora effusa,Live,8
+484,Papagayo,6,Algae,Turf algae,Live,100
+485,Papagayo,6,Algae,Turf algae,Live,72
+485,Papagayo,6,CCA,Pink CCA,Live,4
+485,Papagayo,6,CCA,Red CCA,Live,4
+485,Papagayo,6,Hard Coral,Pocillopora effusa,Live,20
+486,Papagayo,6,Algae,Turf algae,Live,72
+486,Papagayo,6,CCA,Pink CCA,Live,12
+486,Papagayo,6,CCA,Red CCA,Live,4
+486,Papagayo,6,Hard Coral,Pocillopora effusa,Live,8
+487,Papagayo,6,Algae,Turf algae,Live,48
+487,Papagayo,6,CCA,Pink CCA,Live,16
+487,Papagayo,6,CCA,Red CCA,Live,4
+487,Papagayo,6,CCA,White CCA,Live,12
+487,Papagayo,6,Hard Coral,Pocillopora effusa,Live,20
+488,Papagayo,6,Algae,Turf algae,Live,28
+488,Papagayo,6,CCA,Pink CCA,Live,12
+488,Papagayo,6,CCA,White CCA,Live,4
+488,Papagayo,6,Hard Coral,Pavona gigantea,Live,56
+489,Papagayo,6,Algae,Caulerpa spp.,Live,24
+489,Papagayo,6,Algae,Turf algae,Live,44
+489,Papagayo,6,CCA,Pink CCA,Live,8
+489,Papagayo,6,CCA,Red CCA,Live,8
+489,Papagayo,6,Hard Coral,Pocillopora effusa,Live,16
+490,Papagayo,6,Algae,Turf algae,Live,68
+490,Papagayo,6,CCA,Pink CCA,Live,12
+490,Papagayo,6,CCA,Red CCA,Live,4
+490,Papagayo,6,Hard Coral,Pocillopora effusa,Live,16
+491,Papagayo,6,Algae,Turf algae,Live,76
+491,Papagayo,6,CCA,Pink CCA,Live,4
+491,Papagayo,6,CCA,Red CCA,Live,4
+491,Papagayo,6,Hard Coral,Pocillopora effusa,Live,16
+492,Papagayo,6,Algae,Turf algae,Live,72
+492,Papagayo,6,CCA,Pink CCA,Live,4
+492,Papagayo,6,CCA,Red CCA,Live,8
+492,Papagayo,6,Hard Coral,Pocillopora effusa,Live,16
+493,Papagayo,6,Algae,Turf algae,Live,52
+493,Papagayo,6,CCA,Pink CCA,Live,8
+493,Papagayo,6,CCA,Red CCA,Live,4
+493,Papagayo,6,Hard Coral,Pocillopora effusa,Live,32
+494,Papagayo,6,Algae,Turf algae,Live,64
+494,Papagayo,6,CCA,Pink CCA,Live,24
+494,Papagayo,6,Hard Coral,Pocillopora effusa,Live,12
+495,Papagayo,6,Algae,Turf algae,Live,28
+495,Papagayo,6,CCA,Pink CCA,Live,20
+495,Papagayo,6,CCA,Red CCA,Live,12
+495,Papagayo,6,Diadema,Diadema sp,Live,4
+495,Papagayo,6,Hard Coral,Pocillopora effusa,Live,36
+496,Papagayo,6,Algae,Caulerpa spp.,Live,40
+496,Papagayo,6,Algae,Turf algae,Live,44
+496,Papagayo,6,CCA,White CCA,Live,8
+496,Papagayo,6,Substrate,Sand,Non-live,8
+497,Papagayo,6,Algae,Caulerpa spp.,Live,20
+497,Papagayo,6,Algae,Turf algae,Live,72
+498,Papagayo,6,Algae,Caulerpa spp.,Live,4
+498,Papagayo,6,Algae,Galaxaura,Live,4
+498,Papagayo,6,Algae,Turf algae,Live,80
+498,Papagayo,6,CCA,Pink CCA,Live,8
+498,Papagayo,6,Substrate,Sand,Non-live,4
+499,Papagayo,6,Algae,Turf algae,Live,64
+499,Papagayo,6,CCA,Pink CCA,Live,8
+499,Papagayo,6,CCA,White CCA,Live,4
+499,Papagayo,6,Hard Coral,Pocillopora effusa,Live,16
+499,Papagayo,6,Substrate,Sand,Non-live,8
+500,Papagayo,6,Algae,Turf algae,Live,64
+500,Papagayo,6,CCA,Red CCA,Live,4
+500,Papagayo,6,Hard Coral,Pocillopora effusa,Live,20
+500,Papagayo,6,Substrate,Sand,Non-live,12
+501,Papagayo,6,Algae,Turf algae,Live,60
+501,Papagayo,6,CCA,Pink CCA,Live,28
+501,Papagayo,6,CCA,Red CCA,Live,12
+502,Papagayo,6,Algae,Turf algae,Live,60
+502,Papagayo,6,CCA,Pink CCA,Live,16
+502,Papagayo,6,Hard Coral,Porites lobata,Live,20
+503,Papagayo,6,Algae,Turf algae,Live,84
+503,Papagayo,6,CCA,Pink CCA,Live,4
+503,Papagayo,6,CCA,White CCA,Live,4
+503,Papagayo,6,Hard Coral,Pocillopora effusa,Live,4
+504,Papagayo,6,Algae,Turf algae,Live,64
+504,Papagayo,6,CCA,Pink CCA,Live,16
+504,Papagayo,6,CCA,Red CCA,Live,8
+504,Papagayo,6,CCA,White CCA,Live,4
+504,Papagayo,6,Hard Coral,Pavona gigantea,Live,8
+505,Papagayo,6,Algae,Caulerpa spp.,Live,8
+505,Papagayo,6,Algae,Turf algae,Live,52
+505,Papagayo,6,CCA,Pink CCA,Live,20
+505,Papagayo,6,Hard Coral,Porites lobata,Live,16
+506,Papagayo,6,Algae,Caulerpa spp.,Live,4
+506,Papagayo,6,Algae,Turf algae,Live,52
+506,Papagayo,6,CCA,Pink CCA,Live,8
+506,Papagayo,6,CCA,White CCA,Live,16
+506,Papagayo,6,Hard Coral,Pocillopora effusa,Live,16
+506,Papagayo,6,Substrate,Sand,Non-live,4
+507,Papagayo,6,Algae,Turf algae,Live,68
+507,Papagayo,6,CCA,Pink CCA,Live,8
+507,Papagayo,6,CCA,White CCA,Live,8
+507,Papagayo,6,Hard Coral,Pocillopora effusa,Live,8
+507,Papagayo,6,Substrate,Gravel,Non-live,4
+507,Papagayo,6,Substrate,Sand,Non-live,4
+508,Papagayo,6,Algae,Caulerpa spp.,Live,12
+508,Papagayo,6,Algae,Turf algae,Live,60
+508,Papagayo,6,CCA,Red CCA,Live,4
+508,Papagayo,6,Substrate,Gravel,Non-live,20
+508,Papagayo,6,Substrate,Sand,Non-live,4
+509,Papagayo,6,Algae,Caulerpa spp.,Live,36
+509,Papagayo,6,Algae,Galaxaura,Live,4
+509,Papagayo,6,Algae,Turf algae,Live,52
+509,Papagayo,6,CCA,White CCA,Live,4
+509,Papagayo,6,Hard Coral,Pocillopora effusa,Live,4
+510,Papagayo,6,Algae,Turf algae,Live,92
+510,Papagayo,6,CCA,Pink CCA,Live,4
+510,Papagayo,6,Hard Coral,Pocillopora effusa,Live,4
+511,Papagayo,6,Algae,Turf algae,Live,76
+511,Papagayo,6,CCA,Pink CCA,Live,8
+511,Papagayo,6,CCA,Red CCA,Live,12
+511,Papagayo,6,CCA,White CCA,Live,4
+512,Papagayo,6,Algae,Turf algae,Live,64
+512,Papagayo,6,CCA,Pink CCA,Live,4
+512,Papagayo,6,Hard Coral,Pocillopora effusa,Live,32
+513,Papagayo,6,Algae,Caulerpa spp.,Live,8
+513,Papagayo,6,Algae,Turf algae,Live,68
+513,Papagayo,6,CCA,Pink CCA,Live,4
+513,Papagayo,6,Hard Coral,Pocillopora effusa,Live,4
+513,Papagayo,6,Substrate,Gravel,Non-live,12
+513,Papagayo,6,Substrate,Sand,Non-live,4
+514,Papagayo,6,Algae,Turf algae,Live,68
+514,Papagayo,6,CCA,Pink CCA,Live,4
+514,Papagayo,6,CCA,Red CCA,Live,16
+514,Papagayo,6,Hard Coral,Pocillopora effusa,Live,8
+514,Papagayo,6,Substrate,Gravel,Non-live,4
+515,Papagayo,6,Algae,Turf algae,Live,64
+515,Papagayo,6,CCA,Pink CCA,Live,8
+515,Papagayo,6,Diadema,Diadema sp,Live,4
+515,Papagayo,6,Hard Coral,Pocillopora effusa,Live,24
+516,Papagayo,6,Algae,Caulerpa spp.,Live,4
+516,Papagayo,6,Algae,Galaxaura,Live,4
+516,Papagayo,6,Algae,Turf algae,Live,80
+516,Papagayo,6,CCA,Pink CCA,Live,4
+516,Papagayo,6,CCA,Red CCA,Live,8
+517,Papagayo,6,Algae,Turf algae,Live,60
+517,Papagayo,6,CCA,Pink CCA,Live,12
+517,Papagayo,6,CCA,Red CCA,Live,12
+517,Papagayo,6,Hard Coral,Pocillopora effusa,Live,16
+518,Papagayo,6,Algae,Turf algae,Live,60
+518,Papagayo,6,CCA,Pink CCA,Live,20
+518,Papagayo,6,CCA,Red CCA,Live,4
+518,Papagayo,6,CCA,White CCA,Live,4
+518,Papagayo,6,Diadema,Diadema sp,Live,4
+518,Papagayo,6,Hard Coral,Porites lobata,Live,8
+519,Papagayo,6,Algae,Turf algae,Live,64
+519,Papagayo,6,Ascidian,Ascidian (solitary),Live,4
+519,Papagayo,6,CCA,Red CCA,Live,8
+519,Papagayo,6,Hard Coral,Pocillopora effusa,Live,16
+519,Papagayo,6,Soft Coral,Soft Coral,Non-live,4
+519,Papagayo,6,Substrate,Sand,Non-live,4
+520,Papagayo,6,Algae,Turf algae,Live,48
+520,Papagayo,6,CCA,Pink CCA,Live,8
+520,Papagayo,6,CCA,Red CCA,Live,8
+520,Papagayo,6,CCA,White CCA,Live,4
+520,Papagayo,6,Hard Coral,Pocillopora effusa,Live,24
+520,Papagayo,6,Substrate,Gravel,Non-live,4
+520,Papagayo,6,Substrate,Sand,Non-live,4
+521,Papagayo,6,Algae,Caulerpa spp.,Live,20
+521,Papagayo,6,Algae,Turf algae,Live,52
+521,Papagayo,6,Hard Coral,Pocillopora effusa,Live,8
+521,Papagayo,6,Substrate,Gravel,Non-live,20
+522,Papagayo,6,Algae,Turf algae,Live,64
+522,Papagayo,6,CCA,Pink CCA,Live,8
+522,Papagayo,6,CCA,Red CCA,Live,4
+522,Papagayo,6,Hard Coral,Pocillopora effusa,Live,24
+523,Papagayo,6,Algae,Turf algae,Live,60
+523,Papagayo,6,CCA,Pink CCA,Live,4
+523,Papagayo,6,CCA,Red CCA,Live,8
+523,Papagayo,6,CCA,White CCA,Live,4
+523,Papagayo,6,Hard Coral,Pocillopora effusa,Live,24
+524,Papagayo,6,Algae,Turf algae,Live,12
+524,Papagayo,6,CCA,Pink CCA,Live,40
+524,Papagayo,6,CCA,Red CCA,Live,8
+524,Papagayo,6,CCA,White CCA,Live,20
+524,Papagayo,6,Diadema,Diadema sp,Live,8
+524,Papagayo,6,Hard Coral,Pocillopora effusa,Live,12
+525,Papagayo,6,Algae,Caulerpa spp.,Live,12
+525,Papagayo,6,Algae,Turf algae,Live,60
+525,Papagayo,6,CCA,White CCA,Live,12
+525,Papagayo,6,Substrate,Gravel,Non-live,16
+526,Papagayo,6,CCA,Pink CCA,Live,52
+526,Papagayo,6,CCA,White CCA,Live,24
+526,Papagayo,6,Diadema,Diadema sp,Live,8
+526,Papagayo,6,Hard Coral,Pocillopora effusa,Live,16
+527,Papagayo,6,Algae,Turf algae,Live,80
+527,Papagayo,6,CCA,Red CCA,Live,4
+527,Papagayo,6,Diadema,Diadema sp,Live,4
+527,Papagayo,6,Hard Coral,Pocillopora effusa,Live,12
+528,Papagayo,6,Algae,Turf algae,Live,44
+528,Papagayo,6,CCA,Pink CCA,Live,28
+528,Papagayo,6,CCA,Red CCA,Live,12
+528,Papagayo,6,Diadema,Diadema sp,Live,4
+528,Papagayo,6,Hard Coral,Pocillopora effusa,Live,8
+529,Papagayo,6,Algae,Turf algae,Live,76
+529,Papagayo,6,CCA,Pink CCA,Live,12
+529,Papagayo,6,Hard Coral,Pocillopora effusa,Live,12
+530,Papagayo,6,Algae,Caulerpa spp.,Live,32
+530,Papagayo,6,Algae,Turf algae,Live,64
+530,Papagayo,6,Substrate,Sand,Non-live,4
+531,Papagayo,6,Algae,Turf algae,Live,40
+531,Papagayo,6,CCA,Pink CCA,Live,20
+531,Papagayo,6,CCA,White CCA,Live,24
+531,Papagayo,6,Hard Coral,Pocillopora effusa,Live,16
+532,Papagayo,6,Algae,Turf algae,Live,40
+532,Papagayo,6,CCA,Pink CCA,Live,4
+532,Papagayo,6,CCA,White CCA,Live,36
+532,Papagayo,6,Diadema,Diadema sp,Live,8
+532,Papagayo,6,Hard Coral,Pocillopora effusa,Live,12
+533,Papagayo,6,Algae,Turf algae,Live,76
+533,Papagayo,6,CCA,Pink CCA,Live,4
+533,Papagayo,6,CCA,Red CCA,Live,8
+533,Papagayo,6,CCA,White CCA,Live,4
+533,Papagayo,6,Hard Coral,Pocillopora effusa,Live,8
+534,Papagayo,6,Algae,Turf algae,Live,28
+534,Papagayo,6,CCA,Pink CCA,Live,28
+534,Papagayo,6,CCA,Red CCA,Live,4
+534,Papagayo,6,CCA,White CCA,Live,12
+534,Papagayo,6,Diadema,Diadema sp,Live,4
+534,Papagayo,6,Hard Coral,Pocillopora effusa,Live,24
+535,Papagayo,6,Algae,Turf algae,Live,80
+535,Papagayo,6,CCA,Pink CCA,Live,12
+535,Papagayo,6,CCA,White CCA,Live,4
+535,Papagayo,6,Hard Coral,Pocillopora effusa,Live,4
+536,Papagayo,6,Algae,Turf algae,Live,84
+536,Papagayo,6,CCA,Red CCA,Live,4
+536,Papagayo,6,CCA,White CCA,Live,4
+536,Papagayo,6,Hard Coral,Pocillopora effusa,Live,8
+537,Papagayo,6,Algae,Turf algae,Live,76
+537,Papagayo,6,CCA,Pink CCA,Live,4
+537,Papagayo,6,Hard Coral,Pavona gigantea,Live,8
+538,Papagayo,6,Algae,Turf algae,Live,32
+538,Papagayo,6,CCA,Pink CCA,Live,12
+538,Papagayo,6,CCA,White CCA,Live,32
+538,Papagayo,6,Diadema,Diadema sp,Live,8
+538,Papagayo,6,Hard Coral,Pocillopora effusa,Live,16
+539,Papagayo,6,Algae,Turf algae,Live,20
+539,Papagayo,6,CCA,Pink CCA,Live,32
+539,Papagayo,6,CCA,Red CCA,Live,4
+539,Papagayo,6,CCA,White CCA,Live,28
+539,Papagayo,6,Hard Coral,Pocillopora effusa,Live,16
+540,Papagayo,6,Algae,Turf algae,Live,32
+540,Papagayo,6,CCA,Pink CCA,Live,28
+540,Papagayo,6,CCA,Red CCA,Live,4
+540,Papagayo,6,CCA,White CCA,Live,16
+540,Papagayo,6,Diadema,Diadema sp,Live,4
+540,Papagayo,6,Hard Coral,Pocillopora effusa,Live,16
+541,Samara,7,Algae,Caulerpa spp.,Live,40
+541,Samara,7,Algae,Turf algae,Live,32
+541,Samara,7,CCA,Pink CCA,Live,4
+541,Samara,7,CCA,White CCA,Live,20
+542,Samara,7,Algae,Caulerpa spp.,Live,28
+542,Samara,7,Algae,Galaxaura,Live,4
+542,Samara,7,Algae,Turf algae,Live,52
+542,Samara,7,CCA,Pink CCA,Live,4
+542,Samara,7,CCA,White CCA,Live,8
+542,Samara,7,Substrate,Rock,Non-live,4
+543,Samara,7,Algae,Turf algae,Live,80
+543,Samara,7,CCA,White CCA,Live,20
+544,Samara,7,Algae,Caulerpa spp.,Live,8
+544,Samara,7,Algae,Galaxaura,Live,4
+544,Samara,7,Algae,Turf algae,Live,76
+544,Samara,7,CCA,White CCA,Live,12
+545,Samara,7,Algae,Caulerpa spp.,Live,8
+545,Samara,7,Algae,Turf algae,Live,76
+545,Samara,7,CCA,White CCA,Live,8
+546,Samara,7,Algae,Caulerpa spp.,Live,4
+546,Samara,7,Algae,Turf algae,Live,52
+546,Samara,7,CCA,Pink CCA,Live,12
+546,Samara,7,Substrate,Rock,Non-live,28
+547,Samara,7,Algae,Caulerpa spp.,Live,8
+547,Samara,7,Algae,Galaxaura,Live,4
+547,Samara,7,Algae,Turf algae,Live,76
+547,Samara,7,CCA,White CCA,Live,8
+547,Samara,7,Hard Coral,Psammocora stellata,Live,4
+548,Samara,7,Algae,Caulerpa spp.,Live,4
+548,Samara,7,Algae,Turf algae,Live,60
+548,Samara,7,CCA,Pink CCA,Live,4
+548,Samara,7,CCA,White CCA,Live,24
+548,Samara,7,Diadema,Diadema sp,Live,4
+548,Samara,7,Hard Coral,Porites lobata,Live,4
+549,Samara,7,Algae,Turf algae,Live,64
+549,Samara,7,CCA,Pink CCA,Live,4
+549,Samara,7,CCA,White CCA,Live,20
+549,Samara,7,Substrate,Sand,Non-live,12
+550,Samara,7,Algae,Caulerpa spp.,Live,16
+550,Samara,7,Algae,Galaxaura,Live,16
+550,Samara,7,Algae,Turf algae,Live,40
+550,Samara,7,CCA,White CCA,Live,28
+551,Samara,7,Algae,Caulerpa spp.,Live,12
+551,Samara,7,Algae,Galaxaura,Live,8
+551,Samara,7,Algae,Turf algae,Live,56
+551,Samara,7,CCA,Pink CCA,Live,4
+551,Samara,7,CCA,White CCA,Live,16
+551,Samara,7,Hard Coral,Psammocora stellata,Live,4
+552,Samara,7,Algae,Caulerpa spp.,Live,4
+552,Samara,7,Algae,Galaxaura,Live,12
+552,Samara,7,Algae,Turf algae,Live,40
+552,Samara,7,CCA,Pink CCA,Live,12
+552,Samara,7,CCA,White CCA,Live,20
+552,Samara,7,Hard Coral,Psammocora stellata,Live,8
+553,Samara,7,Algae,Turf algae,Live,56
+553,Samara,7,CCA,Pink CCA,Live,12
+553,Samara,7,CCA,White CCA,Live,8
+553,Samara,7,Other,Dead coral,Non-live,4
+553,Samara,7,Substrate,Gravel,Non-live,4
+553,Samara,7,Substrate,Rock,Non-live,12
+554,Samara,7,Algae,Caulerpa spp.,Live,4
+554,Samara,7,Algae,Galaxaura,Live,4
+554,Samara,7,Algae,Turf algae,Live,56
+554,Samara,7,CCA,Pink CCA,Live,8
+554,Samara,7,CCA,White CCA,Live,12
+554,Samara,7,Hard Coral,Pocillopora effusa,Live,12
+555,Samara,7,Algae,Caulerpa spp.,Live,4
+555,Samara,7,Algae,Turf algae,Live,72
+555,Samara,7,CCA,Pink CCA,Live,4
+555,Samara,7,CCA,White CCA,Live,20
+556,Samara,7,Algae,Caulerpa spp.,Live,4
+556,Samara,7,Algae,Turf algae,Live,92
+556,Samara,7,Substrate,Sand,Non-live,4
+557,Samara,7,Algae,Caulerpa spp.,Live,8
+557,Samara,7,Algae,Turf algae,Live,64
+557,Samara,7,CCA,White CCA,Live,12
+557,Samara,7,Hard Coral,Pocillopora effusa,Live,12
+557,Samara,7,Hard Coral,Psammocora stellata,Live,4
+558,Samara,7,Algae,Turf algae,Live,100
+559,Samara,7,Algae,Caulerpa spp.,Live,4
+559,Samara,7,Algae,Galaxaura,Live,12
+559,Samara,7,Algae,Turf algae,Live,24
+559,Samara,7,CCA,Pink CCA,Live,12
+559,Samara,7,CCA,Red CCA,Live,4
+559,Samara,7,CCA,White CCA,Live,20
+559,Samara,7,Hard Coral,Psammocora stellata,Live,8
+559,Samara,7,Substrate,Gravel,Non-live,8
+559,Samara,7,Substrate,Sand,Non-live,4
+560,Samara,7,Algae,Galaxaura,Live,16
+560,Samara,7,Algae,Turf algae,Live,48
+560,Samara,7,CCA,Pink CCA,Live,8
+560,Samara,7,CCA,White CCA,Live,8
+560,Samara,7,Hard Coral,Psammocora stellata,Live,4
+560,Samara,7,Substrate,Gravel,Non-live,4
+560,Samara,7,Substrate,Rock,Non-live,8
+561,Samara,7,Algae,Caulerpa spp.,Live,8
+561,Samara,7,Algae,Turf algae,Live,68
+561,Samara,7,CCA,Pink CCA,Live,4
+561,Samara,7,CCA,Red CCA,Live,8
+561,Samara,7,CCA,White CCA,Live,4
+561,Samara,7,Substrate,Rock,Non-live,4
+562,Samara,7,Algae,Turf algae,Live,48
+562,Samara,7,CCA,Red CCA,Live,4
+562,Samara,7,CCA,White CCA,Live,4
+562,Samara,7,Substrate,Gravel,Non-live,32
+562,Samara,7,Substrate,Rock,Non-live,12
+563,Samara,7,Algae,Caulerpa spp.,Live,4
+563,Samara,7,Algae,Turf algae,Live,40
+563,Samara,7,CCA,Pink CCA,Live,24
+563,Samara,7,CCA,Red CCA,Live,12
+563,Samara,7,CCA,White CCA,Live,4
+563,Samara,7,Hard Coral,Psammocora stellata,Live,8
+563,Samara,7,Substrate,Gravel,Non-live,4
+564,Samara,7,Algae,Caulerpa spp.,Live,4
+564,Samara,7,Algae,Turf algae,Live,72
+564,Samara,7,CCA,White CCA,Live,8
+564,Samara,7,Hard Coral,Pocillopora effusa,Live,8
+564,Samara,7,Substrate,Sand,Non-live,4
+565,Samara,7,Algae,Galaxaura,Live,8
+565,Samara,7,Algae,Turf algae,Live,64
+565,Samara,7,CCA,Pink CCA,Live,12
+565,Samara,7,CCA,White CCA,Live,4
+565,Samara,7,Hard Coral,Psammocora stellata,Live,8
+565,Samara,7,Substrate,Rock,Non-live,4
+566,Samara,7,Algae,Turf algae,Live,92
+566,Samara,7,CCA,Pink CCA,Live,4
+567,Samara,7,Algae,Caulerpa spp.,Live,4
+567,Samara,7,Algae,Galaxaura,Live,4
+567,Samara,7,Algae,Turf algae,Live,76
+567,Samara,7,CCA,White CCA,Live,12
+567,Samara,7,Hard Coral,Psammocora stellata,Live,4
+568,Samara,7,Algae,Caulerpa spp.,Live,56
+568,Samara,7,Algae,Galaxaura,Live,8
+568,Samara,7,Algae,Turf algae,Live,32
+568,Samara,7,CCA,White CCA,Live,4
+569,Samara,7,Algae,Caulerpa spp.,Live,4
+569,Samara,7,Algae,Galaxaura,Live,4
+569,Samara,7,Algae,Turf algae,Live,84
+569,Samara,7,CCA,White CCA,Live,8
+570,Samara,7,Algae,Caulerpa spp.,Live,8
+570,Samara,7,Algae,Turf algae,Live,56
+570,Samara,7,CCA,Pink CCA,Live,8
+570,Samara,7,CCA,Red CCA,Live,4
+570,Samara,7,CCA,White CCA,Live,20
+571,Samara,7,Algae,Caulerpa spp.,Live,24
+571,Samara,7,Algae,Galaxaura,Live,4
+571,Samara,7,Algae,Turf algae,Live,56
+571,Samara,7,CCA,Pink CCA,Live,4
+571,Samara,7,CCA,White CCA,Live,4
+571,Samara,7,Soft Coral,Soft Coral,Non-live,4
+572,Samara,7,Algae,Caulerpa spp.,Live,4
+572,Samara,7,Algae,Turf algae,Live,68
+572,Samara,7,CCA,Pink CCA,Live,4
+572,Samara,7,CCA,Red CCA,Live,8
+572,Samara,7,CCA,White CCA,Live,12
+573,Samara,7,Algae,Caulerpa spp.,Live,28
+573,Samara,7,Algae,Turf algae,Live,40
+573,Samara,7,CCA,Pink CCA,Live,8
+573,Samara,7,CCA,White CCA,Live,12
+574,Samara,7,Algae,Caulerpa spp.,Live,20
+574,Samara,7,Algae,Turf algae,Live,56
+574,Samara,7,CCA,Red CCA,Live,8
+574,Samara,7,CCA,White CCA,Live,16
+575,Samara,7,Algae,Galaxaura,Live,8
+575,Samara,7,Algae,Turf algae,Live,84
+575,Samara,7,CCA,White CCA,Live,8
+576,Samara,7,Algae,Turf algae,Live,92
+576,Samara,7,CCA,White CCA,Live,4
+577,Samara,7,Algae,Galaxaura,Live,4
+577,Samara,7,Algae,Turf algae,Live,96
+578,Samara,7,Algae,Caulerpa spp.,Live,4
+578,Samara,7,Algae,Turf algae,Live,80
+578,Samara,7,CCA,Red CCA,Live,4
+578,Samara,7,CCA,White CCA,Live,8
+579,Samara,7,Algae,Turf algae,Live,100
+580,Samara,7,Algae,Galaxaura,Live,8
+580,Samara,7,Algae,Turf algae,Live,92
+581,Samara,7,Algae,Turf algae,Live,80
+581,Samara,7,CCA,White CCA,Live,12
+582,Samara,7,Algae,Caulerpa spp.,Live,4
+582,Samara,7,Algae,Turf algae,Live,80
+582,Samara,7,CCA,Red CCA,Live,8
+582,Samara,7,CCA,White CCA,Live,8
+583,Samara,7,Algae,Galaxaura,Live,8
+583,Samara,7,Algae,Turf algae,Live,76
+583,Samara,7,CCA,Pink CCA,Live,4
+583,Samara,7,CCA,White CCA,Live,8
+584,Samara,7,Algae,Galaxaura,Live,4
+584,Samara,7,Algae,Turf algae,Live,64
+584,Samara,7,CCA,Pink CCA,Live,4
+584,Samara,7,CCA,Red CCA,Live,4
+584,Samara,7,CCA,White CCA,Live,20
+585,Samara,7,Algae,Turf algae,Live,96
+585,Samara,7,CCA,White CCA,Live,4
+586,Samara,7,Algae,Caulerpa spp.,Live,4
+586,Samara,7,Algae,Turf algae,Live,96
+587,Samara,7,Algae,Turf algae,Live,92
+588,Samara,7,Algae,Caulerpa spp.,Live,4
+588,Samara,7,Algae,Turf algae,Live,80
+588,Samara,7,CCA,Red CCA,Live,4
+588,Samara,7,CCA,White CCA,Live,12
+589,Samara,7,Algae,Turf algae,Live,96
+590,Samara,7,Algae,Caulerpa spp.,Live,4
+590,Samara,7,Algae,Galaxaura,Live,4
+590,Samara,7,Algae,Turf algae,Live,80
+590,Samara,7,CCA,Pink CCA,Live,8
+590,Samara,7,CCA,White CCA,Live,4
+591,Samara,7,Algae,Caulerpa spp.,Live,12
+591,Samara,7,Algae,Galaxaura,Live,4
+591,Samara,7,Algae,Turf algae,Live,52
+591,Samara,7,CCA,Pink CCA,Live,8
+591,Samara,7,CCA,White CCA,Live,20
+592,Samara,7,Algae,Caulerpa spp.,Live,16
+592,Samara,7,Algae,Turf algae,Live,56
+592,Samara,7,CCA,Pink CCA,Live,4
+592,Samara,7,CCA,Red CCA,Live,16
+592,Samara,7,CCA,White CCA,Live,4
+593,Samara,7,Algae,Caulerpa spp.,Live,4
+593,Samara,7,Algae,Galaxaura,Live,4
+593,Samara,7,Algae,Turf algae,Live,84
+593,Samara,7,CCA,Red CCA,Live,4
+593,Samara,7,CCA,White CCA,Live,4
+594,Samara,7,Algae,Caulerpa spp.,Live,24
+594,Samara,7,Algae,Turf algae,Live,68
+594,Samara,7,CCA,Pink CCA,Live,4
+594,Samara,7,CCA,White CCA,Live,4
+595,Samara,7,Algae,Caulerpa spp.,Live,24
+595,Samara,7,Algae,Turf algae,Live,68
+595,Samara,7,CCA,Red CCA,Live,4
+595,Samara,7,Soft Coral,Soft Coral,Non-live,4
+596,Samara,7,Algae,Galaxaura,Live,8
+596,Samara,7,Algae,Turf algae,Live,80
+596,Samara,7,CCA,White CCA,Live,12
+597,Samara,7,Algae,Galaxaura,Live,4
+597,Samara,7,Algae,Turf algae,Live,76
+597,Samara,7,CCA,Pink CCA,Live,8
+597,Samara,7,CCA,White CCA,Live,8
+598,Samara,7,Algae,Caulerpa spp.,Live,4
+598,Samara,7,Algae,Turf algae,Live,84
+598,Samara,7,CCA,Red CCA,Live,4
+598,Samara,7,CCA,White CCA,Live,4
+599,Samara,7,Algae,Caulerpa spp.,Live,4
+599,Samara,7,Algae,Turf algae,Live,88
+599,Samara,7,CCA,White CCA,Live,4
+600,Samara,7,Algae,Caulerpa spp.,Live,12
+600,Samara,7,Algae,Turf algae,Live,80
+600,Samara,7,CCA,Red CCA,Live,4
+600,Samara,7,Hard Coral,Pocillopora effusa,Live,4
+601,Samara,7,Algae,Turf algae,Live,76
+601,Samara,7,CCA,Pink CCA,Live,8
+601,Samara,7,CCA,White CCA,Live,16
+602,Samara,7,Algae,Turf algae,Live,88
+602,Samara,7,CCA,Pink CCA,Live,4
+602,Samara,7,CCA,Red CCA,Live,4
+602,Samara,7,CCA,White CCA,Live,4
+603,Samara,7,Algae,Turf algae,Live,64
+603,Samara,7,CCA,White CCA,Live,36
+604,Samara,7,Algae,Turf algae,Live,92
+604,Samara,7,CCA,White CCA,Live,4
+604,Samara,7,Substrate,Gravel,Non-live,4
+605,Samara,7,Algae,Galaxaura,Live,8
+605,Samara,7,Algae,Turf algae,Live,80
+605,Samara,7,CCA,White CCA,Live,8
+606,Samara,7,Algae,Caulerpa spp.,Live,4
+606,Samara,7,Algae,Turf algae,Live,96
+607,Samara,7,Algae,Turf algae,Live,68
+607,Samara,7,CCA,White CCA,Live,4
+607,Samara,7,Substrate,Gravel,Non-live,24
+607,Samara,7,Substrate,Sand,Non-live,4
+608,Samara,7,Algae,Turf algae,Live,84
+608,Samara,7,CCA,White CCA,Live,8
+608,Samara,7,Substrate,Gravel,Non-live,4
+609,Samara,7,Algae,Turf algae,Live,68
+609,Samara,7,CCA,White CCA,Live,16
+609,Samara,7,Substrate,Gravel,Non-live,16
+610,Samara,7,Algae,Turf algae,Live,84
+610,Samara,7,CCA,White CCA,Live,12
+611,Samara,7,Algae,Turf algae,Live,88
+611,Samara,7,CCA,Pink CCA,Live,4
+611,Samara,7,CCA,White CCA,Live,8
+612,Samara,7,Algae,Caulerpa spp.,Live,4
+612,Samara,7,Algae,Turf algae,Live,80
+612,Samara,7,CCA,White CCA,Live,12
+612,Samara,7,Hard Coral,Psammocora stellata,Live,4
+613,Samara,7,Algae,Caulerpa spp.,Live,4
+613,Samara,7,Algae,Turf algae,Live,68
+613,Samara,7,CCA,Pink CCA,Live,8
+613,Samara,7,CCA,Red CCA,Live,4
+613,Samara,7,CCA,White CCA,Live,16
+614,Samara,7,Algae,Galaxaura,Live,4
+614,Samara,7,Algae,Turf algae,Live,96
+615,Samara,7,Algae,Turf algae,Live,88
+615,Samara,7,CCA,Pink CCA,Live,4
+615,Samara,7,CCA,White CCA,Live,8
+616,Samara,7,Algae,Galaxaura,Live,12
+616,Samara,7,Algae,Turf algae,Live,76
+616,Samara,7,CCA,White CCA,Live,4
+617,Samara,7,Algae,Galaxaura,Live,4
+617,Samara,7,Algae,Turf algae,Live,88
+618,Samara,7,Algae,Turf algae,Live,100
+619,Samara,7,Algae,Galaxaura,Live,4
+619,Samara,7,Algae,Turf algae,Live,68
+619,Samara,7,CCA,White CCA,Live,8
+619,Samara,7,Hard Coral,Psammocora stellata,Live,4
+620,Samara,7,Algae,Caulerpa spp.,Live,4
+620,Samara,7,Algae,Turf algae,Live,92
+620,Samara,7,CCA,Pink CCA,Live,4
+621,Samara,7,Algae,Turf algae,Live,92
+621,Samara,7,CCA,White CCA,Live,8
+622,Samara,7,Algae,Turf algae,Live,100
+623,Samara,7,Algae,Turf algae,Live,100
+624,Samara,7,Algae,Turf algae,Live,68
+624,Samara,7,CCA,White CCA,Live,4
+624,Samara,7,Substrate,Gravel,Non-live,28
+625,Samara,7,Algae,Turf algae,Live,76
+625,Samara,7,CCA,White CCA,Live,8
+625,Samara,7,Hard Coral,Porites lobata,Live,4
+625,Samara,7,Substrate,Gravel,Non-live,8
+626,Samara,7,Algae,Turf algae,Live,84
+626,Samara,7,CCA,Pink CCA,Live,8
+626,Samara,7,CCA,White CCA,Live,4
+626,Samara,7,Substrate,Gravel,Non-live,4
+627,Samara,7,Algae,Caulerpa spp.,Live,12
+627,Samara,7,Algae,Turf algae,Live,72
+627,Samara,7,CCA,White CCA,Live,16
+628,Samara,7,Algae,Turf algae,Live,100
+629,Samara,7,Algae,Turf algae,Live,92
+630,Samara,7,Algae,Caulerpa spp.,Live,8
+630,Samara,7,Algae,Turf algae,Live,44
+630,Samara,7,CCA,Red CCA,Live,8
+630,Samara,7,CCA,White CCA,Live,16
+630,Samara,7,Hard Coral,Pocillopora effusa,Live,24
+631,Samara,8,Algae,Turf algae,Live,88
+631,Samara,8,CCA,Pink CCA,Live,8
+631,Samara,8,CCA,White CCA,Live,4
+632,Samara,8,Algae,Turf algae,Live,84
+632,Samara,8,CCA,White CCA,Live,8
+632,Samara,8,Substrate,Rock,Non-live,8
+633,Samara,8,Algae,Turf algae,Live,52
+633,Samara,8,CCA,Pink CCA,Live,4
+633,Samara,8,CCA,White CCA,Live,4
+633,Samara,8,Substrate,Rock,Non-live,24
+633,Samara,8,Substrate,Sand,Non-live,16
+634,Samara,8,Algae,Turf algae,Live,84
+634,Samara,8,CCA,Pink CCA,Live,4
+634,Samara,8,CCA,White CCA,Live,4
+634,Samara,8,Hard Coral,Pocillopora effusa,Live,4
+634,Samara,8,Substrate,Sand,Non-live,4
+635,Samara,8,Algae,Turf algae,Live,36
+635,Samara,8,Substrate,Rock,Non-live,12
+635,Samara,8,Substrate,Sand,Non-live,52
+636,Samara,8,Algae,Galaxaura,Live,12
+636,Samara,8,Algae,Turf algae,Live,36
+636,Samara,8,CCA,Pink CCA,Live,8
+636,Samara,8,CCA,Red CCA,Live,4
+636,Samara,8,CCA,White CCA,Live,16
+636,Samara,8,Hard Coral,Porites lobata,Live,20
+637,Samara,8,Algae,Turf algae,Live,96
+637,Samara,8,CCA,White CCA,Live,4
+638,Samara,8,Algae,Turf algae,Live,84
+638,Samara,8,CCA,Pink CCA,Live,8
+638,Samara,8,CCA,White CCA,Live,4
+638,Samara,8,Substrate,Sand,Non-live,4
+639,Samara,8,Algae,Galaxaura,Live,4
+639,Samara,8,Algae,Turf algae,Live,80
+639,Samara,8,CCA,White CCA,Live,8
+639,Samara,8,Substrate,Sand,Non-live,4
+640,Samara,8,Algae,Turf algae,Live,88
+640,Samara,8,CCA,Pink CCA,Live,4
+641,Samara,8,Algae,Turf algae,Live,84
+641,Samara,8,CCA,Pink CCA,Live,12
+641,Samara,8,Hard Coral,Porites lobata,Live,4
+642,Samara,8,Substrate,Gravel,Non-live,4
+642,Samara,8,Substrate,Sand,Non-live,96
+643,Samara,8,Algae,Turf algae,Live,100
+644,Samara,8,Algae,Turf algae,Live,96
+644,Samara,8,CCA,Pink CCA,Live,4
+645,Samara,8,Algae,Turf algae,Live,68
+645,Samara,8,Substrate,Gravel,Non-live,12
+645,Samara,8,Substrate,Sand,Non-live,20
+646,Samara,8,Algae,Turf algae,Live,100
+647,Samara,8,Algae,Turf algae,Live,68
+647,Samara,8,CCA,White CCA,Live,4
+647,Samara,8,Hard Coral,Porites lobata,Live,20
+648,Samara,8,Algae,Turf algae,Live,16
+648,Samara,8,CCA,Pink CCA,Live,12
+648,Samara,8,CCA,White CCA,Live,8
+648,Samara,8,Hard Coral,Porites lobata,Live,64
+649,Samara,8,Algae,Turf algae,Live,64
+649,Samara,8,CCA,Pink CCA,Live,8
+649,Samara,8,CCA,White CCA,Live,4
+649,Samara,8,Substrate,Gravel,Non-live,4
+649,Samara,8,Substrate,Sand,Non-live,20
+650,Samara,8,Algae,Turf algae,Live,56
+650,Samara,8,Hard Coral,Porites lobata,Live,20
+650,Samara,8,Sponge,Sponge,Non-live,4
+650,Samara,8,Substrate,Gravel,Non-live,12
+650,Samara,8,Substrate,Sand,Non-live,8
+651,Samara,8,Algae,Turf algae,Live,84
+651,Samara,8,CCA,White CCA,Live,16
+652,Samara,8,Algae,Turf algae,Live,68
+652,Samara,8,CCA,Pink CCA,Live,4
+652,Samara,8,CCA,White CCA,Live,28
+653,Samara,8,Algae,Turf algae,Live,88
+653,Samara,8,CCA,Pink CCA,Live,4
+653,Samara,8,CCA,White CCA,Live,8
+654,Samara,8,Algae,Galaxaura,Live,4
+654,Samara,8,Algae,Turf algae,Live,88
+654,Samara,8,CCA,White CCA,Live,8
+655,Samara,8,Algae,Turf algae,Live,76
+655,Samara,8,CCA,Pink CCA,Live,4
+655,Samara,8,CCA,White CCA,Live,12
+655,Samara,8,Diadema,Diadema sp,Live,4
+656,Samara,8,Algae,Turf algae,Live,100
+657,Samara,8,Substrate,Sand,Non-live,96
+658,Samara,8,Algae,Turf algae,Live,100
+659,Samara,8,Algae,Turf algae,Live,92
+659,Samara,8,CCA,White CCA,Live,8
+660,Samara,8,Algae,Turf algae,Live,24
+660,Samara,8,CCA,White CCA,Live,8
+660,Samara,8,Hard Coral,Porites lobata,Live,64
+661,Samara,8,Algae,Turf algae,Live,96
+661,Samara,8,CCA,White CCA,Live,4
+662,Samara,8,Algae,Turf algae,Live,96
+662,Samara,8,CCA,Pink CCA,Live,4
+663,Samara,8,Algae,Turf algae,Live,84
+663,Samara,8,CCA,Pink CCA,Live,8
+663,Samara,8,CCA,White CCA,Live,8
+664,Samara,8,Algae,Turf algae,Live,80
+664,Samara,8,CCA,Pink CCA,Live,4
+664,Samara,8,CCA,White CCA,Live,12
+665,Samara,8,Algae,Galaxaura,Live,4
+665,Samara,8,Algae,Turf algae,Live,68
+665,Samara,8,CCA,Pink CCA,Live,8
+665,Samara,8,CCA,Red CCA,Live,4
+665,Samara,8,CCA,White CCA,Live,16
+666,Samara,8,Algae,Turf algae,Live,20
+666,Samara,8,Hard Coral,Porites lobata,Live,80
+667,Samara,8,Hard Coral,Porites lobata,Live,96
+668,Samara,8,Algae,Turf algae,Live,16
+668,Samara,8,Hard Coral,Porites lobata,Live,80
+669,Samara,8,Algae,Turf algae,Live,80
+669,Samara,8,CCA,Pink CCA,Live,12
+669,Samara,8,Diadema,Diadema sp,Live,8
+670,Samara,8,Algae,Turf algae,Live,96
+670,Samara,8,CCA,White CCA,Live,4
+671,Samara,8,Algae,Turf algae,Live,80
+671,Samara,8,CCA,Pink CCA,Live,8
+671,Samara,8,CCA,White CCA,Live,12
+672,Samara,8,Algae,Turf algae,Live,96
+672,Samara,8,Substrate,Sand,Non-live,4
+673,Samara,8,Algae,Turf algae,Live,32
+673,Samara,8,Substrate,Gravel,Non-live,12
+673,Samara,8,Substrate,Sand,Non-live,52
+674,Samara,8,Algae,Turf algae,Live,56
+674,Samara,8,CCA,Pink CCA,Live,4
+674,Samara,8,CCA,Red CCA,Live,4
+674,Samara,8,Substrate,Gravel,Non-live,24
+674,Samara,8,Substrate,Rock,Non-live,8
+674,Samara,8,Substrate,Sand,Non-live,4
+675,Samara,8,Algae,Turf algae,Live,16
+675,Samara,8,CCA,White CCA,Live,4
+675,Samara,8,Hard Coral,Porites lobata,Live,80
+676,Samara,8,Algae,Turf algae,Live,88
+676,Samara,8,CCA,Pink CCA,Live,4
+676,Samara,8,Hard Coral,Porites lobata,Live,4
+676,Samara,8,Substrate,Sand,Non-live,4
+677,Samara,8,Hard Coral,Porites lobata,Live,92
+678,Samara,8,Hard Coral,Porites lobata,Live,100
+679,Samara,8,Algae,Turf algae,Live,40
+679,Samara,8,Hard Coral,Porites lobata,Live,60
+680,Samara,8,Algae,Turf algae,Live,4
+680,Samara,8,Hard Coral,Porites lobata,Live,92
+681,Samara,8,Algae,Turf algae,Live,92
+681,Samara,8,CCA,White CCA,Live,8
+682,Samara,8,Algae,Turf algae,Live,92
+682,Samara,8,CCA,White CCA,Live,8
+683,Samara,8,Algae,Turf algae,Live,96
+683,Samara,8,CCA,White CCA,Live,4
+684,Samara,8,Algae,Turf algae,Live,28
+684,Samara,8,CCA,White CCA,Live,4
+684,Samara,8,Substrate,Sand,Non-live,68
+685,Samara,8,Algae,Turf algae,Live,80
+685,Samara,8,CCA,Pink CCA,Live,4
+685,Samara,8,CCA,White CCA,Live,4
+685,Samara,8,Substrate,Gravel,Non-live,8
+685,Samara,8,Substrate,Sand,Non-live,4
+686,Samara,8,Algae,Turf algae,Live,76
+686,Samara,8,Substrate,Gravel,Non-live,8
+686,Samara,8,Substrate,Sand,Non-live,16
+687,Samara,8,Algae,Turf algae,Live,100
+688,Samara,8,Algae,Turf algae,Live,100
+689,Samara,8,Algae,Turf algae,Live,72
+689,Samara,8,CCA,Pink CCA,Live,4
+689,Samara,8,CCA,Red CCA,Live,4
+689,Samara,8,Hard Coral,Porites lobata,Live,16
+690,Samara,8,Algae,Turf algae,Live,84
+690,Samara,8,CCA,Pink CCA,Live,4
+690,Samara,8,Substrate,Sand,Non-live,12
+691,Samara,8,Algae,Turf algae,Live,96
+692,Samara,8,Algae,Turf algae,Live,92
+692,Samara,8,Substrate,Sand,Non-live,8
+693,Samara,8,Algae,Turf algae,Live,100
+694,Samara,8,Algae,Turf algae,Live,100
+695,Samara,8,Algae,Turf algae,Live,84
+695,Samara,8,CCA,Pink CCA,Live,4
+695,Samara,8,CCA,White CCA,Live,8
+695,Samara,8,Substrate,Sand,Non-live,4
+696,Samara,8,Algae,Turf algae,Live,12
+696,Samara,8,Hard Coral,Porites lobata,Live,88
+697,Samara,8,Algae,Turf algae,Live,68
+697,Samara,8,CCA,White CCA,Live,4
+697,Samara,8,Hard Coral,Porites lobata,Live,28
+698,Samara,8,Algae,Turf algae,Live,8
+698,Samara,8,Hard Coral,Porites lobata,Live,92
+699,Samara,8,Hard Coral,Porites lobata,Live,28
+699,Samara,8,Substrate,Gravel,Non-live,4
+699,Samara,8,Substrate,Sand,Non-live,68
+700,Samara,8,Algae,Turf algae,Live,4
+700,Samara,8,Hard Coral,Porites lobata,Live,96
+701,Samara,8,Hard Coral,Porites lobata,Live,100
+702,Samara,8,Algae,Turf algae,Live,40
+702,Samara,8,Hard Coral,Porites lobata,Live,60
+703,Samara,8,Algae,Turf algae,Live,100
+704,Samara,8,Algae,Turf algae,Live,76
+704,Samara,8,CCA,Pink CCA,Live,12
+704,Samara,8,CCA,White CCA,Live,12
+705,Samara,8,Algae,Turf algae,Live,40
+705,Samara,8,CCA,Pink CCA,Live,4
+705,Samara,8,CCA,Red CCA,Live,4
+705,Samara,8,Hard Coral,Porites lobata,Live,52
+706,Samara,8,Hard Coral,Porites lobata,Live,52
+706,Samara,8,Substrate,Gravel,Non-live,8
+706,Samara,8,Substrate,Sand,Non-live,40
+707,Samara,8,Algae,Turf algae,Live,8
+707,Samara,8,Hard Coral,Porites lobata,Live,92
+708,Samara,8,Algae,Turf algae,Live,76
+708,Samara,8,CCA,Red CCA,Live,4
+708,Samara,8,CCA,White CCA,Live,4
+708,Samara,8,Diadema,Diadema sp,Live,4
+708,Samara,8,Substrate,Gravel,Non-live,8
+708,Samara,8,Substrate,Sand,Non-live,4
+709,Samara,8,Algae,Turf algae,Live,20
+709,Samara,8,Hard Coral,Porites lobata,Live,76
+710,Samara,8,Algae,Turf algae,Live,68
+710,Samara,8,CCA,Pink CCA,Live,4
+710,Samara,8,CCA,White CCA,Live,16
+710,Samara,8,Hard Coral,Pocillopora effusa,Live,8
+710,Samara,8,Substrate,Sand,Non-live,4
+711,Samara,8,Algae,Turf algae,Live,84
+711,Samara,8,CCA,Pink CCA,Live,4
+711,Samara,8,CCA,White CCA,Live,4
+712,Samara,8,Algae,Turf algae,Live,96
+713,Samara,8,Algae,Turf algae,Live,92
+713,Samara,8,CCA,White CCA,Live,4
+714,Samara,8,Algae,Turf algae,Live,84
+714,Samara,8,CCA,White CCA,Live,12
+715,Samara,8,Algae,Turf algae,Live,88
+715,Samara,8,CCA,Pink CCA,Live,4
+715,Samara,8,CCA,White CCA,Live,8
+716,Samara,8,Algae,Turf algae,Live,72
+716,Samara,8,CCA,Pink CCA,Live,8
+716,Samara,8,Hard Coral,Porites lobata,Live,16
+716,Samara,8,Substrate,Gravel,Non-live,4
+717,Samara,8,Algae,Turf algae,Live,96
+717,Samara,8,Hard Coral,Porites lobata,Live,4
+718,Samara,8,Algae,Turf algae,Live,16
+718,Samara,8,Hard Coral,Porites lobata,Live,84
+719,Samara,8,Algae,Turf algae,Live,24
+719,Samara,8,Hard Coral,Porites lobata,Live,76
+720,Samara,8,Algae,Turf algae,Live,96
+720,Samara,8,CCA,White CCA,Live,4
+721,Samara,9,Algae,Galaxaura,Live,20
+721,Samara,9,Algae,Turf algae,Live,48
+721,Samara,9,CCA,Pink CCA,Live,8
+721,Samara,9,CCA,White CCA,Live,4
+721,Samara,9,Substrate,Sand,Non-live,12
+722,Samara,9,Algae,Caulerpa spp.,Live,4
+722,Samara,9,Algae,Galaxaura,Live,16
+722,Samara,9,Algae,Turf algae,Live,60
+722,Samara,9,CCA,White CCA,Live,4
+722,Samara,9,Hard Coral,Psammocora stellata,Live,12
+723,Samara,9,Algae,Caulerpa spp.,Live,8
+723,Samara,9,Algae,Galaxaura,Live,16
+723,Samara,9,Algae,Turf algae,Live,52
+723,Samara,9,CCA,White CCA,Live,12
+723,Samara,9,Hard Coral,Psammocora stellata,Live,8
+724,Samara,9,Algae,Galaxaura,Live,8
+724,Samara,9,Algae,Turf algae,Live,52
+724,Samara,9,Substrate,Gravel,Non-live,24
+724,Samara,9,Substrate,Rock,Non-live,4
+724,Samara,9,Substrate,Sand,Non-live,4
+725,Samara,9,Algae,Caulerpa spp.,Live,8
+725,Samara,9,Algae,Galaxaura,Live,4
+725,Samara,9,Algae,Turf algae,Live,64
+725,Samara,9,CCA,Pink CCA,Live,4
+725,Samara,9,CCA,White CCA,Live,4
+725,Samara,9,Hard Coral,Psammocora stellata,Live,4
+725,Samara,9,Substrate,Gravel,Non-live,12
+726,Samara,9,Algae,Galaxaura,Live,8
+726,Samara,9,Algae,Turf algae,Live,76
+726,Samara,9,CCA,Pink CCA,Live,8
+726,Samara,9,CCA,White CCA,Live,4
+726,Samara,9,Hard Coral,Pocillopora effusa,Live,4
+727,Samara,9,Algae,Caulerpa spp.,Live,16
+727,Samara,9,Algae,Galaxaura,Live,12
+727,Samara,9,Algae,Turf algae,Live,40
+727,Samara,9,CCA,Red CCA,Live,4
+727,Samara,9,CCA,White CCA,Live,4
+727,Samara,9,Hard Coral,Pocillopora effusa,Live,20
+728,Samara,9,Algae,Caulerpa spp.,Live,4
+728,Samara,9,Algae,Galaxaura,Live,16
+728,Samara,9,Algae,Turf algae,Live,68
+728,Samara,9,Substrate,Gravel,Non-live,4
+728,Samara,9,Substrate,Sand,Non-live,8
+729,Samara,9,Algae,Turf algae,Live,88
+729,Samara,9,Hard Coral,Pocillopora effusa,Live,12
+730,Samara,9,Algae,Galaxaura,Live,24
+730,Samara,9,Algae,Turf algae,Live,64
+730,Samara,9,Hard Coral,Pocillopora effusa,Live,12
+731,Samara,9,Algae,Caulerpa spp.,Live,8
+731,Samara,9,Algae,Galaxaura,Live,4
+731,Samara,9,Algae,Turf algae,Live,80
+731,Samara,9,CCA,Pink CCA,Live,4
+731,Samara,9,Hard Coral,Pocillopora effusa,Live,4
+732,Samara,9,Algae,Galaxaura,Live,8
+732,Samara,9,Algae,Turf algae,Live,92
+733,Samara,9,Algae,Galaxaura,Live,32
+733,Samara,9,Algae,Turf algae,Live,56
+733,Samara,9,CCA,Pink CCA,Live,4
+733,Samara,9,CCA,White CCA,Live,4
+734,Samara,9,Algae,Galaxaura,Live,32
+734,Samara,9,Algae,Turf algae,Live,36
+734,Samara,9,Hard Coral,Psammocora stellata,Live,28
+735,Samara,9,Algae,Galaxaura,Live,16
+735,Samara,9,Algae,Turf algae,Live,80
+735,Samara,9,CCA,White CCA,Live,4
+736,Samara,9,Algae,Galaxaura,Live,12
+736,Samara,9,Algae,Turf algae,Live,72
+736,Samara,9,CCA,White CCA,Live,4
+736,Samara,9,Hard Coral,Pocillopora effusa,Live,12
+737,Samara,9,Algae,Caulerpa spp.,Live,4
+737,Samara,9,Algae,Galaxaura,Live,8
+737,Samara,9,Algae,Turf algae,Live,60
+737,Samara,9,Hard Coral,Pavona gigantea,Live,20
+737,Samara,9,Hard Coral,Pocillopora effusa,Live,4
+738,Samara,9,Algae,Caulerpa spp.,Live,4
+738,Samara,9,Algae,Turf algae,Live,80
+738,Samara,9,CCA,Pink CCA,Live,4
+738,Samara,9,Hard Coral,Pocillopora effusa,Live,8
+738,Samara,9,Substrate,Gravel,Non-live,4
+739,Samara,9,Algae,Caulerpa spp.,Live,12
+739,Samara,9,Algae,Galaxaura,Live,28
+739,Samara,9,Algae,Turf algae,Live,44
+739,Samara,9,CCA,White CCA,Live,4
+739,Samara,9,Hard Coral,Pocillopora effusa,Live,12
+740,Samara,9,Algae,Galaxaura,Live,12
+740,Samara,9,Algae,Turf algae,Live,76
+740,Samara,9,Substrate,Sand,Non-live,4
+741,Samara,9,Algae,Caulerpa spp.,Live,8
+741,Samara,9,Algae,Turf algae,Live,72
+741,Samara,9,CCA,Pink CCA,Live,8
+741,Samara,9,Substrate,Sand,Non-live,12
+742,Samara,9,Algae,Galaxaura,Live,32
+742,Samara,9,Algae,Turf algae,Live,44
+742,Samara,9,CCA,White CCA,Live,4
+742,Samara,9,Hard Coral,Psammocora stellata,Live,16
+743,Samara,9,Algae,Caulerpa spp.,Live,4
+743,Samara,9,Algae,Galaxaura,Live,16
+743,Samara,9,Algae,Turf algae,Live,44
+743,Samara,9,Hard Coral,Porites lobata,Live,36
+744,Samara,9,Algae,Caulerpa spp.,Live,12
+744,Samara,9,Algae,Galaxaura,Live,24
+744,Samara,9,Algae,Turf algae,Live,52
+744,Samara,9,CCA,Pink CCA,Live,4
+744,Samara,9,CCA,White CCA,Live,4
+744,Samara,9,Hard Coral,Psammocora stellata,Live,4
+745,Samara,9,Algae,Galaxaura,Live,36
+745,Samara,9,Algae,Turf algae,Live,60
+746,Samara,9,Algae,Galaxaura,Live,24
+746,Samara,9,Algae,Turf algae,Live,64
+746,Samara,9,CCA,Pink CCA,Live,4
+746,Samara,9,CCA,Red CCA,Live,4
+746,Samara,9,Substrate,Sand,Non-live,4
+747,Samara,9,Algae,Caulerpa spp.,Live,4
+747,Samara,9,Algae,Galaxaura,Live,4
+747,Samara,9,Algae,Turf algae,Live,80
+747,Samara,9,Hard Coral,Pocillopora effusa,Live,12
+748,Samara,9,Algae,Caulerpa spp.,Live,4
+748,Samara,9,Algae,Galaxaura,Live,20
+748,Samara,9,Algae,Turf algae,Live,68
+748,Samara,9,Hard Coral,Psammocora stellata,Live,8
+749,Samara,9,Algae,Caulerpa spp.,Live,8
+749,Samara,9,Algae,Galaxaura,Live,8
+749,Samara,9,Algae,Turf algae,Live,72
+749,Samara,9,Hard Coral,Pocillopora effusa,Live,12
+750,Samara,9,Algae,Galaxaura,Live,4
+750,Samara,9,Algae,Turf algae,Live,76
+750,Samara,9,CCA,Pink CCA,Live,12
+750,Samara,9,CCA,White CCA,Live,4
+750,Samara,9,Substrate,Gravel,Non-live,4
+751,Samara,9,Algae,Caulerpa spp.,Live,4
+751,Samara,9,Algae,Galaxaura,Live,56
+751,Samara,9,Algae,Turf algae,Live,24
+751,Samara,9,CCA,White CCA,Live,4
+751,Samara,9,Hard Coral,Psammocora stellata,Live,12
+752,Samara,9,Algae,Galaxaura,Live,48
+752,Samara,9,Algae,Turf algae,Live,28
+752,Samara,9,CCA,White CCA,Live,4
+752,Samara,9,Hard Coral,Psammocora stellata,Live,20
+753,Samara,9,Algae,Galaxaura,Live,28
+753,Samara,9,Algae,Turf algae,Live,64
+753,Samara,9,CCA,Pink CCA,Live,4
+754,Samara,9,Algae,Caulerpa spp.,Live,4
+754,Samara,9,Algae,Galaxaura,Live,68
+754,Samara,9,Algae,Turf algae,Live,12
+754,Samara,9,CCA,Pink CCA,Live,4
+754,Samara,9,CCA,Red CCA,Live,4
+754,Samara,9,CCA,White CCA,Live,8
+755,Samara,9,Algae,Galaxaura,Live,12
+755,Samara,9,Algae,Turf algae,Live,72
+755,Samara,9,CCA,White CCA,Live,8
+755,Samara,9,Hard Coral,Psammocora stellata,Live,8
+756,Samara,9,Algae,Galaxaura,Live,4
+756,Samara,9,Algae,Turf algae,Live,92
+757,Samara,9,Algae,Galaxaura,Live,4
+757,Samara,9,Algae,Turf algae,Live,60
+757,Samara,9,CCA,Pink CCA,Live,4
+757,Samara,9,CCA,White CCA,Live,4
+757,Samara,9,Hard Coral,Pocillopora effusa,Live,28
+758,Samara,9,Algae,Caulerpa spp.,Live,12
+758,Samara,9,Algae,Turf algae,Live,76
+758,Samara,9,Hard Coral,Pocillopora effusa,Live,12
+759,Samara,9,Algae,Caulerpa spp.,Live,4
+759,Samara,9,Algae,Galaxaura,Live,8
+759,Samara,9,Algae,Turf algae,Live,72
+759,Samara,9,CCA,White CCA,Live,4
+759,Samara,9,Hard Coral,Pocillopora effusa,Live,12
+760,Samara,9,Algae,Galaxaura,Live,8
+760,Samara,9,Algae,Turf algae,Live,88
+760,Samara,9,Hard Coral,Pocillopora effusa,Live,4
+761,Samara,9,Algae,Caulerpa spp.,Live,4
+761,Samara,9,Algae,Galaxaura,Live,12
+761,Samara,9,Algae,Turf algae,Live,68
+761,Samara,9,Hard Coral,Pocillopora effusa,Live,8
+761,Samara,9,Substrate,Gravel,Non-live,4
+762,Samara,9,Algae,Caulerpa spp.,Live,4
+762,Samara,9,Algae,Galaxaura,Live,24
+762,Samara,9,Algae,Turf algae,Live,56
+762,Samara,9,CCA,White CCA,Live,12
+762,Samara,9,Hard Coral,Psammocora stellata,Live,4
+763,Samara,9,Algae,Caulerpa spp.,Live,4
+763,Samara,9,Algae,Galaxaura,Live,20
+763,Samara,9,Algae,Turf algae,Live,64
+763,Samara,9,CCA,White CCA,Live,8
+763,Samara,9,Substrate,Gravel,Non-live,4
+764,Samara,9,Algae,Galaxaura,Live,12
+764,Samara,9,Algae,Turf algae,Live,84
+764,Samara,9,CCA,White CCA,Live,4
+765,Samara,9,Algae,Galaxaura,Live,8
+765,Samara,9,Algae,Turf algae,Live,88
+765,Samara,9,Hard Coral,Pocillopora effusa,Live,4
+766,Samara,9,Algae,Caulerpa spp.,Live,4
+766,Samara,9,Algae,Turf algae,Live,88
+766,Samara,9,CCA,Red CCA,Live,4
+766,Samara,9,CCA,White CCA,Live,4
+767,Samara,9,Algae,Caulerpa spp.,Live,4
+767,Samara,9,Algae,Galaxaura,Live,4
+767,Samara,9,Algae,Turf algae,Live,84
+767,Samara,9,CCA,Pink CCA,Live,4
+767,Samara,9,CCA,White CCA,Live,4
+768,Samara,9,Algae,Galaxaura,Live,8
+768,Samara,9,Algae,Turf algae,Live,60
+768,Samara,9,Hard Coral,Pocillopora effusa,Live,28
+769,Samara,9,Algae,Galaxaura,Live,4
+769,Samara,9,Algae,Turf algae,Live,84
+769,Samara,9,Hard Coral,Pocillopora effusa,Live,12
+770,Samara,9,Algae,Caulerpa spp.,Live,8
+770,Samara,9,Algae,Galaxaura,Live,12
+770,Samara,9,Algae,Turf algae,Live,64
+770,Samara,9,CCA,Pink CCA,Live,8
+770,Samara,9,CCA,Red CCA,Live,4
+770,Samara,9,Soft Coral,Soft Coral,Non-live,4
+771,Samara,9,Algae,Galaxaura,Live,20
+771,Samara,9,Algae,Turf algae,Live,48
+771,Samara,9,CCA,Red CCA,Live,4
+771,Samara,9,CCA,White CCA,Live,4
+771,Samara,9,Hard Coral,Psammocora stellata,Live,24
+772,Samara,9,Algae,Caulerpa spp.,Live,4
+772,Samara,9,Algae,Galaxaura,Live,20
+772,Samara,9,Algae,Turf algae,Live,64
+772,Samara,9,Hard Coral,Psammocora stellata,Live,12
+773,Samara,9,Algae,Galaxaura,Live,24
+773,Samara,9,Algae,Turf algae,Live,72
+773,Samara,9,CCA,White CCA,Live,4
+774,Samara,9,Algae,Galaxaura,Live,52
+774,Samara,9,Algae,Turf algae,Live,44
+774,Samara,9,CCA,White CCA,Live,4
+775,Samara,9,Algae,Galaxaura,Live,12
+775,Samara,9,Algae,Turf algae,Live,64
+775,Samara,9,CCA,Pink CCA,Live,4
+775,Samara,9,CCA,White CCA,Live,12
+775,Samara,9,Hard Coral,Psammocora stellata,Live,8
+776,Samara,9,Algae,Caulerpa spp.,Live,4
+776,Samara,9,Algae,Galaxaura,Live,20
+776,Samara,9,Algae,Turf algae,Live,68
+776,Samara,9,Hard Coral,Pocillopora effusa,Live,8
+777,Samara,9,Algae,Galaxaura,Live,36
+777,Samara,9,Algae,Turf algae,Live,36
+777,Samara,9,CCA,Red CCA,Live,4
+777,Samara,9,CCA,White CCA,Live,8
+777,Samara,9,Hard Coral,Psammocora stellata,Live,16
+778,Samara,9,Algae,Galaxaura,Live,12
+778,Samara,9,Algae,Turf algae,Live,64
+778,Samara,9,CCA,Pink CCA,Live,4
+778,Samara,9,CCA,White CCA,Live,12
+778,Samara,9,Hard Coral,Pocillopora effusa,Live,8
+779,Samara,9,Algae,Caulerpa spp.,Live,16
+779,Samara,9,Algae,Galaxaura,Live,4
+779,Samara,9,Algae,Turf algae,Live,60
+779,Samara,9,CCA,Pink CCA,Live,4
+779,Samara,9,CCA,White CCA,Live,4
+779,Samara,9,Hard Coral,Pocillopora effusa,Live,12
+780,Samara,9,Algae,Caulerpa spp.,Live,16
+780,Samara,9,Algae,Galaxaura,Live,28
+780,Samara,9,Algae,Turf algae,Live,36
+780,Samara,9,Hard Coral,Porites lobata,Live,20
+781,Samara,9,Algae,Turf algae,Live,80
+781,Samara,9,CCA,Pink CCA,Live,4
+781,Samara,9,Substrate,Sand,Non-live,16
+782,Samara,9,Algae,Galaxaura,Live,28
+782,Samara,9,Algae,Turf algae,Live,68
+783,Samara,9,Algae,Galaxaura,Live,12
+783,Samara,9,Algae,Turf algae,Live,56
+783,Samara,9,CCA,White CCA,Live,24
+783,Samara,9,Hard Coral,Psammocora stellata,Live,4
+784,Samara,9,Algae,Galaxaura,Live,32
+784,Samara,9,Algae,Turf algae,Live,60
+785,Samara,9,Algae,Turf algae,Live,48
+785,Samara,9,Hard Coral,Porites lobata,Live,52
+786,Samara,9,Algae,Caulerpa spp.,Live,4
+786,Samara,9,Algae,Galaxaura,Live,8
+786,Samara,9,Algae,Turf algae,Live,84
+786,Samara,9,CCA,White CCA,Live,4
+787,Samara,9,Algae,Galaxaura,Live,4
+787,Samara,9,Algae,Turf algae,Live,88
+787,Samara,9,Hard Coral,Pocillopora effusa,Live,8
+788,Samara,9,CCA,White CCA,Live,4
+788,Samara,9,Hard Coral,Porites lobata,Live,88
+789,Samara,9,Algae,Galaxaura,Live,4
+789,Samara,9,Algae,Turf algae,Live,84
+789,Samara,9,CCA,Red CCA,Live,4
+789,Samara,9,CCA,White CCA,Live,4
+789,Samara,9,Hard Coral,Pocillopora effusa,Live,4
+790,Samara,9,Algae,Turf algae,Live,100
+791,Samara,9,Algae,Galaxaura,Live,28
+791,Samara,9,Algae,Turf algae,Live,60
+791,Samara,9,CCA,Pink CCA,Live,4
+791,Samara,9,CCA,White CCA,Live,8
+792,Samara,9,Algae,Galaxaura,Live,40
+792,Samara,9,Algae,Turf algae,Live,56
+792,Samara,9,Soft Coral,Soft Coral,Non-live,4
+793,Samara,9,Algae,Galaxaura,Live,20
+793,Samara,9,Algae,Turf algae,Live,60
+793,Samara,9,CCA,Pink CCA,Live,4
+793,Samara,9,CCA,White CCA,Live,16
+794,Samara,9,Algae,Caulerpa spp.,Live,4
+794,Samara,9,Algae,Turf algae,Live,80
+794,Samara,9,CCA,Pink CCA,Live,4
+794,Samara,9,Hard Coral,Porites lobata,Live,4
+794,Samara,9,Substrate,Gravel,Non-live,8
+795,Samara,9,Algae,Galaxaura,Live,12
+795,Samara,9,Algae,Turf algae,Live,76
+795,Samara,9,Hard Coral,Pocillopora effusa,Live,8
+796,Samara,9,Algae,Galaxaura,Live,24
+796,Samara,9,Algae,Turf algae,Live,56
+796,Samara,9,CCA,White CCA,Live,16
+797,Samara,9,Algae,Galaxaura,Live,8
+797,Samara,9,Algae,Turf algae,Live,92
+798,Samara,9,Algae,Galaxaura,Live,4
+798,Samara,9,Algae,Turf algae,Live,88
+798,Samara,9,CCA,White CCA,Live,4
+798,Samara,9,Diadema,Diadema sp,Live,4
+799,Samara,9,Algae,Turf algae,Live,92
+799,Samara,9,CCA,White CCA,Live,8
+800,Samara,9,Algae,Galaxaura,Live,4
+800,Samara,9,Algae,Turf algae,Live,84
+800,Samara,9,CCA,Pink CCA,Live,4
+800,Samara,9,CCA,Red CCA,Live,4
+801,Samara,9,Algae,Galaxaura,Live,20
+801,Samara,9,Algae,Turf algae,Live,72
+801,Samara,9,Hard Coral,Psammocora stellata,Live,8
+802,Samara,9,Algae,Caulerpa spp.,Live,4
+802,Samara,9,Algae,Galaxaura,Live,40
+802,Samara,9,Algae,Turf algae,Live,56
+803,Samara,9,Algae,Galaxaura,Live,36
+803,Samara,9,Algae,Turf algae,Live,52
+803,Samara,9,CCA,Pink CCA,Live,4
+803,Samara,9,CCA,White CCA,Live,8
+804,Samara,9,Algae,Galaxaura,Live,24
+804,Samara,9,Algae,Turf algae,Live,76
+805,Samara,9,Algae,Caulerpa spp.,Live,16
+805,Samara,9,Algae,Galaxaura,Live,44
+805,Samara,9,Algae,Turf algae,Live,28
+805,Samara,9,CCA,White CCA,Live,8
+805,Samara,9,Hard Coral,Psammocora stellata,Live,4
+806,Samara,9,Algae,Galaxaura,Live,24
+806,Samara,9,Algae,Turf algae,Live,60
+806,Samara,9,CCA,Pink CCA,Live,4
+806,Samara,9,CCA,White CCA,Live,4
+806,Samara,9,Hard Coral,Psammocora stellata,Live,8
+807,Samara,9,Algae,Turf algae,Live,80
+807,Samara,9,CCA,Pink CCA,Live,8
+807,Samara,9,CCA,White CCA,Live,4
+807,Samara,9,Hard Coral,Porites lobata,Live,4
+807,Samara,9,Substrate,Rock,Non-live,4
+808,Samara,9,Algae,Galaxaura,Live,20
+808,Samara,9,Algae,Turf algae,Live,68
+808,Samara,9,CCA,Red CCA,Live,4
+808,Samara,9,CCA,White CCA,Live,8
+809,Samara,9,Algae,Caulerpa spp.,Live,16
+809,Samara,9,Algae,Galaxaura,Live,28
+809,Samara,9,Algae,Turf algae,Live,48
+809,Samara,9,CCA,Red CCA,Live,4
+809,Samara,9,CCA,White CCA,Live,4
+810,Samara,9,Algae,Caulerpa spp.,Live,4
+810,Samara,9,Algae,Galaxaura,Live,20
+810,Samara,9,Algae,Turf algae,Live,72
+810,Samara,9,CCA,Pink CCA,Live,4
+811,Samara,10,Algae,Galaxaura,Live,4
+811,Samara,10,Algae,Turf algae,Live,68
+811,Samara,10,CCA,Pink CCA,Live,8
+811,Samara,10,CCA,Red CCA,Live,8
+811,Samara,10,Hard Coral,Porites lobata,Live,4
+811,Samara,10,Substrate,Rock,Non-live,4
+812,Samara,10,Algae,Turf algae,Live,76
+812,Samara,10,CCA,Pink CCA,Live,4
+812,Samara,10,CCA,Red CCA,Live,20
+813,Samara,10,Algae,Turf algae,Live,72
+813,Samara,10,CCA,Pink CCA,Live,12
+813,Samara,10,CCA,White CCA,Live,4
+813,Samara,10,Hard Coral,Porites lobata,Live,12
+814,Samara,10,Algae,Turf algae,Live,88
+814,Samara,10,CCA,White CCA,Live,8
+815,Samara,10,Algae,Turf algae,Live,64
+815,Samara,10,CCA,Pink CCA,Live,20
+815,Samara,10,CCA,Red CCA,Live,4
+815,Samara,10,CCA,White CCA,Live,8
+816,Samara,10,Algae,Turf algae,Live,88
+816,Samara,10,CCA,Pink CCA,Live,12
+817,Samara,10,Algae,Turf algae,Live,72
+817,Samara,10,CCA,Pink CCA,Live,4
+817,Samara,10,Hard Coral,Porites lobata,Live,4
+817,Samara,10,Sponge,Sponge,Non-live,8
+817,Samara,10,Substrate,Gravel,Non-live,4
+817,Samara,10,Substrate,Sand,Non-live,4
+818,Samara,10,Algae,Turf algae,Live,92
+818,Samara,10,CCA,Pink CCA,Live,4
+818,Samara,10,Substrate,Gravel,Non-live,4
+819,Samara,10,Algae,Turf algae,Live,68
+819,Samara,10,CCA,Pink CCA,Live,8
+819,Samara,10,CCA,Red CCA,Live,12
+820,Samara,10,Algae,Turf algae,Live,76
+820,Samara,10,CCA,Pink CCA,Live,8
+820,Samara,10,CCA,Red CCA,Live,12
+820,Samara,10,CCA,White CCA,Live,4
+821,Samara,10,Algae,Turf algae,Live,64
+821,Samara,10,CCA,Pink CCA,Live,16
+821,Samara,10,CCA,Red CCA,Live,8
+821,Samara,10,Hard Coral,Porites lobata,Live,4
+821,Samara,10,Substrate,Sand,Non-live,4
+822,Samara,10,Algae,Turf algae,Live,64
+822,Samara,10,Ascidian,Ascidian (solitary),Live,4
+822,Samara,10,CCA,Pink CCA,Live,20
+822,Samara,10,CCA,Red CCA,Live,4
+822,Samara,10,Hard Coral,Porites lobata,Live,4
+823,Samara,10,Algae,Turf algae,Live,64
+823,Samara,10,CCA,Pink CCA,Live,24
+823,Samara,10,CCA,Red CCA,Live,4
+823,Samara,10,Hard Coral,Porites lobata,Live,4
+824,Samara,10,Algae,Turf algae,Live,80
+824,Samara,10,CCA,Pink CCA,Live,8
+824,Samara,10,CCA,White CCA,Live,4
+824,Samara,10,Soft Coral,Soft Coral,Non-live,4
+825,Samara,10,Algae,Turf algae,Live,76
+825,Samara,10,Substrate,Sand,Non-live,24
+826,Samara,10,Algae,Galaxaura,Live,4
+826,Samara,10,Algae,Turf algae,Live,76
+826,Samara,10,CCA,Red CCA,Live,8
+826,Samara,10,Hard Coral,Porites lobata,Live,4
+826,Samara,10,Substrate,Sand,Non-live,4
+827,Samara,10,Algae,Turf algae,Live,80
+827,Samara,10,CCA,Pink CCA,Live,4
+827,Samara,10,CCA,Red CCA,Live,4
+827,Samara,10,Hard Coral,Porites lobata,Live,12
+828,Samara,10,Algae,Turf algae,Live,80
+828,Samara,10,Ascidian,Ascidian (colonial),Live,4
+828,Samara,10,CCA,Pink CCA,Live,4
+828,Samara,10,Soft Coral,Soft Coral,Non-live,8
+829,Samara,10,Algae,Turf algae,Live,84
+829,Samara,10,Ascidian,Ascidian (colonial),Live,4
+829,Samara,10,Substrate,Sand,Non-live,12
+830,Samara,10,Algae,Turf algae,Live,84
+830,Samara,10,CCA,Red CCA,Live,8
+830,Samara,10,Substrate,Sand,Non-live,8
+831,Samara,10,Algae,Turf algae,Live,76
+831,Samara,10,CCA,Pink CCA,Live,4
+831,Samara,10,CCA,Red CCA,Live,4
+831,Samara,10,Soft Coral,Soft Coral,Non-live,16
+832,Samara,10,Algae,Turf algae,Live,68
+832,Samara,10,CCA,Red CCA,Live,8
+832,Samara,10,CCA,White CCA,Live,4
+832,Samara,10,Soft Coral,Soft Coral,Non-live,16
+833,Samara,10,Algae,Turf algae,Live,80
+833,Samara,10,CCA,Pink CCA,Live,4
+833,Samara,10,CCA,White CCA,Live,4
+833,Samara,10,Soft Coral,Soft Coral,Non-live,8
+834,Samara,10,Algae,Turf algae,Live,80
+834,Samara,10,CCA,Pink CCA,Live,4
+834,Samara,10,CCA,Red CCA,Live,4
+834,Samara,10,CCA,White CCA,Live,8
+835,Samara,10,Algae,Galaxaura,Live,4
+835,Samara,10,Algae,Turf algae,Live,68
+835,Samara,10,CCA,Pink CCA,Live,4
+835,Samara,10,CCA,White CCA,Live,12
+835,Samara,10,Soft Coral,Soft Coral,Non-live,8
+836,Samara,10,Algae,Galaxaura,Live,12
+836,Samara,10,Algae,Turf algae,Live,84
+836,Samara,10,CCA,Pink CCA,Live,4
+837,Samara,10,Algae,Galaxaura,Live,4
+837,Samara,10,Algae,Turf algae,Live,40
+837,Samara,10,CCA,Pink CCA,Live,24
+837,Samara,10,CCA,Red CCA,Live,12
+837,Samara,10,CCA,White CCA,Live,4
+837,Samara,10,Soft Coral,Soft Coral,Non-live,12
+838,Samara,10,Algae,Turf algae,Live,44
+838,Samara,10,Soft Coral,Soft Coral,Non-live,56
+839,Samara,10,Algae,Turf algae,Live,44
+839,Samara,10,Ascidian,Ascidian (solitary),Live,4
+839,Samara,10,CCA,Pink CCA,Live,4
+839,Samara,10,CCA,White CCA,Live,4
+839,Samara,10,Soft Coral,Soft Coral,Non-live,40
+840,Samara,10,Algae,Galaxaura,Live,4
+840,Samara,10,Algae,Turf algae,Live,68
+840,Samara,10,CCA,Pink CCA,Live,20
+840,Samara,10,CCA,White CCA,Live,8
+841,Samara,10,Algae,Galaxaura,Live,4
+841,Samara,10,Algae,Turf algae,Live,80
+841,Samara,10,CCA,Pink CCA,Live,4
+841,Samara,10,CCA,White CCA,Live,8
+841,Samara,10,Soft Coral,Soft Coral,Non-live,4
