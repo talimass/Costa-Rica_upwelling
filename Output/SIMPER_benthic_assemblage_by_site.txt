@@ -1,0 +1,6 @@
+cumulative contributions of most influential species:
+
+$Papagayo_Samara
+     Algae        CCA Hard Coral 
+ 0.4120577  0.6803177  0.9000701 
+
